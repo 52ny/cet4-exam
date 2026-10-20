@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="大学英语四级真题在线训练：2026年6月真题、在线答题、AI作文批改、高频词总结。">
+  <title>大学英语四级 · 真题训练</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📘</text></svg>">
+</head>
+<body>
+  <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+  <aside class="sidebar" id="sidebar">
+    <a class="brand" href="#/">
+      <span class="brand-mark">C4</span>
+      <span class="brand-text">
+        <strong>四级真题训练</strong>
+        <small>CET-4 Practice</small>
+      </span>
+    </a>
+    <nav class="nav" id="sidebarNav" aria-label="主导航"></nav>
+    <div class="sidebar-foot">
+      <button class="ghost-btn" id="settingsBtn" type="button">
+        <span class="ico">⚙</span> AI 批改设置
+      </button>
+      <button class="ghost-btn" id="themeBtn" type="button">
+        <span class="ico" id="themeIcon">◐</span> <span id="themeLabel">深色模式</span>
+      </button>
+      <p class="sidebar-note">题目据公开真题整理<br>仅供个人备考使用</p>
+    </div>
+  </aside>
+
+  <div class="main">
+    <header class="topbar">
+      <button class="icon-btn menu-btn" id="menuBtn" aria-label="打开导航">☰</button>
+      <div class="crumbs" id="crumbs"></div>
+      <div class="topbar-actions">
+        <span class="global-progress" id="globalProgress" title="整体完成进度"></span>
+        <button class="icon-btn" id="settingsBtnTop" aria-label="AI 批改设置">⚙</button>
+      </div>
+    </header>
+
+    <main class="view" id="app" tabindex="-1"></main>
+
+    <footer class="footer">
+      <span>以 2026 年上半年真题为起点 · 在线答题 · AI 批改 · 高频词沉淀</span>
+      <span id="footMeta"></span>
+    </footer>
+  </div>
+
+  <!-- 词汇卡片 -->
+  <div class="modal" id="wordModal" role="dialog" aria-modal="true" aria-labelledby="wordModalTitle">
+    <div class="modal-card word-card">
+      <button class="modal-close" data-close="wordModal" aria-label="关闭">×</button>
+      <div id="wordModalBody"></div>
+    </div>
+  </div>
+
+  <!-- AI 设置 -->
+  <div class="modal" id="settingsModal" role="dialog" aria-modal="true" aria-labelledby="settingsTitle">
+    <div class="modal-card">
+      <button class="modal-close" data-close="settingsModal" aria-label="关闭">×</button>
+      <h2 id="settingsTitle">AI 批改设置</h2>
+      <p class="modal-intro">
+        填写任一 OpenAI 兼容接口即可启用 AI 批改。密钥只保存在当前浏览器的 localStorage，不会上传到本项目的任何服务器。留空则使用内置的本地评分。
+      </p>
+      <div class="field">
+        <label for="providerSelect">服务商</label>
+        <select id="providerSelect">
+          <option value="deepseek">DeepSeek（推荐）</option>
+          <option value="openai">OpenAI</option>
+          <option value="custom">自定义（OpenAI 兼容）</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="baseUrlInput">接口地址 Base URL</label>
+        <input id="baseUrlInput" type="url" placeholder="https://api.deepseek.com/v1" autocomplete="off">
+      </div>
+      <div class="field">
+        <label for="modelInput">模型</label>
+        <input id="modelInput" type="text" placeholder="deepseek-chat" autocomplete="off">
+      </div>
+      <div class="field">
+        <label for="apiKeyInput">API Key</label>
+        <input id="apiKeyInput" type="password" placeholder="sk-..." autocomplete="off">
+      </div>
+      <div class="modal-actions">
+        <button class="btn subtle" id="clearDataBtn" type="button">清除本地学习数据</button>
+        <span class="spacer"></span>
+        <button class="btn" data-close="settingsModal" type="button">取消</button>
+        <button class="btn primary" id="saveSettingsBtn" type="button">保存</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
