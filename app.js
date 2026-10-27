@@ -706,7 +706,7 @@
         <div class="mcq-list" style="margin-top:18px">
           ${p.questions.map((q) => `<div class="mcq" data-q="${q.id}">
             <div class="stem"><span class="q-no">${q.id}.</span>${esc(q.stem)}</div>
-            ${q.options.map((o) => `<label class="option" data-key="${o.key}">
+            ${(q.options || []).map((o) => `<label class="option" data-key="${o.key}">
               <input type="radio" name="q-${q.id}" value="${o.key}" ${draft[q.id] === o.key ? "checked" : ""}>
               <span><span class="ok">${o.key})</span>${esc(o.text)}</span>
             </label>`).join("")}

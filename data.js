@@ -1793,7 +1793,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2025-12-3",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -1806,33 +1806,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What do we learn about New York's Eleven Madison Park?A)It is the first vegan restaurant to receive the highest Michelin rating.",
+                "stem": "What do we learn about New York's Eleven Madison Park?",
                 "answer": "A",
-                "explanation": "答案为 A。"
+                "explanation": "答案为 A。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It is the first vegan restaurant to receive the highest Michelin rating."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is the first restaurant in the city to remove meat from its menu."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It was famed throughout the U.S. for its fancy regional dishes."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It was established as a three-star Michelin restaurant in 2011."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "Why did Daniel Humm decide to remove meat from the menu of his restaurant?A)To encourage more customers to be vegan.",
+                "stem": "Why did Daniel Humm decide to remove meat from the menu of his restaurant?",
                 "answer": "B",
-                "explanation": "答案为 B。"
+                "explanation": "答案为 B。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "To encourage more customers to be vegan."
+                  },
+                  {
+                    "key": "B",
+                    "text": "To contribute to a sustainable food system."
+                  },
+                  {
+                    "key": "C",
+                    "text": "To show the appeal of a plant-based menu."
+                  },
+                  {
+                    "key": "D",
+                    "text": "To strive for the three-star Michelin rating."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What did Daniel Humm think of his move to a meat-free menu?A)It was a worthwhile effort even though he was unsure of its success.",
+                "stem": "What did Daniel Humm think of his move to a meat-free menu?",
                 "answer": "A",
-                "explanation": "答案为 A。"
+                "explanation": "答案为 A。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It was a worthwhile effort even though he was unsure of its success."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It would set a model for many more restaurants to follow."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It was a mad gamble few chefs in the fine dining world would risk taking."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It would prove a right step to take in today's catering business."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What does Michelin's 2022 New York guide say about Eleven Madison Park's decision?A)It elevates the restaurant's cooking to an art form.",
+                "stem": "What does Michelin's 2022 New York guide say about Eleven Madison Park's decision?",
                 "answer": "C",
-                "explanation": "答案为 C。"
+                "explanation": "答案为 C。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It elevates the restaurant's cooking to an art form."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It proves the validity of ratings awarded by Michelin."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It shows a daring foresight regarding future fine dining."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It is an effort to transform the restaurant into a luxury one."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What does the awarding of three Michelin stars to Eleven Madison Park indicate?A)An optimistic vision of vegan foods becoming mainstream.",
+                "stem": "What does the awarding of three Michelin stars to Eleven Madison Park indicate?",
                 "answer": "D",
-                "explanation": "答案为 D。"
+                "explanation": "答案为 D。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "An optimistic vision of vegan foods becoming mainstream."
+                  },
+                  {
+                    "key": "B",
+                    "text": "A greater responsibility for the culinary world to undertake."
+                  },
+                  {
+                    "key": "C",
+                    "text": "A strong incentive for more restaurants to offer healthier foods to their customers."
+                  },
+                  {
+                    "key": "D",
+                    "text": "An explicit recognition of the rising importance of restaurants serving vegan foods."
+                  }
+                ]
               }
             ]
           },
@@ -1842,33 +1932,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What does the passage say is of importance regarding genetic tests?A)Knowing their accuracy.",
+                "stem": "What does the passage say is of importance regarding genetic tests?",
                 "answer": "A",
-                "explanation": "选 A。P1Whether you are taking a DNA test to build your extended DNA family tree, or want precise information on inborn health conditions, it is important to understand how accurate genetic tests are, and what information we can rely upon. 无论你是为了构建延伸的 DNA…"
+                "explanation": "选 A。P1Whether you are taking a DNA test to build your extended DNA family tree, or want precise information on inborn health conditions, it is important to understand how accurate genetic tests are, and what information we can rely upon. 无论你是为了构建延伸的 DNA…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Knowing their accuracy."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Evaluating their applicability."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Utilizing the information they provide."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Weighing the consequences they have."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What kind of genetic tests tend to be comparatively reliable?A)Those complex enough to reveal the genetics behind a trait.",
+                "stem": "What kind of genetic tests tend to be comparatively reliable?",
                 "answer": "D",
-                "explanation": "选 D。P2For example, tests for traits that depend on a single gene provide much more reliable results, because you can see whether a disease-causing trait is present. 举个例子，对于那些只依赖单个基因的性状，相关检测能给出准确得多的结果，因为你可以直接看到致病性状到底存不存在。"
+                "explanation": "选 D。P2For example, tests for traits that depend on a single gene provide much more reliable results, because you can see whether a disease-causing trait is present. 举个例子，对于那些只依赖单个基因的性状，相关检测能给出准确得多的结果，因为你可以直接看到致病性状到底存不存在。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Those complex enough to reveal the genetics behind a trait."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Those looking for traits responsible for certain diseases."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Those focusing on the specific questions being asked."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Those looking for traits determined by a single gene."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What do we learn about genetic health tests from the passage?A)They are unable to identify certain hereditary diseases by themselves.",
+                "stem": "What do we learn about genetic health tests from the passage?",
                 "answer": "C",
-                "explanation": "选 C。P5While certain rare diseases can be easily identified, most potential health conditions cannot be identified by genetic testing alone. 虽然某些罕见疾病能轻松识别出来，但大多数潜在的健康问题靠基因检测一项是查不出来的。"
+                "explanation": "选 C。P5While certain rare diseases can be easily identified, most potential health conditions cannot be identified by genetic testing alone. 虽然某些罕见疾病能轻松识别出来，但大多数潜在的健康问题靠基因检测一项是查不出来的。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They are unable to identify certain hereditary diseases by themselves."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are generally unable to separate genetic and non-genetic factors."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They cannot independently identify the majority of potential diseases."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They cannot tell apart the impact of lifestyle and that of the environment."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What makes genetic tests for multi-factorial traits tricky to interpret?A)The challenge in determining the role of each individual gene.",
+                "stem": "What makes genetic tests for multi-factorial traits tricky to interpret?",
                 "answer": "B",
-                "explanation": "选 B。P6A test can look at many genes at once, but it's difficult to predict how they will play together. 一次基因检测可以同时查看许多基因，但很难预测这些基因放在一起会怎么\"协作\"。"
+                "explanation": "选 B。P6A test can look at many genes at once, but it's difficult to predict how they will play together. 一次基因检测可以同时查看许多基因，但很难预测这些基因放在一起会怎么\"协作\"。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "The challenge in determining the role of each individual gene."
+                  },
+                  {
+                    "key": "B",
+                    "text": "The difficulty of foretelling how the various genes will interact."
+                  },
+                  {
+                    "key": "C",
+                    "text": "The difficulty of telling genetic factors from environmental ones."
+                  },
+                  {
+                    "key": "D",
+                    "text": "The enormous work to identify the hundreds of genes involved."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What does the passage say about DNA tests to predict personality or talents?A)They are solid scientific bases for application.",
+                "stem": "What does the passage say about DNA tests to predict personality or talents?",
                 "answer": "D",
-                "explanation": "选 D。P7Tests that offer to find your perfect romantic match and those claiming to predict personality or talents based on your DNA are pure nonsense. At the moment, the scientific bases for these applications are non-existent or incredibly weak. 那些声称能帮你找…"
+                "explanation": "选 D。P7Tests that offer to find your perfect romantic match and those claiming to predict personality or talents based on your DNA are pure nonsense. At the moment, the scientific bases for these applications are non-existent or incredibly weak. 那些声称能帮你找…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They are solid scientific bases for application."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are helpful in finding a romantic match."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They do not look promising at the moment."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They do not make any sense at present."
+                  }
+                ]
               }
             ]
           }
@@ -3575,7 +3755,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2025-12-2",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -3588,33 +3768,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What do we learn about advertising campaigns from the snack food companies?A)They convey the idea that their products are ok if consumers exercise more.",
+                "stem": "What do we learn about advertising campaigns from the snack food companies?",
                 "answer": "A",
-                "explanation": "答案为 A。"
+                "explanation": "答案为 A。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They convey the idea that their products are ok if consumers exercise more."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They send the message that bad diets are responsible for Americans' obesity."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They usually feature sports stars to emphasize the benefits of their snack foods."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They claim that lack of exercise is to blame for the increasing obesity rates."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What does the passage say about health education?A)It has shed light on teens' instinct for rebellion and autonomy.",
+                "stem": "What does the passage say about health education?",
                 "answer": "D",
-                "explanation": "答案为 D。"
+                "explanation": "答案为 D。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It has shed light on teens' instinct for rebellion and autonomy."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It has placed much more emphasis on cure than on prevention."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It has contributed little to the campaigns against obesity."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It has largely failed to turn teens away from junk food."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What is a major flaw in previous interventions to help reduce junk food consumption?A)They motivated teens to stay away from junk food only temporarily.",
+                "stem": "What is a major flaw in previous interventions to help reduce junk food consumption?",
                 "answer": "B",
-                "explanation": "答案为 B。"
+                "explanation": "答案为 B。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They motivated teens to stay away from junk food only temporarily."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They focused on the benefits young people would reap in the future."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They were based on the assumption that motivation was the only key."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They were incapable of appealing to teens' instinct for rebelliousness."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "In what way is the new intervention innovative?A)It emphasizes people's sense of social responsibility.",
+                "stem": "In what way is the new intervention innovative?",
                 "answer": "C",
-                "explanation": "答案为 C。"
+                "explanation": "答案为 C。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It emphasizes people's sense of social responsibility."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It cleverly exploits teenagers' personal weaknesses."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It takes advantage of teenagers' natural inclination."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It promises immediate rather than future benefits."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What conclusion can be drawn from the new research?A)A totally different approach could be adopted to combat advertising campaigns for snack food.",
+                "stem": "What conclusion can be drawn from the new research?",
                 "answer": "C",
-                "explanation": "答案为 C。"
+                "explanation": "答案为 C。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "A totally different approach could be adopted to combat advertising campaigns for snack food."
+                  },
+                  {
+                    "key": "B",
+                    "text": "An effective intervention has to be found to persuade teenagers to switch to a healthier lifestyle."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Obesity can be hopefully prevented by building links between teenagers' values and healthy eating."
+                  },
+                  {
+                    "key": "D",
+                    "text": "An innovative way to beat obesity is to expose food companies' manipulative and deceptive practices."
+                  }
+                ]
               }
             ]
           },
@@ -3624,33 +3894,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What do scientists think of REM?A)It is a sign of dreaming in adults and infants alike.",
+                "stem": "What do scientists think of REM?",
                 "answer": "D",
-                "explanation": "选 D。P2But scientists believe REM serves a completely different purpose for newborns and infants than dreaming. 但科学家认为，对新生儿和婴儿而言，REM 所起的作用与做梦完全不同。"
+                "explanation": "选 D。P2But scientists believe REM serves a completely different purpose for newborns and infants than dreaming. 但科学家认为，对新生儿和婴儿而言，REM 所起的作用与做梦完全不同。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It is a sign of dreaming in adults and infants alike."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is essential to human beings' language learning."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It determines the formation of connections in the brain."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It performs a different function in babies than in adults."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What can we infer about nightmares from the passage?A)They occur often in people with an active imagination.",
+                "stem": "What can we infer about nightmares from the passage?",
                 "answer": "B",
-                "explanation": "选 B。P3Nightmares stem from exposure to trauma(创伤), an overactive imagination, and the normal stresses of everyday life. 噩梦源于创伤经历、过度活跃的想象，以及日常生活中的正常压力。"
+                "explanation": "选 B。P3Nightmares stem from exposure to trauma(创伤), an overactive imagination, and the normal stresses of everyday life. 噩梦源于创伤经历、过度活跃的想象，以及日常生活中的正常压力。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They occur often in people with an active imagination."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They occur in people suffering from emotional stress."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They vary in different stages of brain development."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They appear in the sleep of both adults and infants."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What is the aim of psychologist David Foulkes' study?A)To reveal the secrets of children's dreams.",
+                "stem": "What is the aim of psychologist David Foulkes' study?",
                 "answer": "A",
-                "explanation": "选 A。P4Psychologist David Foulkes studies children (from very small kids to teens) to bring the secrets of their dreams to the light of day. 心理学家 David Foulkes 研究儿童（从年幼孩童到青少年），目的是把他们梦境的秘密揭示于人前。"
+                "explanation": "选 A。P4Psychologist David Foulkes studies children (from very small kids to teens) to bring the secrets of their dreams to the light of day. 心理学家 David Foulkes 研究儿童（从年幼孩童到青少年），目的是把他们梦境的秘密揭示于人前。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "To reveal the secrets of children's dreams."
+                  },
+                  {
+                    "key": "B",
+                    "text": "To see if children start dreaming at age two."
+                  },
+                  {
+                    "key": "C",
+                    "text": "To solve the mystery of dreaming and brain growth."
+                  },
+                  {
+                    "key": "D",
+                    "text": "To confirm the general consensus on when kids dream."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What are Foulkes' findings about kids' dreams?A)They feature strange animals.",
+                "stem": "What are Foulkes' findings about kids' dreams?",
                 "answer": "C",
-                "explanation": "选 C。P5Foulkes' findings are unsurprising. Basically, little kids have little dreams. But exactly what kids see while dreaming depends on their age. As children develop and grow, their dreams do too. Foulkes 的发现并不令人意外。本质上，小孩做的也是小梦。但孩子在梦中究竟看到什么，取决于他们的年龄。随…"
+                "explanation": "选 C。P5Foulkes' findings are unsurprising. Basically, little kids have little dreams. But exactly what kids see while dreaming depends on their age. As children develop and grow, their dreams do too. Foulkes 的发现并不令人意外。本质上，小孩做的也是小梦。但孩子在梦中究竟看到什么，取决于他们的年龄。随…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They feature strange animals."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are unsurprising to adults."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They grow and evolve with age."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They reflect kids' waking life."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What can we assume about babies who appear upset upon waking?A)They have been roused against their will.",
+                "stem": "What can we assume about babies who appear upset upon waking?",
                 "answer": "D",
-                "explanation": "选 D。P7So, if your baby seems to be in a stressful state while sleeping or is upset upon waking, there may be other factors at play. 因此，如果你的婴儿睡觉时显得紧张、或一醒来就不安，那很可能是别的因素在起作用。"
+                "explanation": "选 D。P7So, if your baby seems to be in a stressful state while sleeping or is upset upon waking, there may be other factors at play. 因此，如果你的婴儿睡觉时显得紧张、或一醒来就不安，那很可能是别的因素在起作用。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They have been roused against their will."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They have been disturbed by a nightmare."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They have trouble recollecting the images of their dreams."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They have been affected by something other than dreaming."
+                  }
+                ]
               }
             ]
           }
@@ -5199,7 +5559,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2025-12-1",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -5212,33 +5572,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What do we learn from the passage about the timing of our behaviors?A)It has a considerable impact on our health.",
+                "stem": "What do we learn from the passage about the timing of our behaviors?",
                 "answer": "A",
-                "explanation": "选 A。P1Consequently, all human body functions also follow this daily rhythm, and the timing of behaviors like exercise or food intake can significantly influence your health. 因此，人体的所有功能也都遵循这一日常节律，而锻炼、进食等行为的时机会显著影响你的健康。"
+                "explanation": "选 A。P1Consequently, all human body functions also follow this daily rhythm, and the timing of behaviors like exercise or food intake can significantly influence your health. 因此，人体的所有功能也都遵循这一日常节律，而锻炼、进食等行为的时机会显著影响你的健康。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It has a considerable impact on our health."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It confines us to a 24-hour day-night cycle."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It requires us to follow a particular rhythm."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It holds the key to all human body functions."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What does the author say about the proteins in our body?A)They can modify the effects of medicines in different ways.",
+                "stem": "What does the author say about the proteins in our body?",
                 "answer": "C",
-                "explanation": "选 C。P2This means that the specific proteins a drug is designed to modify can react differently to the medicine over the course of a 24-hour time period. 这意味着，药物所要作用的那些特定蛋白质，在 24 小时的进程中对药物的反应可能各不相同。"
+                "explanation": "选 C。P2This means that the specific proteins a drug is designed to modify can react differently to the medicine over the course of a 24-hour time period. 这意味着，药物所要作用的那些特定蛋白质，在 24 小时的进程中对药物的反应可能各不相同。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They can modify the effects of medicines in different ways."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They can reduce unwanted side effects of certain medicines."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Their reaction to medicines changes during the day-night cycle."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Their design determines how differently they react to medicines."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What do doctors do when prescribing medicine for people?A)They give little thought to the time of taking it for maximum effect.",
+                "stem": "What do doctors do when prescribing medicine for people?",
                 "answer": "A",
-                "explanation": "选 A。P3When doctors prescribe medicine for people, they rarely consider the best time to take it. 医生给人们开药时，很少考虑服药的最佳时间。"
+                "explanation": "选 A。P3When doctors prescribe medicine for people, they rarely consider the best time to take it. 医生给人们开药时，很少考虑服药的最佳时间。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They give little thought to the time of taking it for maximum effect."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They rarely consider which medicine works better for which patient."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They tell patients its possible side effects during a period of 24 hours."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They tell patients to comply with the directions of drug manufacturers."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "Why do doctors advise patients to take most drugs in the morning or in the evening?A)To discourage them from making complaints.",
+                "stem": "Why do doctors advise patients to take most drugs in the morning or in the evening?",
                 "answer": "B",
-                "explanation": "选 B。P3Therefore, patients are directed to take most drugs during the morning or evening primarily to ensure compliance. 因此，病人被指示在早上或晚上服用大多数药物，主要是为了确保遵医服药。"
+                "explanation": "选 B。P3Therefore, patients are directed to take most drugs during the morning or evening primarily to ensure compliance. 因此，病人被指示在早上或晚上服用大多数药物，主要是为了确保遵医服药。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "To discourage them from making complaints."
+                  },
+                  {
+                    "key": "B",
+                    "text": "To ensure they take the drugs as instructed."
+                  },
+                  {
+                    "key": "C",
+                    "text": "To comply with new research findings strictly."
+                  },
+                  {
+                    "key": "D",
+                    "text": "To guarantee the maximum effect of the drugs."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What does the author suggest near the end of the passage?A)Considering drug-taking timing when prescribing drugs for patients.",
+                "stem": "What does the author suggest near the end of the passage?",
                 "answer": "C",
-                "explanation": "选 C。【判型】What does the author suggest near the end 问作者在收尾处的整体主张，需要把末段的呼吁概括出来，而非抓某个孤立细节。 【拆句】题干 What does the author suggest near the end of the passage? 主干「作者在文章接近结尾处建议了什么」，suggest 在此是「建议、主张」，near the end of the passage 是地点状语，明确把答案锁在文章末段。这是一道带位置提示的建议题。 【…"
+                "explanation": "选 C。【判型】What does the author suggest near the end 问作者在收尾处的整体主张，需要把末段的呼吁概括出来，而非抓某个孤立细节。 【拆句】题干 What does the author suggest near the end of the passage? 主干「作者在文章接近结尾处建议了什么」，suggest 在此是「建议、主张」，near the end of the passage 是地点状语，明确把答案锁在文章末段。这是一道带位置提示的建议题。 【…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Considering drug-taking timing when prescribing drugs for patients."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Making treatments less complex by taking drug timing into account."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Conducting more studies to find out the best timing for treating different diseases."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Finding out the most effective drugs for treating diseases through further research."
+                  }
+                ]
               }
             ]
           },
@@ -5248,33 +5698,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What do we learn from the passage about the economics professor and her hairdresser?A)They differ in their reasons for continuing to work.",
+                "stem": "What do we learn from the passage about the economics professor and her hairdresser?",
                 "answer": "A",
-                "explanation": "选 A。P1The economist said she plans to continue working because she wants to. The hairdresser agreed but for a different reason: She needs the money. 经济学家说她打算继续工作，因为她想这样做。理发师也同意继续工作，但理由不同：她需要钱。"
+                "explanation": "选 A。P1The economist said she plans to continue working because she wants to. The hairdresser agreed but for a different reason: She needs the money. 经济学家说她打算继续工作，因为她想这样做。理发师也同意继续工作，但理由不同：她需要钱。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They differ in their reasons for continuing to work."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are both committed to working into their 70s."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They are happy about their current financial situation."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They hold different views about postponing retirement."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What is one of the reasons for people to delay retirement?A)More and more people have switched to less intellectually challenging jobs.",
+                "stem": "What is one of the reasons for people to delay retirement?",
                 "answer": "C",
-                "explanation": "选 C。P3In addition to people being healthier and living much longer, economists say that a combination of financial considerations such as years of slow rise in real wages and a shift away from traditional pensions in the private sector are some of the r…"
+                "explanation": "选 C。P3In addition to people being healthier and living much longer, economists say that a combination of financial considerations such as years of slow rise in real wages and a shift away from traditional pensions in the private sector are some of the r…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "More and more people have switched to less intellectually challenging jobs."
+                  },
+                  {
+                    "key": "B",
+                    "text": "The number of jobs suitable for older people has increased in the private sector."
+                  },
+                  {
+                    "key": "C",
+                    "text": "The rate of wage increase in terms of purchasing power has slowed down for years."
+                  },
+                  {
+                    "key": "D",
+                    "text": "More and more people in the workplace find it hard to rely on traditional pensions."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What is the general trend in people delaying retirement?A)The higher their earnings, the more likely they are tempted to delay retirement.",
+                "stem": "What is the general trend in people delaying retirement?",
                 "answer": "D",
-                "explanation": "选 D。P5The overall trend is hitting Americans of all different levels of educational attainment, although the percentages vary by category. The share of Americans with bachelor's degrees who were working into their 70s reached nearly 20% in 2018. For tho…"
+                "explanation": "选 D。P5The overall trend is hitting Americans of all different levels of educational attainment, although the percentages vary by category. The share of Americans with bachelor's degrees who were working into their 70s reached nearly 20% in 2018. For tho…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "The higher their earnings, the more likely they are tempted to delay retirement."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Those who have more job satisfaction tend to retire later than those who have less."
+                  },
+                  {
+                    "key": "C",
+                    "text": "More men than women are likely to stay in the labor force until their late seventies."
+                  },
+                  {
+                    "key": "D",
+                    "text": "The higher their educational level, the more likely they are to delay retirement."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What is the chief reason for college-educated workers delaying retirement according to an economist?A)Enjoying financial security.",
+                "stem": "What is the chief reason for college-educated workers delaying retirement according to an economist?",
                 "answer": "B",
-                "explanation": "选 B。P6He suggests that many college-educated workers are choosing to stay in the labor force more for social benefits than for financial reasons. 他指出，许多受过大学教育的劳动者选择继续留在劳动力市场，更多是出于社交方面的好处，而不是经济原因。"
+                "explanation": "选 B。P6He suggests that many college-educated workers are choosing to stay in the labor force more for social benefits than for financial reasons. 他指出，许多受过大学教育的劳动者选择继续留在劳动力市场，更多是出于社交方面的好处，而不是经济原因。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Enjoying financial security."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Staying connected socially."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Contributing more professionally."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Increasing social security payments."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What does the passage say about people doing manual work?A)They are eager to enjoy life after retiring.",
+                "stem": "What does the passage say about people doing manual work?",
                 "answer": "D",
-                "explanation": "选 D。P7Workers in more physical jobs, meanwhile, may be more likely to look forward to retiring, Baily says, suggesting those who stay on are more likely doing so for financial reasons. 另一方面，从事体力劳动较多的工人则可能更期待退休；Baily 说，那些继续留下来的多半是出于经济原因。"
+                "explanation": "选 D。P7Workers in more physical jobs, meanwhile, may be more likely to look forward to retiring, Baily says, suggesting those who stay on are more likely doing so for financial reasons. 另一方面，从事体力劳动较多的工人则可能更期待退休；Baily 说，那些继续留下来的多半是出于经济原因。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They are eager to enjoy life after retiring."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are likely to have financial troubles."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They generally don't enjoy doing it."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They tend to anticipate retirement."
+                  }
+                ]
               }
             ]
           }
@@ -7235,7 +7775,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2025-06-3",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -7248,33 +7788,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What do we learn about American society from the first paragraph?A)It sees lots of personal income wasted on beauty products.",
+                "stem": "What do we learn about American society from the first paragraph?",
                 "answer": "B",
-                "explanation": "答案为 B。"
+                "explanation": "答案为 B。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It sees lots of personal income wasted on beauty products."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It considers one's physical appearance very important."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It places a high value on the physical fitness of stars."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It expects every individual to look their very best."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What happens when people strive to look better?A)They have to get prepared for resentment and bitter court battles.",
+                "stem": "What happens when people strive to look better?",
                 "answer": "C",
-                "explanation": "答案为 C。"
+                "explanation": "答案为 C。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They have to get prepared for resentment and bitter court battles."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are better able to gain attention, love, and personal connection."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They may neglect to cultivate the inner qualities that matter more."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They feel much of their precious time, energy and resources is wasted."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What does the author say about outer beauty?A)It may be inherited or cultivated.",
+                "stem": "What does the author say about outer beauty?",
                 "answer": "D",
-                "explanation": "答案为 D。"
+                "explanation": "答案为 D。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It may be inherited or cultivated."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It may lead to bad as well as good habits."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It may create connection or isolation."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It may do as much harm as good."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What brings about spiritual connection?A)Meeting of minds.",
+                "stem": "What brings about spiritual connection?",
                 "answer": "A",
-                "explanation": "答案为 A。"
+                "explanation": "答案为 A。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Meeting of minds."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Attraction at first sight."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Physical chemistry."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Frequent interaction."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What happens when we take the path toward cultivating inner beauty?A)We may find a route toward other people's souls.",
+                "stem": "What happens when we take the path toward cultivating inner beauty?",
                 "answer": "C",
-                "explanation": "答案为 C。"
+                "explanation": "答案为 C。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "We may find a route toward other people's souls."
+                  },
+                  {
+                    "key": "B",
+                    "text": "We may be appreciated more by people around us."
+                  },
+                  {
+                    "key": "C",
+                    "text": "We will meet people who value us for who we are."
+                  },
+                  {
+                    "key": "D",
+                    "text": "We will be discouraged from revealing our true selves."
+                  }
+                ]
               }
             ]
           },
@@ -7284,33 +7914,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What can we expect of plant-based meats?A)An increasing interest in their analyses.",
+                "stem": "What can we expect of plant-based meats?",
                 "answer": "C",
-                "explanation": "选 C。P1Analysts don't expect the meat-free movement to slow anytime soon; a 2021 report predicts the market will skyrocket to $74 billion by 2030—a 957 percent surge. 分析师们不预期植物肉浪潮短期内会放缓；一份 2021 年的报告预测，到 2030 年该市场将猛增至 740 亿美元——增幅高达 957%。"
+                "explanation": "选 C。P1Analysts don't expect the meat-free movement to slow anytime soon; a 2021 report predicts the market will skyrocket to $74 billion by 2030—a 957 percent surge. 分析师们不预期植物肉浪潮短期内会放缓；一份 2021 年的报告预测，到 2030 年该市场将猛增至 740 亿美元——增幅高达 957%。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "An increasing interest in their analyses."
+                  },
+                  {
+                    "key": "B",
+                    "text": "An enormous effort in their promotion."
+                  },
+                  {
+                    "key": "C",
+                    "text": "A huge boost in their consumption."
+                  },
+                  {
+                    "key": "D",
+                    "text": "A noticeable surge in their varieties."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What do we learn about consumers buying Beyond Burger and Impossible Foods products?A)They are mostly non-vegetarians.",
+                "stem": "What do we learn about consumers buying Beyond Burger and Impossible Foods products?",
                 "answer": "A",
-                "explanation": "选 A。P2More than nine out of ten consumers who buy Beyond Burger and Impossible Foods products also eat meat. 在购买 Beyond Burger 和 Impossible Foods 产品的消费者中，有超过十分之九的人同时也吃肉。"
+                "explanation": "选 A。P2More than nine out of ten consumers who buy Beyond Burger and Impossible Foods products also eat meat. 在购买 Beyond Burger 和 Impossible Foods 产品的消费者中，有超过十分之九的人同时也吃肉。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They are mostly non-vegetarians."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are mostly animal-rights advocates."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Most of them refrain from eating meat for health reasons."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Most of them eat meatless meat to protect the environment."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What can we conclude about Impossible Foods' products from Joan Solsman's remark?A)They more often appeal to meat-eaters.",
+                "stem": "What can we conclude about Impossible Foods' products from Joan Solsman's remark?",
                 "answer": "B",
-                "explanation": "选 B。P3Maybe the best sign that Impossible Foods has cracked the code to realistic fake meat is that I couldn't stand to take another bite. 或许 Impossible Foods 成功破解「逼真假肉」密码的最有力信号，就是连我（这个素食者）都没法再吃一口。"
+                "explanation": "选 B。P3Maybe the best sign that Impossible Foods has cracked the code to realistic fake meat is that I couldn't stand to take another bite. 或许 Impossible Foods 成功破解「逼真假肉」密码的最有力信号，就是连我（这个素食者）都没法再吃一口。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They more often appeal to meat-eaters."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They very much resemble animal meat."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Some have become its signature dishes."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Most of them are sold as true fake meat."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "Why can the habit of eating a plant-based diet lead to better health?A)It frees people from any known link to cancer.",
+                "stem": "Why can the habit of eating a plant-based diet lead to better health?",
                 "answer": "D",
-                "explanation": "选 D。P5Not only has red meat been linked to cancer, but studies show that people who ditch meat have lower blood pressure, lower average blood sugar, and lower cholesterol levels. 不仅红肉被发现与癌症相关，研究还显示放弃吃肉的人血压更低、平均血糖更低、胆固醇水平也更低。"
+                "explanation": "选 D。P5Not only has red meat been linked to cancer, but studies show that people who ditch meat have lower blood pressure, lower average blood sugar, and lower cholesterol levels. 不仅红肉被发现与癌症相关，研究还显示放弃吃肉的人血压更低、平均血糖更低、胆固醇水平也更低。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It frees people from any known link to cancer."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It provides all the nutrients for staying healthy."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It helps maintain normal blood pressure and blood sugar."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It reduces various health risks posed by meat consumption."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What does the author recommend we eat at the end of the passage?A)Naturally produced foods.",
+                "stem": "What does the author recommend we eat at the end of the passage?",
                 "answer": "A",
-                "explanation": "选 A。P7These new generations of alternate meat get all the attention, but don't forget about whole grains and vegetables. Beans are an especially excellent protein substitute. They're nutritious, inexpensive, and far more sustainable than any of the proc…"
+                "explanation": "选 A。P7These new generations of alternate meat get all the attention, but don't forget about whole grains and vegetables. Beans are an especially excellent protein substitute. They're nutritious, inexpensive, and far more sustainable than any of the proc…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Naturally produced foods."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Processed protein substitutes."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Red meats like traditional beef."
+                  },
+                  {
+                    "key": "D",
+                    "text": "New generations of alternate meat."
+                  }
+                ]
               }
             ]
           }
@@ -8811,7 +9531,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2025-06-2",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -8824,33 +9544,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What does science suggest the right dress may do?A)Add to our advantage in work and life.",
+                "stem": "What does science suggest the right dress may do?",
                 "answer": "A",
-                "explanation": "答案为 A。"
+                "explanation": "答案为 A。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Add to our advantage in work and life."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Enable us to look a lot more attractive."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Help us to enjoy a fuller personal life."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Provide extra energy for what we do."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "Why does science say the clothes one wears may affect their interaction with others?A)Clothes usually represent one's social and economic status.",
+                "stem": "Why does science say the clothes one wears may affect their interaction with others?",
                 "answer": "D",
-                "explanation": "答案为 D。"
+                "explanation": "答案为 D。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Clothes usually represent one's social and economic status."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Clothes largely determine one's likability by people around."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Different types of clothing markedly reflect different personalities."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Different types of clothing convey different messages symbolically."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "How do the clothes we wear sway our evaluation of ourselves?A)By exerting an effect on our power of judgment.",
+                "stem": "How do the clothes we wear sway our evaluation of ourselves?",
                 "answer": "B",
-                "explanation": "答案为 B。"
+                "explanation": "答案为 B。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "By exerting an effect on our power of judgment."
+                  },
+                  {
+                    "key": "B",
+                    "text": "By impacting how we feel about ourselves."
+                  },
+                  {
+                    "key": "C",
+                    "text": "By affecting what we take as the basis for assessment."
+                  },
+                  {
+                    "key": "D",
+                    "text": "By influencing our interpretation of symbolic messages."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "Why does the author say tailored jackets are associated with being 'dressed for success'?A)They are necessary for formal business dealings.",
+                "stem": "Why does the author say tailored jackets are associated with being 'dressed for success'?",
                 "answer": "D",
-                "explanation": "答案为 D。"
+                "explanation": "答案为 D。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They are necessary for formal business dealings."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They may help people concentrate on their business."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They are vital to keeping a dominant position in business transactions."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They may enable people to have the right mentality for doing business."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What are people advised to do when they want to socialize?A)Focus on clothing.",
+                "stem": "What are people advised to do when they want to socialize?",
                 "answer": "C",
-                "explanation": "答案为 C。"
+                "explanation": "答案为 C。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Focus on clothing."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Wear a good suit."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Dress casually."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Look unusual."
+                  }
+                ]
               }
             ]
           },
@@ -8860,33 +9670,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What does the author think of classical music and opera in today's world?A)They still make their presence felt.",
+                "stem": "What does the author think of classical music and opera in today's world?",
                 "answer": "A",
-                "explanation": "选 A。【判型】题干 What does the author think of classical music and opera in today's world? 用 think of 直接问作者看法，对象又是全文核心话题，是典型的整体态度题。 【拆句】题干主干是 What does the author think of …，think of sth = 对某事物的看法；in today's world 是时间地点状语，限定评价的时间范围。结构平铺直叙，无陷阱。 【选项】A)✓ 正确 both…"
+                "explanation": "选 A。【判型】题干 What does the author think of classical music and opera in today's world? 用 think of 直接问作者看法，对象又是全文核心话题，是典型的整体态度题。 【拆句】题干主干是 What does the author think of …，think of sth = 对某事物的看法；in today's world 是时间地点状语，限定评价的时间范围。结构平铺直叙，无陷阱。 【选项】A)✓ 正确 both…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They still make their presence felt."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They have given way to electronic music."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They will not fade away from the public eye."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They are no longer relevant to teenagers' lives."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What do we learn about much of the popular music currently produced?A)It can be difficult for many classical music fans to appreciate.",
+                "stem": "What do we learn about much of the popular music currently produced?",
                 "answer": "D",
-                "explanation": "选 D。P2The most major indicator of classical music's importance in society today is the fact that much of the popular music that is currently being produced uses similar beats, harmonies, and melodies(旋律) as those that were used in some of classical musi…"
+                "explanation": "选 D。P2The most major indicator of classical music's importance in society today is the fact that much of the popular music that is currently being produced uses similar beats, harmonies, and melodies(旋律) as those that were used in some of classical musi…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It can be difficult for many classical music fans to appreciate."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It can be seen as an indicator of refinement on classical music."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It caters to society's taste in music in a more subtle way than classical music."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It contains elements similar to those in some masterpieces of classical music."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "Why does the author mention the invention of the rock opera?A)To illustrate how to tell a story using music.",
+                "stem": "Why does the author mention the invention of the rock opera?",
                 "answer": "C",
-                "explanation": "选 C。P3A better example for the relevance of opera and classical music can be seen in the invention of the rock opera. 歌剧与古典乐仍具相关性的一个更佳例证，可以从摇滚歌剧的发明中看出。"
+                "explanation": "选 C。P3A better example for the relevance of opera and classical music can be seen in the invention of the rock opera. 歌剧与古典乐仍具相关性的一个更佳例证，可以从摇滚歌剧的发明中看出。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "To illustrate how to tell a story using music."
+                  },
+                  {
+                    "key": "B",
+                    "text": "To present the simplest definition of opera."
+                  },
+                  {
+                    "key": "C",
+                    "text": "To show the relevance of opera and classical music."
+                  },
+                  {
+                    "key": "D",
+                    "text": "To justify the necessity of using orchestras in opera."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "Why are classical music pieces still used as background music in modern movies?A)There are few types of music for movie producers to choose from.",
+                "stem": "Why are classical music pieces still used as background music in modern movies?",
                 "answer": "B",
-                "explanation": "选 B。P4Fans of classical music can also tell you that there are few types of music that are more expressive. So, it should come as no surprise to anyone that classical music pieces are still used as background music in modern movies. 古典乐迷也会告诉你，没有多少类型的音乐比…"
+                "explanation": "选 B。P4Fans of classical music can also tell you that there are few types of music that are more expressive. So, it should come as no surprise to anyone that classical music pieces are still used as background music in modern movies. 古典乐迷也会告诉你，没有多少类型的音乐比…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "There are few types of music for movie producers to choose from."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are considered to be the most expressive type of music."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They are well received by movie fans from all over the world."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They are essential for movies to become the world's greatest hits."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What do we learn about our modern music?A)It could not have come into being without classical music and opera as its foundation.",
+                "stem": "What do we learn about our modern music?",
                 "answer": "A",
-                "explanation": "选 A。P5Classical music and opera are the very foundation of what our modern music is based upon. 古典乐与歌剧正是我们现代音乐所赖以建立的根基。"
+                "explanation": "选 A。P5Classical music and opera are the very foundation of what our modern music is based upon. 古典乐与歌剧正是我们现代音乐所赖以建立的根基。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It could not have come into being without classical music and opera as its foundation."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It cannot outcompete classical music and opera in its impact on our current society."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It will not enjoy as much popularity as classical music and opera among music fans."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It might not be able to rival classical music and opera in importance for centuries to come."
+                  }
+                ]
               }
             ]
           }
@@ -10197,7 +11097,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2025-06-1",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -10210,33 +11110,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What do we learn from new research about pandas?A)They are losing habitat due to the building of roads and houses.",
+                "stem": "What do we learn from new research about pandas?",
                 "answer": "D",
-                "explanation": "选 D。P1New research suggests that pandas may be at risk of dying out because they are too comfortable. 新的研究表明，熊猫可能因为生活得太舒适而面临灭绝的风险。"
+                "explanation": "选 D。P1New research suggests that pandas may be at risk of dying out because they are too comfortable. 新的研究表明，熊猫可能因为生活得太舒适而面临灭绝的风险。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They are losing habitat due to the building of roads and houses."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They have stopped seeking new mates for reproduction."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They may not adapt to the fragmentation of their habitat."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They may cease to exist as a result of enjoying too good a life."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What can we conclude from the new research by scientists at Michigan State University?A)Environmentalists' long-time belief regarding panda conservation may be misleading.",
+                "stem": "What can we conclude from the new research by scientists at Michigan State University?",
                 "answer": "A",
-                "explanation": "选 A。P3The research was conducted by scientists from Michigan State University. It concluded that pandas fail to wander off in search of new mates if they find their habitat too comfortable, resulting in a lack of vital genetic diversity. 这项研究由密歇根州立大学的科学…"
+                "explanation": "选 A。P3The research was conducted by scientists from Michigan State University. It concluded that pandas fail to wander off in search of new mates if they find their habitat too comfortable, resulting in a lack of vital genetic diversity. 这项研究由密歇根州立大学的科学…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Environmentalists' long-time belief regarding panda conservation may be misleading."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Housing development near pandas' homes may threaten their survival."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Pandas' natural habitats are becoming less suitable for reproduction."
+                  },
+                  {
+                    "key": "D",
+                    "text": "The increased panda population is attributed to the fragmentation of their habitat."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What is the experts' conclusion regarding pandas?A)It is urgent to provide an ideal habitat for them to thrive.",
+                "stem": "What is the experts' conclusion regarding pandas?",
                 "answer": "C",
-                "explanation": "选 C。P5The experts concluded that pandas should ideally \"be happy enough to thrive, but not so content that they don't want to move around and find new mates\". 专家们得出结论：熊猫理想的状态应当是\"既能开心地繁衍生息，又不至于舒服到不愿四处走动去寻找新的配偶\"。"
+                "explanation": "选 C。P5The experts concluded that pandas should ideally \"be happy enough to thrive, but not so content that they don't want to move around and find new mates\". 专家们得出结论：熊猫理想的状态应当是\"既能开心地繁衍生息，又不至于舒服到不愿四处走动去寻找新的配偶\"。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It is urgent to provide an ideal habitat for them to thrive."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is very important to preserve their genetic diversity."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Their chances of finding new mates have a lot to do with their habitat."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Their environment for survival has been continuously worsening."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What can we infer from the passage about the Goldilocks principle?A)It needs to be confirmed by more studies on pandas.",
+                "stem": "What can we infer from the passage about the Goldilocks principle?",
                 "answer": "B",
-                "explanation": "选 B。P6Their conclusions about what The Guardian described as this \"sweet spot\" are in line with the so-called Goldilocks principle: that there can be just the right amount of something. 他们关于《卫报》所说的这个\"甜点位\"的结论，与所谓的 Goldilocks 原则一致：即任何事物都可以有一个恰到好处的量。"
+                "explanation": "选 B。P6Their conclusions about what The Guardian described as this \"sweet spot\" are in line with the so-called Goldilocks principle: that there can be just the right amount of something. 他们关于《卫报》所说的这个\"甜点位\"的结论，与所谓的 Goldilocks 原则一致：即任何事物都可以有一个恰到好处的量。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It needs to be confirmed by more studies on pandas."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It applies to the preservation of pandas too."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It has implications for future panda research."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It can be used to locate the right spot for pandas."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What can the new findings do according to Professor Sillero?A)Help discover new ways for the conservation of pandas.",
+                "stem": "What can the new findings do according to Professor Sillero?",
                 "answer": "C",
-                "explanation": "选 C。P8It may well be that the messy nature of their relationship with human efforts induces more animals to scatter or travel further, and might result in greater genetic connectivity and enhanced population persistence. 很可能正是它们与人类活动这种\"乱糟糟\"的关系，促使更多动物分散、…"
+                "explanation": "选 C。P8It may well be that the messy nature of their relationship with human efforts induces more animals to scatter or travel further, and might result in greater genetic connectivity and enhanced population persistence. 很可能正是它们与人类活动这种\"乱糟糟\"的关系，促使更多动物分散、…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Help discover new ways for the conservation of pandas."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Help remove pandas from the list of endangered species."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Shed light on the conservation of most large meat-eating animals."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Show the complexity of interactions between humans and animals."
+                  }
+                ]
               }
             ]
           },
@@ -10246,33 +11236,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What does the passage say about people born with natural talents?A)They seem to outdo others without hard work.",
+                "stem": "What does the passage say about people born with natural talents?",
                 "answer": "A",
-                "explanation": "选 A。P1With those born with natural talents, it feels as if they excel without really trying. 对于那些天生有才的人，看上去就好像他们不太费力就能出类拔萃。"
+                "explanation": "选 A。P1With those born with natural talents, it feels as if they excel without really trying. 对于那些天生有才的人，看上去就好像他们不太费力就能出类拔萃。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They seem to outdo others without hard work."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They appear to know all the secrets to success."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They feel it only too logical to succeed."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They are bound to excel effortlessly."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What does Duckworth say about talent?A)It is a new concept much too overrated.",
+                "stem": "What does Duckworth say about talent?",
                 "answer": "C",
-                "explanation": "选 C。P2As much as talent counts, effort counts twice. 虽然才能很重要，但努力的重要性是它的两倍。"
+                "explanation": "选 C。P2As much as talent counts, effort counts twice. 虽然才能很重要，但努力的重要性是它的两倍。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It is a new concept much too overrated."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It proves necessary for big achievements."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It plays a lesser role in one's success."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It is a guarantee for real success in life."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What does the passage say about people thinking of attaining success?A)They are puzzled how to present their best to the employer.",
+                "stem": "What does the passage say about people thinking of attaining success?",
                 "answer": "B",
-                "explanation": "选 B。P3When we think about attaining success—whether it's landing that job or learning that new skill—our thoughts are immediately burdened by all the things we must first learn. If you want that new job, you have to learn the job skills, then the interv…"
+                "explanation": "选 B。P3When we think about attaining success—whether it's landing that job or learning that new skill—our thoughts are immediately burdened by all the things we must first learn. If you want that new job, you have to learn the job skills, then the interv…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They are puzzled how to present their best to the employer."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are burdened by their expectation of perfection."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They will try hard to land a job that fits their skills best."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They will find themselves lacking in all the skills they need."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "How does the author think grit can be helpful to us?A)It allows us to know what we are good at.",
+                "stem": "How does the author think grit can be helpful to us?",
                 "answer": "D",
-                "explanation": "选 D。P4Grit lifts the unreasonable expectations off our shoulders. Grit tells us that the door is open wider than we first thought possible. Grit allows us to redefine our goals. grit 把不合理的期待从我们肩上卸下来。grit 告诉我们这扇门比我们最初以为的开得更宽。grit 允许我们重新定义自己的目标。"
+                "explanation": "选 D。P4Grit lifts the unreasonable expectations off our shoulders. Grit tells us that the door is open wider than we first thought possible. Grit allows us to redefine our goals. grit 把不合理的期待从我们肩上卸下来。grit 告诉我们这扇门比我们最初以为的开得更宽。grit 允许我们重新定义自己的目标。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It allows us to know what we are good at."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It opens our eyes to new opportunities."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It focuses our attention on what we do."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It lets us reconsider the goals to achieve."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What message does Duckworth try to convey in her book Grit?A)We should perfect ourselves to ensure success.",
+                "stem": "What message does Duckworth try to convey in her book Grit?",
                 "answer": "B",
-                "explanation": "选 B。【判型】What message does Duckworth try to convey in her book Grit 问的是整本书的核心信息，是典型主旨题。 【拆句】What message does Duckworth try to convey in her book Grit：宾语前置 What message，主干 Duckworth try to convey，介词短语 in her book Grit 作地点状语，无难点。 【选项】A)与原文相反 原文反复说 perfect…"
+                "explanation": "选 B。【判型】What message does Duckworth try to convey in her book Grit 问的是整本书的核心信息，是典型主旨题。 【拆句】What message does Duckworth try to convey in her book Grit：宾语前置 What message，主干 Duckworth try to convey，介词短语 in her book Grit 作地点状语，无难点。 【选项】A)与原文相反 原文反复说 perfect…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "We should perfect ourselves to ensure success."
+                  },
+                  {
+                    "key": "B",
+                    "text": "We should stay persistent even in face of failures."
+                  },
+                  {
+                    "key": "C",
+                    "text": "We can never master a skill without constant practice."
+                  },
+                  {
+                    "key": "D",
+                    "text": "We can never expect to reach our goals without passion."
+                  }
+                ]
               }
             ]
           }
@@ -11891,7 +12971,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2024-12-3",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -11904,33 +12984,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What do we learn from research in human-vehicle interaction?A)Automatic driving systems are by no means immune to errors.",
+                "stem": "What do we learn from research in human-vehicle interaction?",
                 "answer": "A",
-                "explanation": "选 A。P1Research in human-vehicle interaction has shown even systems designed to automate driving are far from being error-proof. 人车交互领域的研究表明，即便是为自动驾驶而设计的系统，也远远谈不上无差错。"
+                "explanation": "选 A。P1Research in human-vehicle interaction has shown even systems designed to automate driving are far from being error-proof. 人车交互领域的研究表明，即便是为自动驾驶而设计的系统，也远远谈不上无差错。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Automatic driving systems are by no means immune to errors."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Driverless vehicles are likely to be misused by some people."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Self-driving car manufacturers are not aware of the legal matters involved."
+                  },
+                  {
+                    "key": "D",
+                    "text": "There is a long way to go before humans can interact with driverless vehicles."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What is the problem with requiring buyers to sign end-user license agreements?A)End users, young and old alike, find the terms complex to interpret.",
+                "stem": "What is the problem with requiring buyers to sign end-user license agreements?",
                 "answer": "B",
-                "explanation": "选 B。P2Further, most end users don't read EULAs. A 2017 study shows 91 percent of people agree to them without reading. 更何况，大多数终端用户根本不读 EULA。2017 年的一项研究表明，91% 的人未读就同意了。"
+                "explanation": "选 B。P2Further, most end users don't read EULAs. A 2017 study shows 91 percent of people agree to them without reading. 更何况，大多数终端用户根本不读 EULA。2017 年的一项研究表明，91% 的人未读就同意了。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "End users, young and old alike, find the terms complex to interpret."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Most end users sign them without bothering to read the terms."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Many people are often confused by the wording of the terms."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Most end users do not understand the terms after reading them through."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What would drivers do when they suffer from \"warning fatigue\"?A)Waste no time keeping the car moving.",
+                "stem": "What would drivers do when they suffer from \"warning fatigue\"?",
                 "answer": "C",
-                "explanation": "选 C。P4For example, a driver, annoyed after receiving continuous warnings, could decide to just ignore the message. 举例来说，一名司机在接到接连不断的警告后心生厌烦，可能干脆决定无视这条信息。"
+                "explanation": "选 C。P4For example, a driver, annoyed after receiving continuous warnings, could decide to just ignore the message. 举例来说，一名司机在接到接连不断的警告后心生厌烦，可能干脆决定无视这条信息。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Waste no time keeping the car moving."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Rest a while to avoid fatigue driving."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Take no action despite repeated warnings."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Take note of the message though fatigued."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What does the author think of continuing to ask buyers to sign end-user license agreements?A)It will probably not guarantee the safety of drivers in case of accidents.",
+                "stem": "What does the author think of continuing to ask buyers to sign end-user license agreements?",
                 "answer": "D",
-                "explanation": "选 D。P4Given these limitations and concerns, even if this mode of obtaining consent is to move forward, it likely won't fully protect automakers from their legal liability should the system malfunction(发生故障) or an accident occur. 鉴于这些局限与担忧，即使继续推行这种取得同意的方…"
+                "explanation": "选 D。P4Given these limitations and concerns, even if this mode of obtaining consent is to move forward, it likely won't fully protect automakers from their legal liability should the system malfunction(发生故障) or an accident occur. 鉴于这些局限与担忧，即使继续推行这种取得同意的方…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It will probably not guarantee the safety of drivers in case of accidents."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It likely won't ensure that the automatic driving system functions properly."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It likely won't fully protect automakers against accusations of deliberate cheating."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It will probably not provide manufacturers adequate protection from legal responsibilities."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What should be done to help drivers fully understand system capabilities and limitations?A)Training them to be experts in vehicle automation.",
+                "stem": "What should be done to help drivers fully understand system capabilities and limitations?",
                 "answer": "B",
-                "explanation": "选 B。P5Driver training for self-driving vehicles can help ensure that drivers fully understand system capabilities and limitations. 针对自动驾驶汽车的司机培训，能够帮助确保司机充分了解系统的能力与局限。"
+                "explanation": "选 B。P5Driver training for self-driving vehicles can help ensure that drivers fully understand system capabilities and limitations. 针对自动驾驶汽车的司机培训，能够帮助确保司机充分了解系统的能力与局限。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Training them to be experts in vehicle automation."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Familiarizing them with the systems through training."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Broadening their knowledge of accident-prevention mechanisms."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Facilitating their access to the information provided by the seller."
+                  }
+                ]
               }
             ]
           },
@@ -11940,33 +13110,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What do we learn about publicity over protein in America?A)It has helped to create the myth of protein deficiency.",
+                "stem": "What do we learn about publicity over protein in America?",
                 "answer": "A",
-                "explanation": "选 A。P3Many of us living in the most developed countries are buying into a myth of protein deficiency created by food companies and self-identified health experts. 我们这些生活在大多数发达国家的人，正在接受一个由食品公司和自封的健康专家制造出来的\"蛋白质缺乏\"神话。"
+                "explanation": "选 A。P3Many of us living in the most developed countries are buying into a myth of protein deficiency created by food companies and self-identified health experts. 我们这些生活在大多数发达国家的人，正在接受一个由食品公司和自封的健康专家制造出来的\"蛋白质缺乏\"神话。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It has helped to create the myth of protein deficiency."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It has helped Americans in search of protein-rich diets."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It has raised a lot of health concerns among the public."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It has been funded by food companies and health experts."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "Why have physicians in the U.S. never actually examined a patient with protein deficiency?A)Americans can purchase many kinds of protein-rich foods everywhere.",
+                "stem": "Why have physicians in the U.S. never actually examined a patient with protein deficiency?",
                 "answer": "C",
-                "explanation": "选 C。P4Physicians in the U.S. have never actually examined a patient with protein deficiency because simply by eating an adequate number of daily calories we are also most likely getting enough protein. 美国医生从未真正诊治过蛋白缺乏的病人，因为只要每天摄入足够的卡路里，我们也就极可能获得了足够的蛋白质。"
+                "explanation": "选 C。P4Physicians in the U.S. have never actually examined a patient with protein deficiency because simply by eating an adequate number of daily calories we are also most likely getting enough protein. 美国医生从未真正诊治过蛋白缺乏的病人，因为只要每天摄入足够的卡路里，我们也就极可能获得了足够的蛋白质。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Americans can purchase many kinds of protein-rich foods everywhere."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Americans can absorb the number of calories recommended by food experts."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Americans can get sufficient protein just by eating adequate foods daily."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Americans can rely on food supplements to prevent protein deficiency."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What should people take into consideration in deciding on the most preferable protein intake?A)How healthy they are and what food they eat.",
+                "stem": "What should people take into consideration in deciding on the most preferable protein intake?",
                 "answer": "B",
-                "explanation": "选 B。P5Americans currently consume almost twice the National Academy of Medicine's recommended daily intake of protein although the most desirable protein intake may vary depending on age and activity level. 尽管最理想的蛋白摄入量可能因年龄和活动量不同而有所差异，美国人现在的蛋白摄入仍接近美国医学科…"
+                "explanation": "选 B。P5Americans currently consume almost twice the National Academy of Medicine's recommended daily intake of protein although the most desirable protein intake may vary depending on age and activity level. 尽管最理想的蛋白摄入量可能因年龄和活动量不同而有所差异，美国人现在的蛋白摄入仍接近美国医学科…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "How healthy they are and what food they eat."
+                  },
+                  {
+                    "key": "B",
+                    "text": "How old they are and what activities they do."
+                  },
+                  {
+                    "key": "C",
+                    "text": "How much protein they consume and what their body weight is."
+                  },
+                  {
+                    "key": "D",
+                    "text": "How serious their protein deficiency is and what remedies they use."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What foods have been largely out of favor for more than a century?A)Sugar-free snacks.",
+                "stem": "What foods have been largely out of favor for more than a century?",
                 "answer": "D",
-                "explanation": "选 D。P7While fats and sugar have taken the beating in turns since over a century ago, protein has managed to remain our red-hot favorite. 一个多世纪以来，脂肪和糖轮流挨批，而蛋白质却始终是我们的红人。"
+                "explanation": "选 D。P7While fats and sugar have taken the beating in turns since over a century ago, protein has managed to remain our red-hot favorite. 一个多世纪以来，脂肪和糖轮流挨批，而蛋白质却始终是我们的红人。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Sugar-free snacks."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Protein-rich foods."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Both red and white meats."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Sugary and fatty foods."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What does the author imply people in developed countries should do to keep healthy?A)Enjoy natural food.",
+                "stem": "What does the author imply people in developed countries should do to keep healthy?",
                 "answer": "A",
-                "explanation": "选 A。【判型】What does the author imply people in developed countries should do to keep healthy? 题干直接用 imply，是推断题的标准句式。 【拆句】句式较长但分层清晰：主干 What does the author imply X should do，宾语从句的主语是 people in developed countries，目的状语 to keep healthy；抓住\"作者+暗示+发达国家民众+保持健康\"四…"
+                "explanation": "选 A。【判型】What does the author imply people in developed countries should do to keep healthy? 题干直接用 imply，是推断题的标准句式。 【拆句】句式较长但分层清晰：主干 What does the author imply X should do，宾语从句的主语是 people in developed countries，目的状语 to keep healthy；抓住\"作者+暗示+发达国家民众+保持健康\"四…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Enjoy natural food."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Eat vegetarian diets."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Consume enough protein daily."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Replace meals with protein bars."
+                  }
+                ]
               }
             ]
           }
@@ -14067,7 +15327,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2024-12-2",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -14080,33 +15340,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What has the author come to realise since entering university?A)He needs a crash course on financial terms.",
+                "stem": "What has the author come to realise since entering university?",
                 "answer": "B",
-                "explanation": "选 B。P1As a university student, I've come to realise just how little I know about money. 作为一名大学生，我已经意识到自己对金钱了解得有多么少。"
+                "explanation": "选 B。P1As a university student, I've come to realise just how little I know about money. 作为一名大学生，我已经意识到自己对金钱了解得有多么少。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "He needs a crash course on financial terms."
+                  },
+                  {
+                    "key": "B",
+                    "text": "He is very much lacking in financial literacy."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It requires consistent education to be financially independent."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It is unrealistic to give all Australian youth a financial education."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "How did the author feel in today's money world?A)Badly equipped to survive.",
+                "stem": "How did the author feel in today's money world?",
                 "answer": "A",
-                "explanation": "选 A。P4I felt that I was sailing the financial seas with no skills and no life jacket! 我感觉自己正在金融的海洋上航行，却既没有技能也没有救生衣！"
+                "explanation": "选 A。P4I felt that I was sailing the financial seas with no skills and no life jacket! 我感觉自己正在金融的海洋上航行，却既没有技能也没有救生衣！",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Badly equipped to survive."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Ignorant of financial literature."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Barely capable of moving ahead."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Overwhelmed by the resources online."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What did the author realise after talking to his friends?A)They were as keen as he was on financial matters.",
+                "stem": "What did the author realise after talking to his friends?",
                 "answer": "B",
-                "explanation": "选 B。P5However, after talking to my friends who felt the same, I quickly realised that it wasn't my ignorance but the lack of financial education in our schooling system that is leaving high schoolers seriously behind in the modern world of money. 然而，和有同…"
+                "explanation": "选 B。P5However, after talking to my friends who felt the same, I quickly realised that it wasn't my ignorance but the lack of financial education in our schooling system that is leaving high schoolers seriously behind in the modern world of money. 然而，和有同…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They were as keen as he was on financial matters."
+                  },
+                  {
+                    "key": "B",
+                    "text": "The schooling system was to blame for his trouble."
+                  },
+                  {
+                    "key": "C",
+                    "text": "High schoolers knew nothing about the modern financial world."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Financial courses were as unpopular as compulsory English classes."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What is the author's idea of a financial education course?A)It should foresee students' needs after graduation.",
+                "stem": "What is the author's idea of a financial education course?",
                 "answer": "D",
-                "explanation": "选 D。P7It shouldn't be just a one-day event but a course integrated throughout the whole of high school that would allow students to gradually expand their financial literacy, and would prevent the need for a 'catch up' phase once we're out on our own af…"
+                "explanation": "选 D。P7It shouldn't be just a one-day event but a course integrated throughout the whole of high school that would allow students to gradually expand their financial literacy, and would prevent the need for a 'catch up' phase once we're out on our own af…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It should foresee students' needs after graduation."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It should provide students with some basic knowledge."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It should be taught the same way as English is taught."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It should be integrated into high school education."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What would financial literacy do to young people?A)Allow them to enter adulthood with financial security.",
+                "stem": "What would financial literacy do to young people?",
                 "answer": "C",
-                "explanation": "选 C。P9Giving young people the opportunity to become familiar with the world of money would provide them with a great advantage to enter adulthood with confidence and security so that they are able to manage their own money and look after themselves. 让年轻…"
+                "explanation": "选 C。P9Giving young people the opportunity to become familiar with the world of money would provide them with a great advantage to enter adulthood with confidence and security so that they are able to manage their own money and look after themselves. 让年轻…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Allow them to enter adulthood with financial security."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Enable them to look after themselves without worrying about money."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Render them confident and secure in terms of money management."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Help them become familiar with the world of money."
+                  }
+                ]
               }
             ]
           },
@@ -14116,33 +15466,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What do people believe chocolates can do?A)Cheer them up instantly.",
+                "stem": "What do people believe chocolates can do?",
                 "answer": "A",
-                "explanation": "选 A。P1We all have faith in chocolates to delight us in an instant! 我们都相信巧克力能在一瞬间让我们开心起来！"
+                "explanation": "选 A。P1We all have faith in chocolates to delight us in an instant! 我们都相信巧克力能在一瞬间让我们开心起来！",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Cheer them up instantly."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Create happy calories."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Conceal emotional distress."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Relieve them of heart trouble."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What was scientists' recent assertion about chocolates?A)They could become a rare treat in the near future.",
+                "stem": "What was scientists' recent assertion about chocolates?",
                 "answer": "D",
-                "explanation": "选 D。P2Recently, chocolate lovers were heartbroken as scientists claimed that they can become extinct by 2050! 最近，巧克力爱好者们伤心欲绝，因为科学家声称巧克力到 2050 年可能灭绝！"
+                "explanation": "选 D。P2Recently, chocolate lovers were heartbroken as scientists claimed that they can become extinct by 2050! 最近，巧克力爱好者们伤心欲绝，因为科学家声称巧克力到 2050 年可能灭绝！",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They could become a rare treat in the near future."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They could calm people down a bit in times of crisis."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They could prevent people from getting heartbroken."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They could become unavailable in less than 30 years."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What would happen if the cacao farms were shifted to cooler mountainous areas?A)The natural habitat of wildlife there would be ruined.",
+                "stem": "What would happen if the cacao farms were shifted to cooler mountainous areas?",
                 "answer": "A",
-                "explanation": "选 A。P3These farms will then have to be shifted to cooler mountainous areas, which are the natural habitat of wildlife. 这些农场届时将不得不被迁到更凉爽的山区，而那里正是野生动物的自然栖息地。"
+                "explanation": "选 A。P3These farms will then have to be shifted to cooler mountainous areas, which are the natural habitat of wildlife. 这些农场届时将不得不被迁到更凉爽的山区，而那里正是野生动物的自然栖息地。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "The natural habitat of wildlife there would be ruined."
+                  },
+                  {
+                    "key": "B",
+                    "text": "The cacao farmers would have a tough time to adapt."
+                  },
+                  {
+                    "key": "C",
+                    "text": "The rainforests would be shrinking dramatically."
+                  },
+                  {
+                    "key": "D",
+                    "text": "The quality of cocoa beans would suffer greatly."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What do we learn about the cacao farms in the crisis of global warming?A)They try to seek help from gene-editing scientists.",
+                "stem": "What do we learn about the cacao farms in the crisis of global warming?",
                 "answer": "C",
-                "explanation": "选 C。P4Unfortunately, the crisis of global warming has already had a serious negative impact on cacao farms' yields, leading to the prices of chocolates skyrocketing. 不幸的是，全球变暖危机已经严重负面地影响了可可园的产量，导致巧克力价格飙升。"
+                "explanation": "选 C。P4Unfortunately, the crisis of global warming has already had a serious negative impact on cacao farms' yields, leading to the prices of chocolates skyrocketing. 不幸的是，全球变暖危机已经严重负面地影响了可可园的产量，导致巧克力价格飙升。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They try to seek help from gene-editing scientists."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They decide to move to cooler mountainous areas."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They have suffered a lot due to a decrease in produce."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They have benefited by raising prices of cocoa beans."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What are scientists trying to do in the University of California's new bio-sciences building?A)Build rows of refrigerated greenhouses for research on cacao seedlings.",
+                "stem": "What are scientists trying to do in the University of California's new bio-sciences building?",
                 "answer": "B",
-                "explanation": "选 B。P6in this unconventional experiment, scientists will make tiny, precise changes to the DNA of the seedlings to make the cocoa crops survive in warmer and drier climates. 在这个非常规实验中，科学家将对种苗的 DNA 做出细微而精确的改变，以使可可作物能在更暖、更干的气候中存活。"
+                "explanation": "选 B。P6in this unconventional experiment, scientists will make tiny, precise changes to the DNA of the seedlings to make the cocoa crops survive in warmer and drier climates. 在这个非常规实验中，科学家将对种苗的 DNA 做出细微而精确的改变，以使可可作物能在更暖、更干的气候中存活。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Build rows of refrigerated greenhouses for research on cacao seedlings."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Gene-edit cacao seedlings for them to withstand a drier, warmer climate."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Produce chocolates with the latest gene-editing technology."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Transplant the genes of tougher plants to cacao seedlings."
+                  }
+                ]
               }
             ]
           }
@@ -15911,7 +17351,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2024-12-1",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -15924,33 +17364,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What does the author want to emphasise in the first paragraph?A)The year 2020 was a big turning point in human history.",
+                "stem": "What does the author want to emphasise in the first paragraph?",
                 "answer": "C",
-                "explanation": "选 C。【判型】What does the author want to emphasise in the first paragraph? 问的是首段作者想强调什么，是段落主旨而非局部细节。 【拆句】What does the author want to emphasise in the first paragraph? 是 What 引导的特殊疑问句，want to emphasise 是一个简单的动词短语，无从句无否定，结构清爽，无陷阱。 【选项】A)以偏概全 The year 2020 wa…"
+                "explanation": "选 C。【判型】What does the author want to emphasise in the first paragraph? 问的是首段作者想强调什么，是段落主旨而非局部细节。 【拆句】What does the author want to emphasise in the first paragraph? 是 What 引导的特殊疑问句，want to emphasise 是一个简单的动词短语，无从句无否定，结构清爽，无陷阱。 【选项】A)以偏概全 The year 2020 wa…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "The year 2020 was a big turning point in human history."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Economic growth benefits people little in the long run."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It is unwise to weaken the human connection to nature."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It is harmful to mankind to use human-made materials."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What did researchers find about popular culture?A)It is increasingly detached from the natural world.",
+                "stem": "What did researchers find about popular culture?",
                 "answer": "A",
-                "explanation": "选 A。P2For every three nature-related words in hit songs of the 1950s, researchers found, there was only slightly more than one 50 years later. 对于 1950 年代流行歌曲里每三个与自然相关的词，研究人员发现，50 年后只剩下略多于一个。"
+                "explanation": "选 A。P2For every three nature-related words in hit songs of the 1950s, researchers found, there was only slightly more than one 50 years later. 对于 1950 年代流行歌曲里每三个与自然相关的词，研究人员发现，50 年后只剩下略多于一个。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It is increasingly detached from the natural world."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is filled with all kinds of video game characters."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It is especially appealing to the taste of teenagers."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It is still impacted by the hit songs of the 1950s."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What does the author propose people do?A)Take measures to ensure sustainable food development.",
+                "stem": "What does the author propose people do?",
                 "answer": "B",
-                "explanation": "选 B。P3Part of remedying this social disease would be for parliament to pass a \"right to grow\" law, allowing anyone to turn underused public spaces into vegetable and fruit gardens. The idea is for people to get back in touch with the soil—while producin…"
+                "explanation": "选 B。P3Part of remedying this social disease would be for parliament to pass a \"right to grow\" law, allowing anyone to turn underused public spaces into vegetable and fruit gardens. The idea is for people to get back in touch with the soil—while producin…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Take measures to ensure sustainable food development."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Reconnect with nature through the right to grow."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Stand by the parliament in fighting social diseases."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Cover public spaces with fruit trees and vegetable plants."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What do we learn from the passage about vegetable planting?A)It all started in 1649 in Southern England.",
+                "stem": "What do we learn from the passage about vegetable planting?",
                 "answer": "C",
-                "explanation": "选 C。P4In April 1649, locals responded to high prices and food shortages by cultivating vegetables on common land in Southern England. The practice of throwing seed bombs to turn vacant plots of land green took off in 1970s New York, and has been revived…"
+                "explanation": "选 C。P4In April 1649, locals responded to high prices and food shortages by cultivating vegetables on common land in Southern England. The practice of throwing seed bombs to turn vacant plots of land green took off in 1970s New York, and has been revived…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It all started in 1649 in Southern England."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is protected by US government regulations."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It has long been used to increase food supply and improve urban landscape."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It has been popularised worldwide with the increasing influence of social media."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What can publicly accessible fruit and vegetable gardens do apart from their practical functions?A)Raise people's environmental awareness.",
+                "stem": "What can publicly accessible fruit and vegetable gardens do apart from their practical functions?",
                 "answer": "D",
-                "explanation": "选 D。P5They can make unlovely spaces lovely, and marry use and beauty as well as help promote a sense of community. 它们能化丑为美，把实用与美感融合在一起，并有助于增强一种社区感。"
+                "explanation": "选 D。P5They can make unlovely spaces lovely, and marry use and beauty as well as help promote a sense of community. 它们能化丑为美，把实用与美感融合在一起，并有助于增强一种社区感。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Raise people's environmental awareness."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Add to the great variety of plant species."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Act as the first defence against natural disasters."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Enhance people's community spirit."
+                  }
+                ]
               }
             ]
           },
@@ -15960,33 +17490,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What does the passage say about the engineering profession in the United States?A)It has seen a change in attitude towards women engineers since 1979.",
+                "stem": "What does the passage say about the engineering profession in the United States?",
                 "answer": "B",
-                "explanation": "选 B。P2In 1970, the percentage of women majoring in engineering was less than 1%. In 1979, that number was 9%. Many hoped women would continue to enter the field at the same rate. But that's not what happened. 1970 年，主修工程的女性占比不到 1%；1979 年这一数字升至 9%。许多人本希望…"
+                "explanation": "选 B。P2In 1970, the percentage of women majoring in engineering was less than 1%. In 1979, that number was 9%. Many hoped women would continue to enter the field at the same rate. But that's not what happened. 1970 年，主修工程的女性占比不到 1%；1979 年这一数字升至 9%。许多人本希望…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It has seen a change in attitude towards women engineers since 1979."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It witnessed a significant increase in women engineers in the 1970s."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It has experienced the gradual weakening of male dominance."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It boasted the largest number of engineering majors in 2000."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What does one survey taker say was her greatest challenge?A)Not to feel superior to less qualified male engineers.",
+                "stem": "What does one survey taker say was her greatest challenge?",
                 "answer": "D",
-                "explanation": "选 D。P4The greatest challenge for me was continuing to believe in myself, when all the messages I was getting were that I would never be taken seriously or promoted or given raises at the same rate as men, who were clearly less qualified and not as smart…"
+                "explanation": "选 D。P4The greatest challenge for me was continuing to believe in myself, when all the messages I was getting were that I would never be taken seriously or promoted or given raises at the same rate as men, who were clearly less qualified and not as smart…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Not to feel superior to less qualified male engineers."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Not to take seriously all the messages she was getting."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Not to think highly of her qualifications when promoted or given a pay raise."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Not to lose self-confidence though constantly discouraged or unfairly treated."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "How do women engineers frequently feel according to the two civil engineers?A)Disqualified on many levels.",
+                "stem": "How do women engineers frequently feel according to the two civil engineers?",
                 "answer": "B",
-                "explanation": "选 B。P6A civil engineer said, \"We are 'women engineers.' People don't refer to a man as a 'man engineer'—he's an engineer. We are constantly reminded that we don't truly belong.\" Another civil engineer stated, \"On many levels, you're never quite one of t…"
+                "explanation": "选 B。P6A civil engineer said, \"We are 'women engineers.' People don't refer to a man as a 'man engineer'—he's an engineer. We are constantly reminded that we don't truly belong.\" Another civil engineer stated, \"On many levels, you're never quite one of t…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Disqualified on many levels."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Excluded from the group."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Overworked by their organizations."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Looked down upon by male colleagues."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What probably makes young women engineers more accepted nowadays?A)Their success in gaining an equal footing.",
+                "stem": "What probably makes young women engineers more accepted nowadays?",
                 "answer": "D",
-                "explanation": "选 D。P8Young women engineers are more accepted mostly because there are just more of them. 年轻女工程师之所以如今更被接受，主要是因为她们的人数变多了。"
+                "explanation": "选 D。P8Young women engineers are more accepted mostly because there are just more of them. 年轻女工程师之所以如今更被接受，主要是因为她们的人数变多了。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Their success in gaining an equal footing."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Their ability to balance work and family."
+                  },
+                  {
+                    "key": "C",
+                    "text": "The change in their responsibilities."
+                  },
+                  {
+                    "key": "D",
+                    "text": "The increase in their number."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What can we conclude about many female engineers from the statement of a mechanical engineer?A)They take great pride in their chosen career.",
+                "stem": "What can we conclude about many female engineers from the statement of a mechanical engineer?",
                 "answer": "A",
-                "explanation": "选 A。P9Many women engineers hailed the benefits of their chosen career. A program manager in manufacturing stated that engineering is the best degree. A mechanical engineer said, \"It will give you the flexibility to do almost anything. It is also satisfy…"
+                "explanation": "选 A。P9Many women engineers hailed the benefits of their chosen career. A program manager in manufacturing stated that engineering is the best degree. A mechanical engineer said, \"It will give you the flexibility to do almost anything. It is also satisfy…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They take great pride in their chosen career."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They have reaped the benefits of being flexible."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They enjoy doing engineering to the best degree."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They have proved capable of doing almost anything."
+                  }
+                ]
               }
             ]
           }
@@ -17919,7 +19539,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2024-06-3",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -17932,33 +19552,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What does the author think of the book Dress Codes: How the Laws of Fashion Made History?A)It is read by people for entirely different reasons.",
+                "stem": "What does the author think of the book Dress Codes: How the Laws of Fashion Made History?",
                 "answer": "C",
-                "explanation": "选 C。【判型】What does the author think of the book 问的是作者对整本书的看法，不针对任何细节段，属于全文评价层面的主旨态度问题。 【拆句】主干 What does the author think of the book：think of 在此是「认为……怎么样」的固定搭配，of 后接评价对象；书名作 of 的宾语。无陷阱。 【选项】A)过度推断 It is read by people for entirely different reasons 把 I h…"
+                "explanation": "选 C。【判型】What does the author think of the book 问的是作者对整本书的看法，不针对任何细节段，属于全文评价层面的主旨态度问题。 【拆句】主干 What does the author think of the book：think of 在此是「认为……怎么样」的固定搭配，of 后接评价对象；书名作 of 的宾语。无陷阱。 【选项】A)过度推断 It is read by people for entirely different reasons 把 I h…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It is read by people for entirely different reasons."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is meant for those interested in fashion history."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It makes enjoyable as well as informative reading."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It converts fashion into something for deliberation."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "How can people best understand a particular fashion in an era, according to Ford?A)By examining the restraints imposed on it.",
+                "stem": "How can people best understand a particular fashion in an era, according to Ford?",
                 "answer": "A",
-                "explanation": "选 A。P3Ford's thesis is that the best way to understand what particular fashions meant in any given era is to look at the restrictions placed on them. Ford 的核心论点是：要理解某一时代里特定时尚的含义，最好的方式就是看强加在这些时尚之上的种种限制。"
+                "explanation": "选 A。P3Ford's thesis is that the best way to understand what particular fashions meant in any given era is to look at the restrictions placed on them. Ford 的核心论点是：要理解某一时代里特定时尚的含义，最好的方式就是看强加在这些时尚之上的种种限制。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "By examining the restraints imposed on it."
+                  },
+                  {
+                    "key": "B",
+                    "text": "By looking at what the nobility were wearing."
+                  },
+                  {
+                    "key": "C",
+                    "text": "By glancing at its fabrics, colors and ornaments."
+                  },
+                  {
+                    "key": "D",
+                    "text": "By doing a survey of the upper and middle classes"
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What was the aim of the first laws passed regarding fashion in the 1200s?A)To facilitate the rise of the middle class.",
+                "stem": "What was the aim of the first laws passed regarding fashion in the 1200s?",
                 "answer": "D",
-                "explanation": "选 D。P3the first laws passed in the 1200s to ensure that only the nobility were allowed to wear certain fabrics, colors and ornaments reflected the rise of the middle class, who were now able to imitate some of these fashions. The status of the upper cla…"
+                "explanation": "选 D。P3the first laws passed in the 1200s to ensure that only the nobility were allowed to wear certain fabrics, colors and ornaments reflected the rise of the middle class, who were now able to imitate some of these fashions. The status of the upper cla…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "To facilitate the rise of the middle class."
+                  },
+                  {
+                    "key": "B",
+                    "text": "To loosen restrictions on dress codes."
+                  },
+                  {
+                    "key": "C",
+                    "text": "To help initiate some novel fashions"
+                  },
+                  {
+                    "key": "D",
+                    "text": "To preserve the status of the nobles."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What does the author think of Ford's writing?A)It uses comparison and contrast in describing fashions of different eras.",
+                "stem": "What does the author think of Ford's writing?",
                 "answer": "B",
-                "explanation": "选 B。P4His writing is more than a little dense—dense with research, clauses, and precise adjectives and nouns. But there's also humor and enough interesting episodes to make the writing appealing. 他的写作可以说相当密实——密集的研究、从句以及精准的形容词与名词。但其中也不乏幽默与足够多的有趣片段，使得整本书读…"
+                "explanation": "选 B。P4His writing is more than a little dense—dense with research, clauses, and precise adjectives and nouns. But there's also humor and enough interesting episodes to make the writing appealing. 他的写作可以说相当密实——密集的研究、从句以及精准的形容词与名词。但其中也不乏幽默与足够多的有趣片段，使得整本书读…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It uses comparison and contrast in describing fashions of different eras."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It makes heavy reading but is not lacking in humor or appeal."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It is filled with interesting episodes to spare readers intolerable boredom."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It is characteristic of academics in presenting arguments."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What does the author say is the greatest strength of Ford's book?A)Plentiful information.",
+                "stem": "What does the author say is the greatest strength of Ford's book?",
                 "answer": "D",
-                "explanation": "选 D。P5But the greatest strength of this book (on fashion!) is its intellectual profoundness. 但这本（讲时尚的！）书最大的优点，是它在思想上的深刻。"
+                "explanation": "选 D。P5But the greatest strength of this book (on fashion!) is its intellectual profoundness. 但这本（讲时尚的！）书最大的优点，是它在思想上的深刻。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Plentiful information."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Meaningful choices."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Evolved thinking."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Intellectual depth"
+                  }
+                ]
               }
             ]
           },
@@ -17968,33 +19678,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What does the author say about the ability to be persuasive in the first paragraph?A)People may either be born with it or be able to cultivate it.",
+                "stem": "What does the author say about the ability to be persuasive in the first paragraph?",
                 "answer": "A",
-                "explanation": "选 A。P1For some of us, persuasion is an instinctive quality and the power of influencing comes naturally. For the rest of us, persuasion skills can be learned and developed over time. 对我们中的一些人来说，说服是与生俱来的天赋，影响他人的能力是天生的；对我们其余的人来说，说服技巧是可以随时间学习并培养的。"
+                "explanation": "选 A。P1For some of us, persuasion is an instinctive quality and the power of influencing comes naturally. For the rest of us, persuasion skills can be learned and developed over time. 对我们中的一些人来说，说服是与生俱来的天赋，影响他人的能力是天生的；对我们其余的人来说，说服技巧是可以随时间学习并培养的。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "People may either be born with it or be able to cultivate it."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It proves crucial in making others follow one's course of action."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It refers to the natural and instinctive power of influencing one's coworkers."
+                  },
+                  {
+                    "key": "D",
+                    "text": "People may view it as both a means to convince others and an art of communication."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "Why are persuasion skills greatly valued in the workplace?A)They enable employees to be convinced of their long-term gains.",
+                "stem": "Why are persuasion skills greatly valued in the workplace?",
                 "answer": "C",
-                "explanation": "选 C。P2Effective use of persuasion skills will not only help get your coworkers excited about your ideas, it'll also help you motivate them to achieve a common goal. 有效运用说服技巧不仅有助于让你的同事对你的想法感到兴奋，也有助于你激励他们为实现共同目标而努力。"
+                "explanation": "选 C。P2Effective use of persuasion skills will not only help get your coworkers excited about your ideas, it'll also help you motivate them to achieve a common goal. 有效运用说服技巧不仅有助于让你的同事对你的想法感到兴奋，也有助于你激励他们为实现共同目标而努力。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They enable employees to be convinced of their long-term gains."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They enable employees to trust their leaders unconditionally."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They help motivate coworkers to strive for a common goal."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They help an organization to broaden its vision effectively."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What should people do to learn the art of persuasion at the workplace?A)Acquire effective communication skills.",
+                "stem": "What should people do to learn the art of persuasion at the workplace?",
                 "answer": "A",
-                "explanation": "选 A。P3Good communication is the first step in effective persuasion, but logic and reasoning are just as important. 良好的沟通是有效说服的第一步，但逻辑和推理同样重要。"
+                "explanation": "选 A。P3Good communication is the first step in effective persuasion, but logic and reasoning are just as important. 良好的沟通是有效说服的第一步，但逻辑和推理同样重要。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Acquire effective communication skills."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Avoid getting involved in conflicts with others."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Understand the reason for pursuing their goals."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Commit themselves fully to their ideas and plans."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "When are you more likely to succeed in persuading your coworkers?A)When they are convinced you work in their interests while sacrificing your own",
+                "stem": "When are you more likely to succeed in persuading your coworkers?",
                 "answer": "D",
-                "explanation": "选 D。P4Your coworkers are more likely to agree with you when they succeed alongside you. 当你的同事与你一起取得成功时，他们更可能同意你的看法。"
+                "explanation": "选 D。P4Your coworkers are more likely to agree with you when they succeed alongside you. 当你的同事与你一起取得成功时，他们更可能同意你的看法。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "When they are convinced you work in their interests while sacrificing your own"
+                  },
+                  {
+                    "key": "B",
+                    "text": "When they become aware of the potential strength of the judgements you make"
+                  },
+                  {
+                    "key": "C",
+                    "text": "When they become aware of the meaningful relationships you keep with them."
+                  },
+                  {
+                    "key": "D",
+                    "text": "When they are convinced they will make achievements together with you."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "Why are organizations and leaders advised to adopt powerful persuasion skills to bring about necessary changes?A)To convince employees of the value of collaboration",
+                "stem": "Why are organizations and leaders advised to adopt powerful persuasion skills to bring about necessary changes?",
                 "answer": "B",
-                "explanation": "选 B。P5A vast majority of people prefer collaboration and teamwork over traditional organizational structures; no one likes to be told what to do or to be pushed around. Therefore, organizations and leaders should adopt powerful persuasion skills to brin…"
+                "explanation": "选 B。P5A vast majority of people prefer collaboration and teamwork over traditional organizational structures; no one likes to be told what to do or to be pushed around. Therefore, organizations and leaders should adopt powerful persuasion skills to brin…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "To convince employees of the value of collaboration"
+                  },
+                  {
+                    "key": "B",
+                    "text": "To allow for the preferences of most people of today"
+                  },
+                  {
+                    "key": "C",
+                    "text": "To improve on traditional organizational structures"
+                  },
+                  {
+                    "key": "D",
+                    "text": "To adapt to employees' ever-changing working styles"
+                  }
+                ]
               }
             ]
           }
@@ -19909,7 +21709,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2024-06-2",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -19922,33 +21722,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What does the author say we need to do to strengthen our willpower?A)Keep it under control.",
+                "stem": "What does the author say we need to do to strengthen our willpower?",
                 "answer": "B",
-                "explanation": "选 B。P2Willpower is just like a muscle; to keep it strong you need to constantly exercise it. 意志力就像一块肌肉；要让它保持强壮，你需要不断地锻炼它。"
+                "explanation": "选 B。P2Willpower is just like a muscle; to keep it strong you need to constantly exercise it. 意志力就像一块肌肉；要让它保持强壮，你需要不断地锻炼它。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Keep it under control."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Apply it continuously."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Learn from entrepreneurs."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Aim at success determinedly."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "How are almost half of our daily actions performed according to the passage?A)Out of habit.",
+                "stem": "How are almost half of our daily actions performed according to the passage?",
                 "answer": "A",
-                "explanation": "选 A。P3Almost half of our daily actions are part of our habits and not decisions, so once the correct habits are in place, you will automatically perform those tasks on a day-to-day basis. 我们日常行为中近一半属于习惯而不是决定，因此一旦正确习惯到位，你就会每天自动去做那些事。"
+                "explanation": "选 A。P3Almost half of our daily actions are part of our habits and not decisions, so once the correct habits are in place, you will automatically perform those tasks on a day-to-day basis. 我们日常行为中近一半属于习惯而不是决定，因此一旦正确习惯到位，你就会每天自动去做那些事。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Out of habit."
+                  },
+                  {
+                    "key": "B",
+                    "text": "With determination."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Like muscle building."
+                  },
+                  {
+                    "key": "D",
+                    "text": "By self-discipline."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What will help people stick to doing something constructive automatically?A)Practising it on a day-to-day basis.",
+                "stem": "What will help people stick to doing something constructive automatically?",
                 "answer": "D",
-                "explanation": "选 D。P4Having a valuable outcome associated with a habit will help you stick to that habit permanently. 把一个有价值的结果与某个习惯绑定，会帮助你长期坚持那个习惯。"
+                "explanation": "选 D。P4Having a valuable outcome associated with a habit will help you stick to that habit permanently. 把一个有价值的结果与某个习惯绑定，会帮助你长期坚持那个习惯。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Practising it on a day-to-day basis."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Associating it with improving health."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Possessing a reasonable amount of talent."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Foreseeing the desired outcome it will yield."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "How does the art of self-control help us succeed?A)By allowing us to remain clear-headed permanently.",
+                "stem": "How does the art of self-control help us succeed?",
                 "answer": "C",
-                "explanation": "选 C。P5Self-control enables you to avoid behaviors that don't contribute to your success and adopt those that do. 自控让你能够避开那些无助于成功的行为，并采纳那些有助于成功的行为。"
+                "explanation": "选 C。P5Self-control enables you to avoid behaviors that don't contribute to your success and adopt those that do. 自控让你能够避开那些无助于成功的行为，并采纳那些有助于成功的行为。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "By allowing us to remain clear-headed permanently."
+                  },
+                  {
+                    "key": "B",
+                    "text": "By enabling us to alter our behaviors constantly."
+                  },
+                  {
+                    "key": "C",
+                    "text": "By enabling us to take positive actions"
+                  },
+                  {
+                    "key": "D",
+                    "text": "By allowing us to avoid taking risks."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "Why can it be difficult for us to maintain self-control?A)Most of us are not in the habit of exercising self-control.",
+                "stem": "Why can it be difficult for us to maintain self-control?",
                 "answer": "B",
-                "explanation": "选 B。P6Because there is a delayed satisfaction associated with self-control, it can be easy to get off track. 因为自控带来的是延迟的满足感，所以人很容易脱离正轨。"
+                "explanation": "选 B。P6Because there is a delayed satisfaction associated with self-control, it can be easy to get off track. 因为自控带来的是延迟的满足感，所以人很容易脱离正轨。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Most of us are not in the habit of exercising self-control."
+                  },
+                  {
+                    "key": "B",
+                    "text": "We may not get immediate rewards from self-control."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Self-control tends to be associated with pains."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Self-control only brings about small benefits."
+                  }
+                ]
               }
             ]
           },
@@ -19958,33 +21848,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What does the passage mainly discuss regarding scientific research?A)Its foundation.",
+                "stem": "What does the passage mainly discuss regarding scientific research?",
                 "answer": "D",
-                "explanation": "选 D。【判型】What does the passage mainly discuss regarding scientific research? 中的 mainly discuss 直接锁定主旨题。 【拆句】题干主句是 What does the passage mainly discuss，regarding scientific research 是介词短语作状语，限定讨论的对象范围，句式平铺直叙、无陷阱。 【选项】A)无中生有：选项核心词在全文找不到主线对应 Its foundation…"
+                "explanation": "选 D。【判型】What does the passage mainly discuss regarding scientific research? 中的 mainly discuss 直接锁定主旨题。 【拆句】题干主句是 What does the passage mainly discuss，regarding scientific research 是介词短语作状语，限定讨论的对象范围，句式平铺直叙、无陷阱。 【选项】A)无中生有：选项核心词在全文找不到主线对应 Its foundation…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Its foundation."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Its rewards."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Its prospect."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Its funding."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What do we learn from the passage about researchers like birdwatchers and rock collectors?A)They have little access to government funding.",
+                "stem": "What do we learn from the passage about researchers like birdwatchers and rock collectors?",
                 "answer": "B",
-                "explanation": "选 B。P2Most of us can't afford to do nuclear research as a private hobby, but birdwatchers, rock collectors, and others can do real research on a limited budget. 我们大多数人无法把核研究当成私人爱好，但观鸟人、岩石收藏者等人可以用有限的预算做真正的研究。"
+                "explanation": "选 B。P2Most of us can't afford to do nuclear research as a private hobby, but birdwatchers, rock collectors, and others can do real research on a limited budget. 我们大多数人无法把核研究当成私人爱好，但观鸟人、岩石收藏者等人可以用有限的预算做真正的研究。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They have little access to government funding."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They can do research with limited resources."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They can do amateur work in their own fields."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They have no means for large-scale research."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What would scientific studies look like in a perfect world according to the author?A)They would be totally unbiased.",
+                "stem": "What would scientific studies look like in a perfect world according to the author?",
                 "answer": "A",
-                "explanation": "选 A。P3In a perfect world, money wouldn't matter—all scientific studies would be completely objective. 在一个完美的世界里，钱不会成为问题——所有的科学研究都会是完全客观的。"
+                "explanation": "选 A。P3In a perfect world, money wouldn't matter—all scientific studies would be completely objective. 在一个完美的世界里，钱不会成为问题——所有的科学研究都会是完全客观的。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They would be totally unbiased."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They would be independently funded."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They would be responsibly conducted."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They would be strictly supervised"
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What does the author say about companies and special interest groups?A)They try hard to pull down the safeguards for research.",
+                "stem": "What does the author say about companies and special interest groups?",
                 "answer": "C",
-                "explanation": "选 C。P4These groups provide invaluable funding for scientific research. 这些团体为科学研究提供了极其宝贵的资金。"
+                "explanation": "选 C。P4These groups provide invaluable funding for scientific research. 这些团体为科学研究提供了极其宝贵的资金。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They try hard to pull down the safeguards for research."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They make extra efforts to research their own products."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They provide valuable resources for scientific research."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They reap the most benefits from scientific research."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What does the author think of research funded by industry or special interest groups?A)Its recommendations should be examined for feasibility.",
+                "stem": "What does the author think of research funded by industry or special interest groups?",
                 "answer": "C",
-                "explanation": "选 C。P4Meanwhile, it pays to examine studies funded by industry or special interest groups with extra care. 同时，对工业界或特殊利益团体资助的研究多加小心地审视，是值得的。"
+                "explanation": "选 C。P4Meanwhile, it pays to examine studies funded by industry or special interest groups with extra care. 同时，对工业界或特殊利益团体资助的研究多加小心地审视，是值得的。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Its recommendations should be examined for feasibility."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Its misleading results should be corrected in time."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Its validity should be checked with additional care."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Its hidden biases should be identified independently."
+                  }
+                ]
               }
             ]
           }
@@ -21813,7 +23793,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2024-06-1",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -21826,33 +23806,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What can we conclude from Lao Zi's quotation?A)We should see through other people's attempt to make a prisoner of us.",
+                "stem": "What can we conclude from Lao Zi's quotation?",
                 "answer": "C",
-                "explanation": "选 C。P1Lao Zi once said, \"Care about what other people think and you will always be their prisoner.\" 老子曾说：在意别人怎么想，你就会永远做他们的囚徒。"
+                "explanation": "选 C。P1Lao Zi once said, \"Care about what other people think and you will always be their prisoner.\" 老子曾说：在意别人怎么想，你就会永远做他们的囚徒。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "We should see through other people's attempt to make a prisoner of us."
+                  },
+                  {
+                    "key": "B",
+                    "text": "We can never really please other people even if we try as hard as we can."
+                  },
+                  {
+                    "key": "C",
+                    "text": "We can never be truly free if taking to heart others' opinion of us."
+                  },
+                  {
+                    "key": "D",
+                    "text": "We should care about other people's view as much as they care about our own."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What will happen if we base our self-worth on other people's approval?A)Our desire to be loved will be fulfilled.",
+                "stem": "What will happen if we base our self-worth on other people's approval?",
                 "answer": "B",
-                "explanation": "选 B。P2People-pleasing, or seeking self-worth through others' approval, is unproductive and an exhausting way to go through life. 讨好他人，或者说通过他人的认可来寻求自我价值，是一种无成效且令人疲惫的活法。"
+                "explanation": "选 B。P2People-pleasing, or seeking self-worth through others' approval, is unproductive and an exhausting way to go through life. 讨好他人，或者说通过他人的认可来寻求自我价值，是一种无成效且令人疲惫的活法。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Our desire to be loved will be fulfilled."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Our life will be unfruitful and exhausting."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Our identity as social beings will be affected."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Our sense of self will be sharpened and enhanced."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What may account for our need to be liked or approved of?A)Our desperate longing for interactions with others.",
+                "stem": "What may account for our need to be liked or approved of?",
                 "answer": "D",
-                "explanation": "选 D。P4This need to be liked can be traced back to when we were children and were completely dependent on others to take care of us… We need to understand that when we desperately want someone to approve of us, it's being driven by that little kid part o…"
+                "explanation": "选 D。P4This need to be liked can be traced back to when we were children and were completely dependent on others to take care of us… We need to understand that when we desperately want someone to approve of us, it's being driven by that little kid part o…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Our desperate longing for interactions with others."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Our understanding of the workings of the world."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Our knowledge about the pain of abandonment."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Our early childhood fear of being deserted."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What can we do when we become better able to provide ourselves with the desired approval?A)Enjoy a happier life.",
+                "stem": "What can we do when we become better able to provide ourselves with the desired approval?",
                 "answer": "A",
-                "explanation": "选 A。P5As you become more capable of providing yourself with the approval you seek, your need for external validation will start to vanish, leaving you stronger, more confident, and yes, happier in your life. 当你越来越能给自己所寻求的认可时，你对外部认可的需要会开始消退，让你变得更强、更自信、并且…"
+                "explanation": "选 A。P5As you become more capable of providing yourself with the approval you seek, your need for external validation will start to vanish, leaving you stronger, more confident, and yes, happier in your life. 当你越来越能给自己所寻求的认可时，你对外部认可的需要会开始消退，让你变得更强、更自信、并且…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Enjoy a happier life."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Exercise self-restraint."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Receive more external validation."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Strengthen our power of imagination."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What does the author advise us to do in the last paragraph?A)Embrace life for ourselves and for others.",
+                "stem": "What does the author advise us to do in the last paragraph?",
                 "answer": "D",
-                "explanation": "选 D。P6So embrace the cliché(老话) and love yourself as it's highly doubtful that you'll regret it. 所以拥抱这句老话——爱自己吧，你几乎不可能后悔。"
+                "explanation": "选 D。P6So embrace the cliché(老话) and love yourself as it's highly doubtful that you'll regret it. 所以拥抱这句老话——爱自己吧，你几乎不可能后悔。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Embrace life for ourselves and for others."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Base our worth on others' opinions."
+                  },
+                  {
+                    "key": "C",
+                    "text": "See our experiences as assets."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Love ourselves as we are."
+                  }
+                ]
               }
             ]
           },
@@ -21862,33 +23932,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What do some people think of aging adults?A)Their wisdom grows as time goes by.",
+                "stem": "What do some people think of aging adults?",
                 "answer": "B",
-                "explanation": "选 B。P1Some people have said aging is more a slide into forgetfulness than a journey towards wisdom. 某些人说，衰老与其说是一段通向智慧的旅程，不如说是一步步滑向健忘。"
+                "explanation": "选 B。P1Some people have said aging is more a slide into forgetfulness than a journey towards wisdom. 某些人说，衰老与其说是一段通向智慧的旅程，不如说是一步步滑向健忘。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Their wisdom grows as time goes by."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Their memory gradually deteriorates."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They can benefit from late-in-life learning."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They are likely to have mental health issues."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What can we conclude from Geoffrey Raisman's finding?A)Brain damage seriously hinders one's learning.",
+                "stem": "What can we conclude from Geoffrey Raisman's finding?",
                 "answer": "C",
-                "explanation": "选 C。P2In the late 1960s, British brain scientist Geoffrey Raisman spied growth in damaged brain regions of rats through an electron microscope; their brains were forging new connections. This meant brains may change every time a person learns something…"
+                "explanation": "选 C。P2In the late 1960s, British brain scientist Geoffrey Raisman spied growth in damaged brain regions of rats through an electron microscope; their brains were forging new connections. This meant brains may change every time a person learns something…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Brain damage seriously hinders one's learning."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Brain power weakens slower than we imagine."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Brains can refresh and improve with learning."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Brains forge connections under new conditions."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What is one thing that helps maintain the health of our brain even as it shrinks?A)Doing daily routines by conventional means.",
+                "stem": "What is one thing that helps maintain the health of our brain even as it shrinks?",
                 "answer": "D",
-                "explanation": "选 D。P5Even something as simple as taking a different route to the grocery store or going somewhere new on vacation can keep the brain healthy. 哪怕是像换条路去超市、或换个地方度假这样简单的事，也能让大脑保持健康。"
+                "explanation": "选 D。P5Even something as simple as taking a different route to the grocery store or going somewhere new on vacation can keep the brain healthy. 哪怕是像换条路去超市、或换个地方度假这样简单的事，也能让大脑保持健康。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Doing daily routines by conventional means."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Avoiding worrying about our mental durability."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Imitating old dogs' way of learning new tricks."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Approaching everyday tasks in novel ways."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What does the author say can contribute to the improvement of brain function?A)Being curious and desiring knowledge.",
+                "stem": "What does the author say can contribute to the improvement of brain function?",
                 "answer": "A",
-                "explanation": "选 A。P6Openness—a characteristic defined by curiosity and a desire for knowledge—may also help folks pass brain tests. 「开放性」——一种由好奇心和求知欲所定义的特质——也可以帮助人们顺利通过脑力测试。"
+                "explanation": "选 A。P6Openness—a characteristic defined by curiosity and a desire for knowledge—may also help folks pass brain tests. 「开放性」——一种由好奇心和求知欲所定义的特质——也可以帮助人们顺利通过脑力测试。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Being curious and desiring knowledge."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Being eager to pass brain tests at an old age."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Rising to life's challenges and avoiding risks."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Boosting immunity to serious mental diseases."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What is the finding of the 2012 study in the journal Psychology and Aging?A)Wishing to solve puzzles enhances one's reasoning power.",
+                "stem": "What is the finding of the 2012 study in the journal Psychology and Aging?",
                 "answer": "C",
-                "explanation": "选 C。P6While genes can encourage an interest in doing new things, a 2012 study in the journal Psychology and Aging found completing reasoning tasks like puzzles and number games can enhance that desire for novel experiences, which can, in turn, refresh t…"
+                "explanation": "选 C。P6While genes can encourage an interest in doing new things, a 2012 study in the journal Psychology and Aging found completing reasoning tasks like puzzles and number games can enhance that desire for novel experiences, which can, in turn, refresh t…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Wishing to solve puzzles enhances one's reasoning power."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Playing number games unexpectedly stimulates one's memory."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Desiring new experiences can help to renovate the brain."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Learning new tricks should not be confined to old dogs only."
+                  }
+                ]
               }
             ]
           }
@@ -23955,7 +26115,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2023-12-3",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -23968,33 +26128,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What do we learn from the passage about Red Rum the racehorse?A)He captured public affection long before he won national titles.",
+                "stem": "What do we learn from the passage about Red Rum the racehorse?",
                 "answer": "B",
-                "explanation": "选 B。P1In the history of horse racing, few horses have captured the affection of the British public like Red Rum. Today, three decades after his retirement, he is still one of the best-known and most beloved racehorses of all time. 在赛马史上，很少有马像 Red Rum 那样…"
+                "explanation": "选 B。P1In the history of horse racing, few horses have captured the affection of the British public like Red Rum. Today, three decades after his retirement, he is still one of the best-known and most beloved racehorses of all time. 在赛马史上，很少有马像 Red Rum 那样…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "He captured public affection long before he won national titles."
+                  },
+                  {
+                    "key": "B",
+                    "text": "He won enormous fame and love from British people."
+                  },
+                  {
+                    "key": "C",
+                    "text": "He became a myth three decades after his retirement."
+                  },
+                  {
+                    "key": "D",
+                    "text": "He owed his great success to several well-known horse trainers."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What did the serious bone disease in Red Rum's foot mean to himself and his trainer?A)It was simply a hindrance they had to get over to excel.",
+                "stem": "What did the serious bone disease in Red Rum's foot mean to himself and his trainer?",
                 "answer": "A",
-                "explanation": "选 A。P3For Ginger and Red Rum, though, it was just an obstacle to greatness that had to be overcome. 然而对 Ginger 与 Red Rum 来说，这（病情）不过是通往伟大路上一道必须跨越的障碍。"
+                "explanation": "选 A。P3For Ginger and Red Rum, though, it was just an obstacle to greatness that had to be overcome. 然而对 Ginger 与 Red Rum 来说，这（病情）不过是通往伟大路上一道必须跨越的障碍。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It was simply a hindrance they had to get over to excel."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It was surely a disadvantage though not considered fatal."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It was actually the end of a racing career that had just begun."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It was really a major obstacle hard to overcome on their own."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What does the author say Red Rum did with his power, speed and jumping ability?A)He won his first Grand National title at 12.",
+                "stem": "What does the author say Red Rum did with his power, speed and jumping ability?",
                 "answer": "D",
-                "explanation": "选 D。P4Red Rum's true talent came out in steeplechases. His power, speed and jumping ability carried him to his first Grand National title in 1973. The very next year, Red Rum returned to take his second title. He was the first horse to take successive f…"
+                "explanation": "选 D。P4Red Rum's true talent came out in steeplechases. His power, speed and jumping ability carried him to his first Grand National title in 1973. The very next year, Red Rum returned to take his second title. He was the first horse to take successive f…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "He won his first Grand National title at 12."
+                  },
+                  {
+                    "key": "B",
+                    "text": "He took two firsts successively in 1935-1936."
+                  },
+                  {
+                    "key": "C",
+                    "text": "He surprised sporting fans worldwide in 1973."
+                  },
+                  {
+                    "key": "D",
+                    "text": "He took three Grand National wins in the 1970s."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What did people generally think of Red Rum when he returned to the racecourse in 1977?A)He had already passed the peak of his racing life.",
+                "stem": "What did people generally think of Red Rum when he returned to the racecourse in 1977?",
                 "answer": "A",
-                "explanation": "选 A。P5When he returned in 1977 to try again, he was largely regarded as past his prime. He was 12 years old and not expected to place highly. 1977 年他再度归来尝试时，普遍被认为已过巅峰；他已 12 岁，不被看好会拿到好名次。"
+                "explanation": "选 A。P5When he returned in 1977 to try again, he was largely regarded as past his prime. He was 12 years old and not expected to place highly. 1977 年他再度归来尝试时，普遍被认为已过巅峰；他已 12 岁，不被看好会拿到好名次。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "He had already passed the peak of his racing life."
+                  },
+                  {
+                    "key": "B",
+                    "text": "He would have no rival in Grand National steeplechases."
+                  },
+                  {
+                    "key": "C",
+                    "text": "He had lost his charm with the leagues of Grand National fans."
+                  },
+                  {
+                    "key": "D",
+                    "text": "He could be expected to repeat his glory in the prime of his career."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What became of Red Rum after his career ended?A)He suffered from severe pain in a heel.",
+                "stem": "What became of Red Rum after his career ended?",
                 "answer": "D",
-                "explanation": "选 D。P6He was retired soon after, but his public life and fame by no means decreased with the end of his career. Red Rum traveled all over the country for various engagements. He often led pre-race parades at Aintree Racecourse and was a popular guest at…"
+                "explanation": "选 D。P6He was retired soon after, but his public life and fame by no means decreased with the end of his career. Red Rum traveled all over the country for various engagements. He often led pre-race parades at Aintree Racecourse and was a popular guest at…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "He suffered from severe pain in a heel."
+                  },
+                  {
+                    "key": "B",
+                    "text": "He spent almost all his time traveling."
+                  },
+                  {
+                    "key": "C",
+                    "text": "He lived on various charity benefits."
+                  },
+                  {
+                    "key": "D",
+                    "text": "He remained famous and popular."
+                  }
+                ]
               }
             ]
           },
@@ -24004,33 +26254,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What does the author say businesspeople often do?A)Strive to make sense of some unknown forces.",
+                "stem": "What does the author say businesspeople often do?",
                 "answer": "D",
-                "explanation": "选 D。P1People in business often make decisions based on their own personal feelings or instincts. 商界人士常常基于自己的个人感觉或直觉做决策。"
+                "explanation": "选 D。P1People in business often make decisions based on their own personal feelings or instincts. 商界人士常常基于自己的个人感觉或直觉做决策。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Strive to make sense of some unknown forces."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Avoid being driven by their own feeling."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Draw on a vast wealth of past experience."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Rely on instincts in decision-making."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What should we take into account in order to make informed decisions?A)The likelihood of errors.",
+                "stem": "What should we take into account in order to make informed decisions?",
                 "answer": "B",
-                "explanation": "选 B。P3Data and analysis have long been associated with informed decisions. 数据与分析长期以来一直与明智的决策紧密相关。"
+                "explanation": "选 B。P3Data and analysis have long been associated with informed decisions. 数据与分析长期以来一直与明智的决策紧密相关。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "The likelihood of errors."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Systematic data and analysis."
+                  },
+                  {
+                    "key": "C",
+                    "text": "The complexity of circumstances."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Personal feelings and business strategies"
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What should people do in a decision-making process if instincts disagree with data?A)Resolve the dilemma with previous experience.",
+                "stem": "What should people do in a decision-making process if instincts disagree with data?",
                 "answer": "C",
-                "explanation": "选 C。P4Without making things complicated, the solution to this dilemma is using data and instincts in conjunction to arrive at the best possible decisions. 简单来说，这一难题的解决方案是把数据和直觉结合起来使用，以达成最佳的决策。"
+                "explanation": "选 C。P4Without making things complicated, the solution to this dilemma is using data and instincts in conjunction to arrive at the best possible decisions. 简单来说，这一难题的解决方案是把数据和直觉结合起来使用，以达成最佳的决策。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Resolve the dilemma with previous experience."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Figure out which of the two is more reliable."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Combine the two together."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Prioritize instincts over data."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What should we do when facing various factors that limit the practicality of data?A)Make a rational and systematic analysis.",
+                "stem": "What should we do when facing various factors that limit the practicality of data?",
                 "answer": "C",
-                "explanation": "选 C。P6The only feasible option is to rely on what your instincts tell you. 唯一可行的办法，是依靠你的直觉告诉你的东西。"
+                "explanation": "选 C。P6The only feasible option is to rely on what your instincts tell you. 唯一可行的办法，是依靠你的直觉告诉你的东西。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Make a rational and systematic analysis."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Explore the most feasible options."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Resort to our inner wisdom."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Apply definitive criteria."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What does it take for decisions to become the best according to the author?A)Applying instincts and data in conjunction.",
+                "stem": "What does it take for decisions to become the best according to the author?",
                 "answer": "A",
-                "explanation": "选 A。P7Combining instinctive and rational analysis produces well-rounded decisions. 把直觉与理性分析结合起来，能产出周全的决策。"
+                "explanation": "选 A。P7Combining instinctive and rational analysis produces well-rounded decisions. 把直觉与理性分析结合起来，能产出周全的决策。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Applying instincts and data in conjunction."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Assessing all factors when making a choice."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Recalling what has actually worked in the past."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Refraining from trusting instincts arbitrarily."
+                  }
+                ]
               }
             ]
           }
@@ -25953,7 +28293,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2023-12-2",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -25966,33 +28306,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "How can competitive rivalry benefit entrepreneurs according to the passage?A)By enabling them to outcompete other entrepreneurs.",
+                "stem": "How can competitive rivalry benefit entrepreneurs according to the passage?",
                 "answer": "D",
-                "explanation": "选 D。P1Having a rival can keep you committed to achieving your goals and enhance your overall performance. 有一个竞争对手能让你持续专注于实现自己的目标，并提升你的整体表现。"
+                "explanation": "选 D。P1Having a rival can keep you committed to achieving your goals and enhance your overall performance. 有一个竞争对手能让你持续专注于实现自己的目标，并提升你的整体表现。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "By enabling them to outcompete other entrepreneurs."
+                  },
+                  {
+                    "key": "B",
+                    "text": "By enabling them to make their venture a success."
+                  },
+                  {
+                    "key": "C",
+                    "text": "By helping them to reach long-term goals."
+                  },
+                  {
+                    "key": "D",
+                    "text": "By helping them to stay goal-oriented."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What is one of the traps entrepreneurs may often fall into when competing with rivals?A)They may adopt strategies that are bound to ruin their venture.",
+                "stem": "What is one of the traps entrepreneurs may often fall into when competing with rivals?",
                 "answer": "B",
-                "explanation": "选 B。P2They found that when people compete against their rivals, they are more willing to behave unethically to win. 他们发现，当人们与对手竞争时，更愿意为了取胜而采取不道德的行为。"
+                "explanation": "选 B。P2They found that when people compete against their rivals, they are more willing to behave unethically to win. 他们发现，当人们与对手竞争时，更愿意为了取胜而采取不道德的行为。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They may adopt strategies that are bound to ruin their venture."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They may resort to unethical means to outperform their rivals."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They may be too eager to succeed while ignoring the huge labor cost."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They may be intently focused on winning at the current market level."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What are entrepreneurs advised to do to avoid traps that often accompany rivalry?A)Deliberate on what really matters.",
+                "stem": "What are entrepreneurs advised to do to avoid traps that often accompany rivalry?",
                 "answer": "A",
-                "explanation": "选 A。P2One way to avoid this trap is to stop and reflect on what's important. 避免这个陷阱的一个办法是停下来，反思什么才是重要的。"
+                "explanation": "选 A。P2One way to avoid this trap is to stop and reflect on what's important. 避免这个陷阱的一个办法是停下来，反思什么才是重要的。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Deliberate on what really matters."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Prioritize reaping immediate benefits."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Estimate the long-term consequences."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Reflect on what successes are achievable."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "How can entrepreneurs avoid making impulsive and insensible decisions?A)By engaging themselves in critical reasoning.",
+                "stem": "How can entrepreneurs avoid making impulsive and insensible decisions?",
                 "answer": "A",
-                "explanation": "选 A。P3But it's possible to avoid such costly mistakes by making a habit of engaging in critical thinking, such as considering opposing viewpoints and conducting cost-benefit analyses, especially for those decisions that are complex and can determine the…"
+                "explanation": "选 A。P3But it's possible to avoid such costly mistakes by making a habit of engaging in critical thinking, such as considering opposing viewpoints and conducting cost-benefit analyses, especially for those decisions that are complex and can determine the…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "By engaging themselves in critical reasoning."
+                  },
+                  {
+                    "key": "B",
+                    "text": "By developing a habit of keeping their integrity."
+                  },
+                  {
+                    "key": "C",
+                    "text": "By criticizing themselves for previous poor performances."
+                  },
+                  {
+                    "key": "D",
+                    "text": "By refraining from being too excited about their successes."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "How can entrepreneurs overcome the risk-inducing effects of rivalry?A)By paying close attention to their current performance.",
+                "stem": "How can entrepreneurs overcome the risk-inducing effects of rivalry?",
                 "answer": "D",
-                "explanation": "选 D。P4One way you can overcome the risk-inducing effects of rivalry that stand to endanger your venture's success is to remain attentive to your emotional state and actively monitor how such feelings are affecting your decision-making. 你能克服这种危及事业成功的、由竞争…"
+                "explanation": "选 D。P4One way you can overcome the risk-inducing effects of rivalry that stand to endanger your venture's success is to remain attentive to your emotional state and actively monitor how such feelings are affecting your decision-making. 你能克服这种危及事业成功的、由竞争…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "By paying close attention to their current performance."
+                  },
+                  {
+                    "key": "B",
+                    "text": "By taking steps that stand to endanger their rivals' success."
+                  },
+                  {
+                    "key": "C",
+                    "text": "By monitoring how their decision-making impacts their mentality."
+                  },
+                  {
+                    "key": "D",
+                    "text": "By keeping their emotions in check to avoid making poor decisions."
+                  }
+                ]
               }
             ]
           },
@@ -26002,33 +28432,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What does a \"multitasker\" originally refer to?A)An operating system capable of doing several tasks at once.",
+                "stem": "What does a \"multitasker\" originally refer to?",
                 "answer": "A",
-                "explanation": "选 A。P1The concept does indeed come from the realms of technology, where it is used to refer to an operating system that can execute multiple tasks at the same time. 这个概念确实来自科技领域，在那里它被用来指一种能够同时执行多项任务的操作系统。"
+                "explanation": "选 A。P1The concept does indeed come from the realms of technology, where it is used to refer to an operating system that can execute multiple tasks at the same time. 这个概念确实来自科技领域，在那里它被用来指一种能够同时执行多项任务的操作系统。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "An operating system capable of doing several tasks at once."
+                  },
+                  {
+                    "key": "B",
+                    "text": "A skilled worker executing more than one task at the same time."
+                  },
+                  {
+                    "key": "C",
+                    "text": "A sophisticated technology doing several tasks effectively at once."
+                  },
+                  {
+                    "key": "D",
+                    "text": "An efficient person able to perform multiple tasks at the same time."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "Why can't people really be multitaskers according to neuroscientists?A)They are not sufficiently exposed to multitasking situations.",
+                "stem": "Why can't people really be multitaskers according to neuroscientists?",
                 "answer": "C",
-                "explanation": "选 C。P2So much so that, according to experts in neuroscience(神经系统科学), our brains do not handle multitasking situations well. 以至于，按照神经科学专家的说法，我们的大脑并不能很好地处理多任务情境。"
+                "explanation": "选 C。P2So much so that, according to experts in neuroscience(神经系统科学), our brains do not handle multitasking situations well. 以至于，按照神经科学专家的说法，我们的大脑并不能很好地处理多任务情境。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They are not sufficiently exposed to multitasking situations."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are not comparable to mechanical operating systems."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Their brains do not allow them to multitask."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Their attention span cannot be expanded."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What do we learn from the conclusion of a recent study on multitasking?A)People make greater achievements by maintaining whatever they are doing is multitasking.",
+                "stem": "What do we learn from the conclusion of a recent study on multitasking?",
                 "answer": "B",
-                "explanation": "选 B。P3A recent study concluded that regardless of whether people are actually handling several tasks or not, the mere fact that they perceive this activity as multitasking has a positive effect on their performance. 一项近期研究得出结论：无论人们是否真的在处理多项任务，仅仅是他们把这一活动…"
+                "explanation": "选 B。P3A recent study concluded that regardless of whether people are actually handling several tasks or not, the mere fact that they perceive this activity as multitasking has a positive effect on their performance. 一项近期研究得出结论：无论人们是否真的在处理多项任务，仅仅是他们把这一活动…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "People make greater achievements by maintaining whatever they are doing is multitasking."
+                  },
+                  {
+                    "key": "B",
+                    "text": "People's performance benefits from the perception of what they are doing as multitasking."
+                  },
+                  {
+                    "key": "C",
+                    "text": "People's active mental processes exert a positive effect on their multitasking."
+                  },
+                  {
+                    "key": "D",
+                    "text": "People can improve their capabilities by handling multitasking situations."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "How does the business world view multitasking?A)It is a rare skill often found in fluid organisations.",
+                "stem": "How does the business world view multitasking?",
                 "answer": "D",
-                "explanation": "选 D。P4From this different perspective, you can not only be multitasking but this ability can also be taught: something that is easier in fluid organisations, which favour flexibility in their working practices. 从这一不同视角看，你不仅可以做到多任务，而且这种能力还可以被传授：这在灵活的组织里更…"
+                "explanation": "选 D。P4From this different perspective, you can not only be multitasking but this ability can also be taught: something that is easier in fluid organisations, which favour flexibility in their working practices. 从这一不同视角看，你不仅可以做到多任务，而且这种能力还可以被传授：这在灵活的组织里更…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It is a rare skill often found in fluid organisations."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is an adaptable capability required of all workers."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It is an essential quality many employees lack."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It is a desirable ability that can be developed."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What does the author imply we should do if we have to focus on some task and do it well?A)Work in a flexible way.",
+                "stem": "What does the author imply we should do if we have to focus on some task and do it well?",
                 "answer": "C",
-                "explanation": "选 C。P5But having to pay attention to several things at once means that the powers of concentration are reduced and that can lead to more mistakes. 但不得不同时关注好几件事，意味着专注力会下降，而这会导致更多错误。"
+                "explanation": "选 C。P5But having to pay attention to several things at once means that the powers of concentration are reduced and that can lead to more mistakes. 但不得不同时关注好几件事，意味着专注力会下降，而这会导致更多错误。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Work in a flexible way."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Learn from mistakes."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Avoid multitasking."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Increase efficiency"
+                  }
+                ]
               }
             ]
           }
@@ -28125,7 +30645,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2023-12-1",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -28138,33 +30658,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What is a reason for the author to be in the habit of saying \"busy\" when asked how he is doing?A)He just follows successful people's example.",
+                "stem": "What is a reason for the author to be in the habit of saying \"busy\" when asked how he is doing?",
                 "answer": "A",
-                "explanation": "选 A。P1Sometimes it's because I actually am busy, but other times it's because that's what I think I'm supposed to say. That's what important people say. That's what people who get promoted say. 有时是因为我确实忙，但另一些时候是因为那是我以为自己应该说的话。重要人物就这么说，得到晋升的人就这么说。"
+                "explanation": "选 A。P1Sometimes it's because I actually am busy, but other times it's because that's what I think I'm supposed to say. That's what important people say. That's what people who get promoted say. 有时是因为我确实忙，但另一些时候是因为那是我以为自己应该说的话。重要人物就这么说，得到晋升的人就这么说。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "He just follows successful people's example."
+                  },
+                  {
+                    "key": "B",
+                    "text": "He is actually proud to be fully occupied."
+                  },
+                  {
+                    "key": "C",
+                    "text": "He thinks everyone should be devoted to work."
+                  },
+                  {
+                    "key": "D",
+                    "text": "He believes busyness ensures accomplishments."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "Why do we tend to think that busy people are of high status?A)Our status can be attributed to our social mobility.",
+                "stem": "Why do we tend to think that busy people are of high status?",
                 "answer": "B",
-                "explanation": "选 B。P2In other words, the more we believe that one has the opportunity for success based on hard work, the more we tend to think that people who skip leisure and work all the time are of higher standing. 换句话说，我们越是相信一个人靠努力工作就有成功的机会，就越倾向于认为那些放弃休闲、一直工作的人地位…"
+                "explanation": "选 B。P2In other words, the more we believe that one has the opportunity for success based on hard work, the more we tend to think that people who skip leisure and work all the time are of higher standing. 换句话说，我们越是相信一个人靠努力工作就有成功的机会，就越倾向于认为那些放弃休闲、一直工作的人地位…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Our status can be attributed to our social mobility."
+                  },
+                  {
+                    "key": "B",
+                    "text": "We hold the belief that hard work leads to success."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Our own opportunity for success never comes easily."
+                  },
+                  {
+                    "key": "D",
+                    "text": "We find few people of high status have time for leisure."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What do we learn about the culture of busyness from a recent study?A)It places employees in endless meetings, emails and stress.",
+                "stem": "What do we learn about the culture of busyness from a recent study?",
                 "answer": "D",
-                "explanation": "选 D。P3This culture of busyness is making it hard for employees to find work-life balance. According to a recent study, one in five highly engaged employees is at risk of burnout(精疲力竭). 这种忙碌文化正使员工难以找到工作与生活的平衡。根据近期一项研究，每五名高投入员工中就有一名面临精疲力竭的风险。"
+                "explanation": "选 D。P3This culture of busyness is making it hard for employees to find work-life balance. According to a recent study, one in five highly engaged employees is at risk of burnout(精疲力竭). 这种忙碌文化正使员工难以找到工作与生活的平衡。根据近期一项研究，每五名高投入员工中就有一名面临精疲力竭的风险。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It places employees in endless meetings, emails and stress."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It compels some 20% of employees to appear always busy."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It distorts many employees' belief of what a satisfying life is."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It does much harm to many busy employees' well-being."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What do such utterances as \"I have limited access to email\" sound like according to the author?A)One is too busy to check all emails in time.",
+                "stem": "What do such utterances as \"I have limited access to email\" sound like according to the author?",
                 "answer": "C",
-                "explanation": "选 C。P4Phrases like \"I have limited access to email\" and \"I'll respond as soon as I get back\" sound like you're being held against your will from working as opposed to making the most of your time off. “我邮件查看受限”“我一回来就回复”这类话听起来像是你被违背意愿地拦着不让工作，而不是在充分利用你的休假…"
+                "explanation": "选 C。P4Phrases like \"I have limited access to email\" and \"I'll respond as soon as I get back\" sound like you're being held against your will from working as opposed to making the most of your time off. “我邮件查看受限”“我一回来就回复”这类话听起来像是你被违背意愿地拦着不让工作，而不是在充分利用你的休假…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "One is too busy to check all emails in time."
+                  },
+                  {
+                    "key": "B",
+                    "text": "One is opposed to the prevailing work culture."
+                  },
+                  {
+                    "key": "C",
+                    "text": "One is forced by circumstances to stop working."
+                  },
+                  {
+                    "key": "D",
+                    "text": "One is simply enjoying their time off work."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "Why did the author and his colleagues launch the Out of Office Email Generator?A)To enable busy employees to spend less time checking emails.",
+                "stem": "Why did the author and his colleagues launch the Out of Office Email Generator?",
                 "answer": "B",
-                "explanation": "选 B。P5That's why we recently launched the Out of Office Email Generator, a free tool you can use before your next long weekend or trip. You can share loud and proud that you won't be checking email until you're back. Managers need to think twice about e…"
+                "explanation": "选 B。P5That's why we recently launched the Out of Office Email Generator, a free tool you can use before your next long weekend or trip. You can share loud and proud that you won't be checking email until you're back. Managers need to think twice about e…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "To enable busy employees to spend less time checking emails."
+                  },
+                  {
+                    "key": "B",
+                    "text": "To ensure employees as well as employers truly have time off."
+                  },
+                  {
+                    "key": "C",
+                    "text": "To stop managers from talking about how busy their teams usually are."
+                  },
+                  {
+                    "key": "D",
+                    "text": "To encourage both employers and employees to answer emails promptly."
+                  }
+                ]
               }
             ]
           },
@@ -28174,33 +30784,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What did the author's team conclude about the gender difference in airfares from their further investigation?A)It is largely attributed to women booking earlier than men.",
+                "stem": "What did the author's team conclude about the gender difference in airfares from their further investigation?",
                 "answer": "A",
-                "explanation": "选 A。P2Further investigation allowed us to conclude that this gap is largely explained by the fact that women tended to book earlier than men, 1.8 days on average. 进一步调查使我们得出结论：这一差距很大程度上可由女性比男性订得更早这一事实来解释，平均早 1.8 天。"
+                "explanation": "选 A。P2Further investigation allowed us to conclude that this gap is largely explained by the fact that women tended to book earlier than men, 1.8 days on average. 进一步调查使我们得出结论：这一差距很大程度上可由女性比男性订得更早这一事实来解释，平均早 1.8 天。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It is largely attributed to women booking earlier than men."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is largely explained by women's choosing cheaper flights."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It is mainly accounted for by male employees' readiness to pay more."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It is due to the fact that women care more about their company's money."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What did the researchers want to determine by testing a variety of possible explanations?A)What made male frequent travelers book air tickets late.",
+                "stem": "What did the researchers want to determine by testing a variety of possible explanations?",
                 "answer": "D",
-                "explanation": "选 D。P3We wanted to determine what was causing these gender differences in booking business trips so we tested a variety of possible explanations, such as women choosing to plan ahead or male frequent travelers being inclined to book late. 我们想弄清是什么造成了订商务…"
+                "explanation": "选 D。P3We wanted to determine what was causing these gender differences in booking business trips so we tested a variety of possible explanations, such as women choosing to plan ahead or male frequent travelers being inclined to book late. 我们想弄清是什么造成了订商务…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "What made male frequent travelers book air tickets late."
+                  },
+                  {
+                    "key": "B",
+                    "text": "What caused women to plan ahead in booking business trips."
+                  },
+                  {
+                    "key": "C",
+                    "text": "What motivated women to book cheaper flights."
+                  },
+                  {
+                    "key": "D",
+                    "text": "What accounted for the gender gap in airfares."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What happened when the negative reciprocity variable was taken into account?A)Both men and women were found to engage in negative behaviors.",
+                "stem": "What happened when the negative reciprocity variable was taken into account?",
                 "answer": "C",
-                "explanation": "选 C。P4It only means that the gender gap disappears when we plug in the negative reciprocity variable. 它只是意味着，当我们把负向回报这一变量代入后，性别差距就消失了。"
+                "explanation": "选 C。P4It only means that the gender gap disappears when we plug in the negative reciprocity variable. 它只是意味着，当我们把负向回报这一变量代入后，性别差距就消失了。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Both men and women were found to engage in negative behaviors."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Neither men nor women viewed booking late as a bad behavior."
+                  },
+                  {
+                    "key": "C",
+                    "text": "The gender difference in airfare expenses no longer existed."
+                  },
+                  {
+                    "key": "D",
+                    "text": "The gender gap tended to narrow to a significant degree."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What did prior research on negative reciprocity among workers find?A)It can do more harm to the workplace than to employees.",
+                "stem": "What did prior research on negative reciprocity among workers find?",
                 "answer": "C",
-                "explanation": "选 C。P5Prior research on negative reciprocity among workers found that it can result in lower employee motivation, business performance and workplace morale(士气) and culture. 先前关于工人负向回报的研究发现，它会导致员工积极性、业绩、职场士气与文化的下降。"
+                "explanation": "选 C。P5Prior research on negative reciprocity among workers found that it can result in lower employee motivation, business performance and workplace morale(士气) and culture. 先前关于工人负向回报的研究发现，它会导致员工积极性、业绩、职场士气与文化的下降。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It can do more harm to the workplace than to employees."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It contributes to the male-female divide in the workplace."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It proves to be counterproductive in a number of ways."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It can result in increasing labor-management conflicts."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What does the author emphasize about their analysis in the last paragraph?A)It can help companies increase their savings significantly.",
+                "stem": "What does the author emphasize about their analysis in the last paragraph?",
                 "answer": "A",
-                "explanation": "选 A。P7Our analysis suggests early booking by women can translate into savings of $1 million a year for a large multinational company with 20,000 regular travelers. 我们的分析表明，女性的早订每年可为一家拥有两万名常旅客的大型跨国公司带来一百万美元的节省。"
+                "explanation": "选 A。P7Our analysis suggests early booking by women can translate into savings of $1 million a year for a large multinational company with 20,000 regular travelers. 我们的分析表明，女性的早订每年可为一家拥有两万名常旅客的大型跨国公司带来一百万美元的节省。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It can help companies increase their savings significantly."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It can duly contribute to companies' business performance."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It can translate women's booking practice into men's behavior."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It can enhance large multinational companies' competitiveness."
+                  }
+                ]
               }
             ]
           }
@@ -29951,7 +32651,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2023-06-3",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -29964,33 +32664,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "Why are many employees opposed to team-building exercises?A)They consider such exercises annoying.",
+                "stem": "Why are many employees opposed to team-building exercises?",
                 "answer": "A",
-                "explanation": "选 A。P1Unfortunately many employees resent compulsory bonding and often regard these exercises as a nuisance. 遗憾的是，许多员工反感被强制团建，并常把这些练习视为一种麻烦。"
+                "explanation": "选 A。P1Unfortunately many employees resent compulsory bonding and often regard these exercises as a nuisance. 遗憾的是，许多员工反感被强制团建，并常把这些练习视为一种麻烦。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They consider such exercises annoying."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They deem these exercises counter-productive."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They see such exercises as harmful to harmony."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They find these exercises too demanding."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What did Dr. Matous and his team do to find out whether team-building activities would improve productivity?A)They relocated team leaders and their offices.",
+                "stem": "What did Dr. Matous and his team do to find out whether team-building activities would improve productivity?",
                 "answer": "B",
-                "explanation": "选 B。P4Teams are formed, combined and restructured. Staff are relocated and office spaces redesigned. All this is done with the aim of improving workplace efficiency, collaboration and cohesion. 团队被组建、合并、重组。员工被调岗，办公空间被重新设计。所有这些都是为了提升工作效率、协作与凝聚力。"
+                "explanation": "选 B。P4Teams are formed, combined and restructured. Staff are relocated and office spaces redesigned. All this is done with the aim of improving workplace efficiency, collaboration and cohesion. 团队被组建、合并、重组。员工被调岗，办公空间被重新设计。所有这些都是为了提升工作效率、协作与凝聚力。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They relocated team leaders and their offices."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They rearranged the staff and office spaces."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They redesigned the staff's work schedules."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They reintroduced some cohesive activities."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What did the study by Matous' team find about some team-building exercises?A)They were intended to share personal attitudes and relationships.",
+                "stem": "What did the study by Matous' team find about some team-building exercises?",
                 "answer": "D",
-                "explanation": "选 D。P5The study found that team-building exercises which focused on the sharing of and intervening into personal attitudes and relationships between team members were considered too heavy-handed and intrusive, although the researchers say some degree of…"
+                "explanation": "选 D。P5The study found that team-building exercises which focused on the sharing of and intervening into personal attitudes and relationships between team members were considered too heavy-handed and intrusive, although the researchers say some degree of…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They were intended to share personal attitudes and relationships."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They implicitly added to the vulnerability of team members."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They invariably strengthened connections among colleagues."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They were regarded as an intrusion into employees' private lives."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "How can the self-disclosure approach succeed in increasing interpersonal closeness?A)By allowing participants freedom to express themselves.",
+                "stem": "How can the self-disclosure approach succeed in increasing interpersonal closeness?",
                 "answer": "B",
-                "explanation": "选 B。P7The method is well-tested and has been shown to increase interpersonal closeness. However, to be successful it must be voluntary. 该方法经过充分检验，已被证明能增进人际亲密。然而，要想成功，它必须是自愿的。"
+                "explanation": "选 B。P7The method is well-tested and has been shown to increase interpersonal closeness. However, to be successful it must be voluntary. 该方法经过充分检验，已被证明能增进人际亲密。然而，要想成功，它必须是自愿的。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "By allowing participants freedom to express themselves."
+                  },
+                  {
+                    "key": "B",
+                    "text": "By applying it to employees who volunteer to participate."
+                  },
+                  {
+                    "key": "C",
+                    "text": "By arranging in proper order the questions participants face."
+                  },
+                  {
+                    "key": "D",
+                    "text": "By guiding employees through a series of steps in team building."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What does Matous think of the various psychological methods borrowed from other fields for strengthening relationships?A)They must be used in combination for an entire collective.",
+                "stem": "What does Matous think of the various psychological methods borrowed from other fields for strengthening relationships?",
                 "answer": "D",
-                "explanation": "选 D。P8\"With caution, many relational methods to improve teams and organisations can be borrowed from other fields. The question is how to apply them effectively to strengthen an entire collective, which is more than just the sum of individual relationsh…"
+                "explanation": "选 D。P8\"With caution, many relational methods to improve teams and organisations can be borrowed from other fields. The question is how to apply them effectively to strengthen an entire collective, which is more than just the sum of individual relationsh…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They must be used in combination for an entire collective."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They prioritise some psychological aspects over others."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They place too much stress on individual relationships."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They have to be applied cautiously to be effective."
+                  }
+                ]
               }
             ]
           },
@@ -30000,33 +32790,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "Why did the citizens of Los Angeles vote to raise their own taxes?A)To combat the county's homelessness.",
+                "stem": "Why did the citizens of Los Angeles vote to raise their own taxes?",
                 "answer": "A",
-                "explanation": "选 A。P1The purpose of such action is to fund an enormous multibillion-dollar, 10-year program of housing and social services for the homeless. 此举的目的是资助一项数十亿美元、为期十年、面向无家可归者的住房与社会服务计划。"
+                "explanation": "选 A。P1The purpose of such action is to fund an enormous multibillion-dollar, 10-year program of housing and social services for the homeless. 此举的目的是资助一项数十亿美元、为期十年、面向无家可归者的住房与社会服务计划。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "To combat the county's homelessness."
+                  },
+                  {
+                    "key": "B",
+                    "text": "To reform the county's service system."
+                  },
+                  {
+                    "key": "C",
+                    "text": "To fund the development of local infrastructure."
+                  },
+                  {
+                    "key": "D",
+                    "text": "To narrow the gap between the rich and the poor."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What do people tend to believe about the homeless?A)They seldom meet the descriptions of homelessness.",
+                "stem": "What do people tend to believe about the homeless?",
                 "answer": "C",
-                "explanation": "选 C。P3For as long as there are homeless people, there is a tendency to blame the victims themselves for their condition—to see their failure to thrive as an issue of character, of moral weakness, of laziness. 只要有无家可归者存在，就有一种倾向，把他们的处境归咎于受害者自身——把他们的潦倒看作品格…"
+                "explanation": "选 C。P3For as long as there are homeless people, there is a tendency to blame the victims themselves for their condition—to see their failure to thrive as an issue of character, of moral weakness, of laziness. 只要有无家可归者存在，就有一种倾向，把他们的处境归咎于受害者自身——把他们的潦倒看作品格…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They seldom meet the descriptions of homelessness."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are the victims of fast economic development."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They are responsible for their own condition."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They account for the majority of drug addicts."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What is one of the causes for more and more people in Los Angeles to become homeless?A)They find it increasingly difficult to afford a place to live.",
+                "stem": "What is one of the causes for more and more people in Los Angeles to become homeless?",
                 "answer": "A",
-                "explanation": "选 A。P3Today, a greater and greater proportion of people living on the streets are there because of bad luck or a series of mistakes, or because the economy forgot them—they lost a job or were evicted or fled an abusive marriage just as the housing marke…"
+                "explanation": "选 A。P3Today, a greater and greater proportion of people living on the streets are there because of bad luck or a series of mistakes, or because the economy forgot them—they lost a job or were evicted or fled an abusive marriage just as the housing marke…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They find it increasingly difficult to afford a place to live."
+                  },
+                  {
+                    "key": "B",
+                    "text": "The divorce rate in the county has been on a steady rise."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They have been compelled to take low-paying jobs."
+                  },
+                  {
+                    "key": "D",
+                    "text": "The society fails to forgive them for their mistakes."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What do we learn from the new Los Angeles Homeless Services Authority report?A)Supplying enough job opportunities for the homeless remains a challenge.",
+                "stem": "What do we learn from the new Los Angeles Homeless Services Authority report?",
                 "answer": "C",
-                "explanation": "选 C。P4That reality was driven home this month by a new Los Angeles Homeless Services Authority report showing that the county's homeless population is growing faster than the supply of new housing. 本月一份新的洛杉矶无家可归者服务局报告印证了这一现实：本郡无家可归人口的增长速度快于新住房的供给速度。"
+                "explanation": "选 C。P4That reality was driven home this month by a new Los Angeles Homeless Services Authority report showing that the county's homeless population is growing faster than the supply of new housing. 本月一份新的洛杉矶无家可归者服务局报告印证了这一现实：本郡无家可归人口的增长速度快于新住房的供给速度。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Supplying enough job opportunities for the homeless remains a challenge."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Everyone is pulling in the same direction to solve the homelessness problem."
+                  },
+                  {
+                    "key": "C",
+                    "text": "The increase in new housing falls short of the demand of the growing homeless population."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Los Angeles' homeless condition is deteriorating faster than many people predict."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "How do most Los Angeles residents now feel about homelessness?A)They are increasingly ashamed about its scale.",
+                "stem": "How do most Los Angeles residents now feel about homelessness?",
                 "answer": "D",
-                "explanation": "选 D。P5But most Los Angeles residents are no longer either shocked or shamed. Increasingly, we are uncomfortable, annoyed, disgusted, scared or unaware. 但多数洛杉矶居民已不再震惊，也不再羞愧。我们越来越多地感到不适、恼火、厌恶、害怕或浑然不觉。"
+                "explanation": "选 D。P5But most Los Angeles residents are no longer either shocked or shamed. Increasingly, we are uncomfortable, annoyed, disgusted, scared or unaware. 但多数洛杉矶居民已不再震惊，也不再羞愧。我们越来越多地感到不适、恼火、厌恶、害怕或浑然不觉。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They are increasingly ashamed about its scale."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They find it no more scaring than it appears."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They are less and less indifferent to it."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They no longer find it shocking."
+                  }
+                ]
               }
             ]
           }
@@ -32011,7 +34891,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2023-06-2",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -32024,33 +34904,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What problem have supermarkets been facing?A)They are actually on the way to bankruptcy.",
+                "stem": "What problem have supermarkets been facing?",
                 "answer": "B",
-                "explanation": "选 B。P1Supermarkets have long been suffering as one of the thinnest-margined businesses in existence and one of the least-looked-forward-to places to work or visit. For more than a decade, they have been under attack from e-commerce giants, blamed for ma…"
+                "explanation": "选 B。P1Supermarkets have long been suffering as one of the thinnest-margined businesses in existence and one of the least-looked-forward-to places to work or visit. For more than a decade, they have been under attack from e-commerce giants, blamed for ma…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They are actually on the way to bankruptcy."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They have been losing customers and profits."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They are forced to use e-commerce strategies."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They have difficulty adapting to climate change."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What does the passage say about the idea of a self-service grocery?A)It was put forward by King Kullen.",
+                "stem": "What does the passage say about the idea of a self-service grocery?",
                 "answer": "B",
-                "explanation": "选 B。P2The revolutionary idea of a self-service grocery, where people could hunt and gather food from aisles rather than asking a clerk to fetch items from behind a counter, first came about in America. 让人们能在货架间自行寻找采集食物、而不必请店员从柜台后取货的自助式杂货这一革命性想法，最早出现在美国。"
+                "explanation": "选 B。P2The revolutionary idea of a self-service grocery, where people could hunt and gather food from aisles rather than asking a clerk to fetch items from behind a counter, first came about in America. 让人们能在货架间自行寻找采集食物、而不必请店员从柜台后取货的自助式杂货这一革命性想法，最早出现在美国。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It was put forward by King Kullen."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It originated in the United States."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It has been under constant debate."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It proves revolutionary even today."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What did supermarkets do by adopting the Fordist factory approach?A)They modernized traditional groceries in many ways.",
+                "stem": "What did supermarkets do by adopting the Fordist factory approach?",
                 "answer": "D",
-                "explanation": "选 D。P3The supermarket imitated the Fordist factory, with its emphasis on efficiency and standardization, and reimagined it as a place to buy food. Supermarkets may not feel cutting-edge now, but they were a revolution in distribution at the time. 超市模仿了讲…"
+                "explanation": "选 D。P3The supermarket imitated the Fordist factory, with its emphasis on efficiency and standardization, and reimagined it as a place to buy food. Supermarkets may not feel cutting-edge now, but they were a revolution in distribution at the time. 超市模仿了讲…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They modernized traditional groceries in many ways."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They introduced cutting-edge layout of their stores."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They improved the quality of the food they sold."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They revolutionized the distribution of goods."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What is the typical supermarket layout intended to do?A)Arouse customers' appetite to buy flowers, fruit and vegetables.",
+                "stem": "What is the typical supermarket layout intended to do?",
                 "answer": "C",
-                "explanation": "选 C。P4Meanwhile, they keep the milk, eggs, and other daily basics all the way back so you'll travel through as much of the store as possible, and be tempted along the way. 与此同时，超市把牛奶、鸡蛋等日用必需品全放在最里面，好让你穿过尽可能多的店面，一路上被诱惑。"
+                "explanation": "选 C。P4Meanwhile, they keep the milk, eggs, and other daily basics all the way back so you'll travel through as much of the store as possible, and be tempted along the way. 与此同时，超市把牛奶、鸡蛋等日用必需品全放在最里面，好让你穿过尽可能多的店面，一路上被诱惑。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Arouse customers' appetite to buy flowers, fruit and vegetables."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Provide customers easy access to items they want to buy."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Induce customers to make more unplanned purchases."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Enable customers to have a more enjoyable shopping experience."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What have people long feared about supermarkets?A)They use tricky strategies to promote their business.",
+                "stem": "What have people long feared about supermarkets?",
                 "answer": "A",
-                "explanation": "选 A。P5We have long feared that this \"revolution in distribution\" uses corporate black magic on our appetite. 长期以来我们一直害怕，这场\"分销革命\"在用企业的黑魔法操纵我们的食欲。"
+                "explanation": "选 A。P5We have long feared that this \"revolution in distribution\" uses corporate black magic on our appetite. 长期以来我们一直害怕，这场\"分销革命\"在用企业的黑魔法操纵我们的食欲。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They use tricky strategies to promote their business."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are going to replace the local groceries entirely."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They apply corporate black magic to the goods on display."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They take advantage of the weaknesses of women shoppers."
+                  }
+                ]
               }
             ]
           },
@@ -32060,33 +35030,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "Why did America's traditional school year have a three-month summer vacation?A)Students needed to help with farm work.",
+                "stem": "Why did America's traditional school year have a three-month summer vacation?",
                 "answer": "A",
-                "explanation": "选 A。P1The traditional school year, with three months of vacation every summer, was first implemented when America was an agricultural society and the summer months were needed for farm work. 传统学年带有每年夏季三个月假期，它最初设立于美国还是农业社会、夏季几个月需要用于农活的时候。"
+                "explanation": "选 A。P1The traditional school year, with three months of vacation every summer, was first implemented when America was an agricultural society and the summer months were needed for farm work. 传统学年带有每年夏季三个月假期，它最初设立于美国还是农业社会、夏季几个月需要用于农活的时候。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Students needed to help with farm work."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Students needed time to learn necessary farming skills."
+                  },
+                  {
+                    "key": "C",
+                    "text": "The agricultural society then attached less importance to academics."
+                  },
+                  {
+                    "key": "D",
+                    "text": "America lagged behind other countries in making a scientific school calendar."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What benefit will year-round schooling bring students in addition to improving their learning?A)It will help them get back to where their lessons started.",
+                "stem": "What benefit will year-round schooling bring students in addition to improving their learning?",
                 "answer": "D",
-                "explanation": "选 D。P3But year-round schooling isn't just about academics. Teachers and students experience a closer relationship in year-round schools than they do in traditional schools and, in the absence of any long-term break, students do not feel detached from th…"
+                "explanation": "选 D。P3But year-round schooling isn't just about academics. Teachers and students experience a closer relationship in year-round schools than they do in traditional schools and, in the absence of any long-term break, students do not feel detached from th…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It will help them get back to where their lessons started."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It will enable them to absorb what they have learned."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It will familiarize them with the school environment."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It will strengthen their relationship with teachers."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What do some childhood development experts believe about the long summer vacation?A)It meets students' need to study on their own.",
+                "stem": "What do some childhood development experts believe about the long summer vacation?",
                 "answer": "D",
-                "explanation": "选 D。P4Some childhood development experts believe that time off from school is vital to healthy development as kids are not designed to spend so much of their time inside classrooms and the summer break provides a perfect opportunity to get outside. 一些儿童…"
+                "explanation": "选 D。P4Some childhood development experts believe that time off from school is vital to healthy development as kids are not designed to spend so much of their time inside classrooms and the summer break provides a perfect opportunity to get outside. 一些儿童…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It meets students' need to study on their own."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It enables students to learn about the outside world."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It satisfies students' desire to stay longer at home."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It contributes to students' healthy growth."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What is the argument against the experts' idea of a long summer vacation?A)It does little good to most students.",
+                "stem": "What is the argument against the experts' idea of a long summer vacation?",
                 "answer": "A",
-                "explanation": "选 A。P4The problem with this argument is that most children aren't playing outside or even spending time with other kids. While some children visit summer camps, most stay at home, watching TV or playing games on electronic devices, which hardly benefits…"
+                "explanation": "选 A。P4The problem with this argument is that most children aren't playing outside or even spending time with other kids. While some children visit summer camps, most stay at home, watching TV or playing games on electronic devices, which hardly benefits…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It does little good to most students."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It benefits few students playing outside."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It leads students to neglect their studies."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It makes students addicted to computer games."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What does the author think of the traditional school year in the U.S. today?A)Well-grounded.",
+                "stem": "What does the author think of the traditional school year in the U.S. today?",
                 "answer": "C",
-                "explanation": "选 C。【判型】What does the author think of the traditional school year in the U.S. today? 问的是作者对旧学制的整体评价，需通览全文立场而非某句。 【拆句】Q55 主干 What does the author think of the traditional school year，关键是 today——问的是\"在今天看来\"旧学制如何，提示要结合文章\"时代已变\"的论调判断，是解题关键。 【选项】A)与原文相反 Well-g…"
+                "explanation": "选 C。【判型】What does the author think of the traditional school year in the U.S. today? 问的是作者对旧学制的整体评价，需通览全文立场而非某句。 【拆句】Q55 主干 What does the author think of the traditional school year，关键是 today——问的是\"在今天看来\"旧学制如何，提示要结合文章\"时代已变\"的论调判断，是解题关键。 【选项】A)与原文相反 Well-g…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Well-grounded."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Culture-bound."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Outdated."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Welcomed."
+                  }
+                ]
               }
             ]
           }
@@ -33901,7 +36961,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2023-06-1",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -33914,33 +36974,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What are big houses promoted to be in the United States?A)A luxury for the homeless.",
+                "stem": "What are big houses promoted to be in the United States?",
                 "answer": "B",
-                "explanation": "选 B。P1Big houses are advertised as a reward for hard work and diligence, turning housing from a basic necessity into a luxury. 大房子被宣传成对努力工作和勤勉的一种回报，把住房从基本必需品变成了奢侈品。"
+                "explanation": "选 B。P1Big houses are advertised as a reward for hard work and diligence, turning housing from a basic necessity into a luxury. 大房子被宣传成对努力工作和勤勉的一种回报，把住房从基本必需品变成了奢侈品。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "A luxury for the homeless."
+                  },
+                  {
+                    "key": "B",
+                    "text": "A reward for industriousness."
+                  },
+                  {
+                    "key": "C",
+                    "text": "An abundant source of comforts."
+                  },
+                  {
+                    "key": "D",
+                    "text": "An absolute necessity for happiness."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What is one of the consequences of living big?A)Many Americans' quality of life has become lower.",
+                "stem": "What is one of the consequences of living big?",
                 "answer": "A",
-                "explanation": "选 A。P3Second, once-public spaces, where people from diverse backgrounds used to come together, have increasingly become privatized, leading to a reduction in the number of public facilities available to all, and a reduced quality of life for many. 第二，曾经…"
+                "explanation": "选 A。P3Second, once-public spaces, where people from diverse backgrounds used to come together, have increasingly become privatized, leading to a reduction in the number of public facilities available to all, and a reduced quality of life for many. 第二，曾经…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Many Americans' quality of life has become lower."
+                  },
+                  {
+                    "key": "B",
+                    "text": "People from diverse backgrounds no longer socialize."
+                  },
+                  {
+                    "key": "C",
+                    "text": "People no longer have access to public swimming pools."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Many Americans' private life has been negatively affected."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What questions arise from living big?A)Questions related to moral principles.",
+                "stem": "What questions arise from living big?",
                 "answer": "A",
-                "explanation": "选 A。P4The trend for bigger housing thus poses ethical questions. 因此，住房越来越大的趋势引出了伦理（道德）层面的问题。"
+                "explanation": "选 A。P4The trend for bigger housing thus poses ethical questions. 因此，住房越来越大的趋势引出了伦理（道德）层面的问题。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Questions related to moral principles."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Questions having to do with labor cost."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Questions about what lifestyle to promote."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Questions concerning housing development."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What kind of social system does the author think is unacceptable?A)One in which the wealthy exploit the low-wage laborers building their houses.",
+                "stem": "What kind of social system does the author think is unacceptable?",
                 "answer": "D",
-                "explanation": "选 D。P4Are we willing to accept a system in which an increase in amenities purchased by the affluent means a reduction in amenities for the poor? 我们是否愿意接受这样一种制度：富人购买的便利设施增加，就意味着穷人可享的便利设施减少？"
+                "explanation": "选 D。P4Are we willing to accept a system in which an increase in amenities purchased by the affluent means a reduction in amenities for the poor? 我们是否愿意接受这样一种制度：富人购买的便利设施增加，就意味着穷人可享的便利设施减少？",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "One in which the wealthy exploit the low-wage laborers building their houses."
+                  },
+                  {
+                    "key": "B",
+                    "text": "One in which the rich purchase amenities at an increasingly unjustifiable price."
+                  },
+                  {
+                    "key": "C",
+                    "text": "One in which the upper classes deprive the lower classes of affordable housing."
+                  },
+                  {
+                    "key": "D",
+                    "text": "One in which the affluent enjoy a more comfortable life at the expense of the poor."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What does the author advocate for people to live well?A)Finding ways to turn private spaces into public ones.",
+                "stem": "What does the author advocate for people to live well?",
                 "answer": "C",
-                "explanation": "选 C。P5A better goal than building bigger houses for some is to create more publicly accessible spaces and amenities for all. 比起为少数人盖更大的房子，更好的目标是为所有人创造更多可公共使用的空间与设施。"
+                "explanation": "选 C。P5A better goal than building bigger houses for some is to create more publicly accessible spaces and amenities for all. 比起为少数人盖更大的房子，更好的目标是为所有人创造更多可公共使用的空间与设施。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Finding ways to turn private spaces into public ones."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Building more houses affordable to those less affluent."
+                  },
+                  {
+                    "key": "C",
+                    "text": "More public spaces created for everyone to enjoy."
+                  },
+                  {
+                    "key": "D",
+                    "text": "All amenities made accessible to the rich and the poor alike."
+                  }
+                ]
               }
             ]
           },
@@ -33950,33 +37100,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What does the author think of most entrepreneurs?A)They are more willing to risk their own lives.",
+                "stem": "What does the author think of most entrepreneurs?",
                 "answer": "B",
-                "explanation": "选 B。P1Most of us in the entrepreneurial community are blessed—or cursed—with higher-than-average ambition. 我们创业圈里的大多数人，都被赋予——或者说被困于——高于常人的野心。"
+                "explanation": "选 B。P1Most of us in the entrepreneurial community are blessed—or cursed—with higher-than-average ambition. 我们创业圈里的大多数人，都被赋予——或者说被困于——高于常人的野心。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They are more willing to risk their own lives."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are more ambitious than ordinary people."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They achieve greater nonconventional success."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They have more positive qualities than most of us."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What does the author imply by saying \"this isn't always the case\" (Line 1, Para. 3)?A)Ambitious people may not have a greater chance of success.",
+                "stem": "What does the author imply by saying \"this isn't always the case\" (Line 1, Para. 3)?",
                 "answer": "A",
-                "explanation": "选 A。P3Actually, this isn't always the case. 实际上，情况并非总是如此。"
+                "explanation": "选 A。P3Actually, this isn't always the case. 实际上，情况并非总是如此。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Ambitious people may not have a greater chance of success."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Ambitious people may not have more positive qualities."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Entrepreneurs' ambition does as much good as harm."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Entrepreneurs are more naturally driven to success."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What does the author say is of extreme importance for one to become a successful entrepreneur?A)Holding on to one's original vision.",
+                "stem": "What does the author say is of extreme importance for one to become a successful entrepreneur?",
                 "answer": "B",
-                "explanation": "选 B。P4This is problematic because it hinders your ability to adapt to new circumstances, which is vital if you want to be a successful entrepreneur. 这是有问题的，因为它会损害你适应新环境的能力，而这种能力对于想成为成功创业者的人至关重要。"
+                "explanation": "选 B。P4This is problematic because it hinders your ability to adapt to new circumstances, which is vital if you want to be a successful entrepreneur. 这是有问题的，因为它会损害你适应新环境的能力，而这种能力对于想成为成功创业者的人至关重要。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Holding on to one's original vision."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Being able to adapt to new situations."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Focusing determinedly on one particular goal."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Avoiding radical change in one's career direction."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "How do the most ambitious entrepreneurs regard failure in their endeavor?A)It will awaken them to reality.",
+                "stem": "How do the most ambitious entrepreneurs regard failure in their endeavor?",
                 "answer": "C",
-                "explanation": "选 C。P5Unfortunately, for the most ambitious entrepreneurs, a failure is seen as disastrous, and impossible to recover from. 不幸的是，对那些野心最大的创业者来说，一次失败被视为灾难性的、且无法翻身的。"
+                "explanation": "选 C。P5Unfortunately, for the most ambitious entrepreneurs, a failure is seen as disastrous, and impossible to recover from. 不幸的是，对那些野心最大的创业者来说，一次失败被视为灾难性的、且无法翻身的。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It will awaken them to reality."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is a lesson they have to learn."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It means the end of their career."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It will result in a slow recovery."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What does the author advise us to do concerning ambition?A)Distinguish between conventional success and our life goal.",
+                "stem": "What does the author advise us to do concerning ambition?",
                 "answer": "D",
-                "explanation": "选 D。【判型】题干 What does the author advise us to do concerning ambition? 问作者的建议，原文未必有一句直说\"我建议你……\"，需综合全文对野心利弊的论述提炼，属推断题。 【拆句】题干 What does the author advise us to do concerning ambition?，advise sb to do 意为\"建议某人做某事\"，concerning ambition（关于野心）是话题状语；结构平铺直叙、无陷阱。 【…"
+                "explanation": "选 D。【判型】题干 What does the author advise us to do concerning ambition? 问作者的建议，原文未必有一句直说\"我建议你……\"，需综合全文对野心利弊的论述提炼，属推断题。 【拆句】题干 What does the author advise us to do concerning ambition?，advise sb to do 意为\"建议某人做某事\"，concerning ambition（关于野心）是话题状语；结构平铺直叙、无陷阱。 【…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Distinguish between conventional success and our life goal."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Follow the example of the most ambitious entrepreneurs."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Avoid taking unnecessary risks when starting a business."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Prioritize health and happiness over material success."
+                  }
+                ]
               }
             ]
           }
@@ -36019,7 +39259,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2023-03-1",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -36032,33 +39272,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What do we learn from the passage about the brightest people?A)They can make silly mistakes in straightforward situations.",
+                "stem": "What do we learn from the passage about the brightest people?",
                 "answer": "A",
-                "explanation": "选 A。P1The brightest people and strongest leaders sometimes make errors others don't, especially in situations that require common sense. 最聪明的人和最强的领导者有时会犯别人不会犯的错，尤其是在那些需要常识的场合。"
+                "explanation": "选 A。P1The brightest people and strongest leaders sometimes make errors others don't, especially in situations that require common sense. 最聪明的人和最强的领导者有时会犯别人不会犯的错，尤其是在那些需要常识的场合。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They can make silly mistakes in straightforward situations."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They usually turn a blind eye to their own weaknesses."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They are admired by people around them."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They can differ in their personalities."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What accounts for the existence of intelligent people's logical blind spots?A)Their irrational way of thinking.",
+                "stem": "What accounts for the existence of intelligent people's logical blind spots?",
                 "answer": "B",
-                "explanation": "选 B。P2Intelligent people are more prone to silly mistakes because of blind spots in how they use logic. These blind spots exist because smart people tend to be overconfident in their reasoning abilities. 聪明人更容易犯傻错，是因为他们运用逻辑时存在盲点。这些盲点之所以存在，是因为聪明人倾向于对自己的推…"
+                "explanation": "选 B。P2Intelligent people are more prone to silly mistakes because of blind spots in how they use logic. These blind spots exist because smart people tend to be overconfident in their reasoning abilities. 聪明人更容易犯傻错，是因为他们运用逻辑时存在盲点。这些盲点之所以存在，是因为聪明人倾向于对自己的推…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Their irrational way of thinking."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Too much faith in their ability to think."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Their ignorance of behavioural science."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Too much concern about their work"
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "How do smart people react when they are found to be wrong?A)They shift the blame to others.",
+                "stem": "How do smart people react when they are found to be wrong?",
                 "answer": "D",
-                "explanation": "选 D。P4For smart people, being wrong can feel like a personal attack, and being right, a necessity. 对聪明人来说，被认定为错可以感觉像一次人身攻击，而正确则是一种必需。"
+                "explanation": "选 D。P4For smart people, being wrong can feel like a personal attack, and being right, a necessity. 对聪明人来说，被认定为错可以感觉像一次人身攻击，而正确则是一种必需。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They shift the blame to others."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They graciously accept the facts."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They may feel shocked."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They may get offended."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What may happen to smart people who find it difficult to accept suggestions?A)They may suffer in their professional and private life.",
+                "stem": "What may happen to smart people who find it difficult to accept suggestions?",
                 "answer": "A",
-                "explanation": "选 A。P5Not only does this tendency hinder their growth and performance, it can lead to harmful relationships, both personally and professionally. 这种倾向不仅会阻碍他们的成长与表现，还可能导致有害的人际关系——无论是私人层面还是职业层面。"
+                "explanation": "选 A。P5Not only does this tendency hinder their growth and performance, it can lead to harmful relationships, both personally and professionally. 这种倾向不仅会阻碍他们的成长与表现，还可能导致有害的人际关系——无论是私人层面还是职业层面。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They may suffer in their professional and private life."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They may lose faith in their administrative abilities."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They may commit more errors than ever before."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They may experience a lot of emotional stress."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What is said about those working with or under overachieving people?A)They put a lot of effort into their work.",
+                "stem": "What is said about those working with or under overachieving people?",
                 "answer": "C",
-                "explanation": "选 C。P6They set the bar too high, and when people take too long or don't get things quite right, they assume it's due to a lack of effort. So they push even harder. 他们把标杆定得太高，当别人花的时间过长或事情做得不够准确时，他们就认定这是因为对方努力不够，于是施压得更狠。"
+                "explanation": "选 C。P6They set the bar too high, and when people take too long or don't get things quite right, they assume it's due to a lack of effort. So they push even harder. 他们把标杆定得太高，当别人花的时间过长或事情做得不够准确时，他们就认定这是因为对方努力不够，于是施压得更狠。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They put a lot of effort into their work."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They set higher goals for themselves."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They are under increasing pressure."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They take less time to get things done."
+                  }
+                ]
               }
             ]
           },
@@ -36068,33 +39398,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "Why is the U.S. State Department launching an online learning program for refugees?A)To enable them to settle down in host countries.",
+                "stem": "Why is the U.S. State Department launching an online learning program for refugees?",
                 "answer": "D",
-                "explanation": "选 D。P1Refugees who settle in other countries often find themselves unable to continue on their previous career path due to a new set of employer standards or skills requirements. To solve this problem, the U.S. State Department is posing a solution: onl…"
+                "explanation": "选 D。P1Refugees who settle in other countries often find themselves unable to continue on their previous career path due to a new set of employer standards or skills requirements. To solve this problem, the U.S. State Department is posing a solution: onl…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "To enable them to settle down in host countries."
+                  },
+                  {
+                    "key": "B",
+                    "text": "To allow them to learn as many job skills as possible."
+                  },
+                  {
+                    "key": "C",
+                    "text": "To offer them a platform to pursue advanced degrees."
+                  },
+                  {
+                    "key": "D",
+                    "text": "To help them to meet new employment standards."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What do we know about \"Coursera for Refugees\"?A)It provides refugees with a wide range of courses free of charge.",
+                "stem": "What do we know about \"Coursera for Refugees\"?",
                 "answer": "A",
-                "explanation": "选 A。P2They can apply for fully funded access to Coursera's course catalog, which means they can take all of the platform's classes and obtain professional certificates for free. The platform currently offers professor-led lectures on a broad range of to…"
+                "explanation": "选 A。P2They can apply for fully funded access to Coursera's course catalog, which means they can take all of the platform's classes and obtain professional certificates for free. The platform currently offers professor-led lectures on a broad range of to…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It provides refugees with a wide range of courses free of charge."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It offers free online data services for refugees around the world."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It allows refugees to obtain degrees in various academic fields."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It supplies refugees with a great variety of job opportunities."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What does the passage say is a consequence of the global migrant crisis?A)Instability increases in host countries.",
+                "stem": "What does the passage say is a consequence of the global migrant crisis?",
                 "answer": "D",
-                "explanation": "选 D。P3As the world migrant crisis intensifies, employment is becoming a global concern. 随着全球移民危机加剧，就业正成为全球性的关切。"
+                "explanation": "选 D。P3As the world migrant crisis intensifies, employment is becoming a global concern. 随着全球移民危机加剧，就业正成为全球性的关切。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Instability increases in host countries."
+                  },
+                  {
+                    "key": "B",
+                    "text": "The global economic crisis intensifies."
+                  },
+                  {
+                    "key": "C",
+                    "text": "A lot more refugees die during migration."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Refugees find it more difficult to get a job."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What does the author say causes refugees' difficulty in taking online courses?A)Cultural environment.",
+                "stem": "What does the author say causes refugees' difficulty in taking online courses?",
                 "answer": "C",
-                "explanation": "选 C。P4For another, most of the classes on Coursera are in English, and though there are plans to add translations, language barriers can be a big obstacle. 另一方面，Coursera上的大多数课程都是英文授课，尽管有添加翻译的计划，语言障碍仍可能是一个大问题。"
+                "explanation": "选 C。P4For another, most of the classes on Coursera are in English, and though there are plans to add translations, language barriers can be a big obstacle. 另一方面，Coursera上的大多数课程都是英文授课，尽管有添加翻译的计划，语言障碍仍可能是一个大问题。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Cultural environment."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Changed academic requirements."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Lack of language skills."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Difference in teaching platforms."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What did the joint study find about the MOOCs several years ago?A)They helped solve learners' financial problems.",
+                "stem": "What did the joint study find about the MOOCs several years ago?",
                 "answer": "B",
-                "explanation": "选 B。P5In 2015, a joint study found 72% of people taking the MOOCs saw career benefits afterwards. 2015年，一项联合研究发现，参加MOOCs课程的人中有72%在之后获得了职业上的益处。"
+                "explanation": "选 B。P5In 2015, a joint study found 72% of people taking the MOOCs saw career benefits afterwards. 2015年，一项联合研究发现，参加MOOCs课程的人中有72%在之后获得了职业上的益处。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They helped solve learners' financial problems."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They benefited most of the learners."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They changed some learners' career path."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They provided the most needed vocational skills."
+                  }
+                ]
               }
             ]
           }
@@ -38017,7 +41437,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2022-12-3",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -38030,33 +41450,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What has Bill Thomas been doing for a quarter of a century?A)Transforming people's lifestyle.",
+                "stem": "What has Bill Thomas been doing for a quarter of a century?",
                 "answer": "D",
-                "explanation": "选 D。P1Even though we are living in an age where growing old is thought of as an inevitable misery, this doctor has been changing the game for seniors over the last 25 years. 尽管我们生活在一个把变老视为难免之苦的时代，这位医生在过去 25 年里一直在为老年人改变这一局面。"
+                "explanation": "选 D。P1Even though we are living in an age where growing old is thought of as an inevitable misery, this doctor has been changing the game for seniors over the last 25 years. 尽管我们生活在一个把变老视为难免之苦的时代，这位医生在过去 25 年里一直在为老年人改变这一局面。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Transforming people's lifestyle."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Honoring his Harvard education."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Changing people's philosophy of life."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Shifting people's perspective on aging."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "Why did Bill Thomas try something different in the nursing home?A)He wanted to make it more pleasant for seniors.",
+                "stem": "Why did Bill Thomas try something different in the nursing home?",
                 "answer": "A",
-                "explanation": "选 A。P2The depressing and regimented(严格管制的) environment got him thinking on what exactly could improve the residents' conditions. 那种压抑而管制严格的环境促使他思考究竟怎样才能改善住户的处境。"
+                "explanation": "选 A。P2The depressing and regimented(严格管制的) environment got him thinking on what exactly could improve the residents' conditions. 那种压抑而管制严格的环境促使他思考究竟怎样才能改善住户的处境。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "He wanted to make it more pleasant for seniors."
+                  },
+                  {
+                    "key": "B",
+                    "text": "He wanted to apply his Harvard training to practice."
+                  },
+                  {
+                    "key": "C",
+                    "text": "He felt it his duty to revolutionize its management."
+                  },
+                  {
+                    "key": "D",
+                    "text": "He felt disappointed working in the environment."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What do we learn about Bill Thomas bringing animals and plants into the nursing home?A)He made a mess of the nursing home.",
+                "stem": "What do we learn about Bill Thomas bringing animals and plants into the nursing home?",
                 "answer": "D",
-                "explanation": "选 D。P3Even though animals in nursing homes were illegal at the time, Dr. Bill Thomas took a chance. 尽管当时养老院里养动物是违法的，比尔·托马斯医生还是冒了险（这么做了）。"
+                "explanation": "选 D。P3Even though animals in nursing homes were illegal at the time, Dr. Bill Thomas took a chance. 尽管当时养老院里养动物是违法的，比尔·托马斯医生还是冒了险（这么做了）。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "He made a mess of the nursing home."
+                  },
+                  {
+                    "key": "B",
+                    "text": "He did something all professionals would do."
+                  },
+                  {
+                    "key": "C",
+                    "text": "He won instant support from the state authorities."
+                  },
+                  {
+                    "key": "D",
+                    "text": "He acted in violation of the state law."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What has Bill Thomas been persistently advocating?A)Good health is not just a privilege of the young.",
+                "stem": "What has Bill Thomas been persistently advocating?",
                 "answer": "C",
-                "explanation": "选 C。P6Thomas, now a speaker and author of several books, also created small, independently-run residences with their own bedrooms and bathrooms, and he has been preaching a singular message that getting old is not a bad thing. 如今他既是演讲者又是几本书的作者，他建立了独立运营、…"
+                "explanation": "选 C。P6Thomas, now a speaker and author of several books, also created small, independently-run residences with their own bedrooms and bathrooms, and he has been preaching a singular message that getting old is not a bad thing. 如今他既是演讲者又是几本书的作者，他建立了独立运营、…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Good health is not just a privilege of the young."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Nursing homes should be strictly limited in size."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Getting old is by no means something miserable."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Residences for seniors should be run independently."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "How is Bill Thomas's new concept received?A)It is gaining ground in many countries.",
+                "stem": "How is Bill Thomas's new concept received?",
                 "answer": "A",
-                "explanation": "选 A。P8The 56-year-old doctor's methods have been adopted in Australia, Japan, Canada, and America with enormous success. 这位 56 岁的医生的方法已经在澳大利亚、日本、加拿大和美国得到采纳，并大获成功。"
+                "explanation": "选 A。P8The 56-year-old doctor's methods have been adopted in Australia, Japan, Canada, and America with enormous success. 这位 56 岁的医生的方法已经在澳大利亚、日本、加拿大和美国得到采纳，并大获成功。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It is gaining ground in many countries."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is being heatedly debated worldwide."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It is considered revolutionary everywhere."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It is winning approval from the government."
+                  }
+                ]
               }
             ]
           },
@@ -38066,33 +41576,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What can we learn from research on diets in developed countries?A)Dietary recommendations are not fit for underprivileged people.",
+                "stem": "What can we learn from research on diets in developed countries?",
                 "answer": "B",
-                "explanation": "选 B。P1Research shows that in developed countries, more affluent and educated people tend to consume higher-quality diets—including more fruits and vegetables, fish and whole grains. On the contrary, economically disadvantaged people report diets that ar…"
+                "explanation": "选 B。P1Research shows that in developed countries, more affluent and educated people tend to consume higher-quality diets—including more fruits and vegetables, fish and whole grains. On the contrary, economically disadvantaged people report diets that ar…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Dietary recommendations are not fit for underprivileged people."
+                  },
+                  {
+                    "key": "B",
+                    "text": "People from different social groups vary in their dietary habits."
+                  },
+                  {
+                    "key": "C",
+                    "text": "People's choice of food depends on their individual taste"
+                  },
+                  {
+                    "key": "D",
+                    "text": "There is no consensus on what high-quality diets are."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What does the author say is important in formulating policies to improve diets and health?A)A better understanding of the relationship between social class and health.",
+                "stem": "What does the author say is important in formulating policies to improve diets and health?",
                 "answer": "A",
-                "explanation": "选 A。P2However, the research does not explain why this is the case—a question that has significant implications for designing effective policies and initiatives to improve diets and prevent chronic diseases. 然而，研究并未解释\"为何如此\"——而这恰是一个对设计有效政策、推动饮食改善与慢病预防具有重大…"
+                "explanation": "选 A。P2However, the research does not explain why this is the case—a question that has significant implications for designing effective policies and initiatives to improve diets and prevent chronic diseases. 然而，研究并未解释\"为何如此\"——而这恰是一个对设计有效政策、推动饮食改善与慢病预防具有重大…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "A better understanding of the relationship between social class and health."
+                  },
+                  {
+                    "key": "B",
+                    "text": "A greater emphasis on studying the cause of obesity and chronic diseases."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Prioritizing the provision of better nutrition for lower classes."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Designing education programs and initiatives on public health."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What does research reveal about adults in food-insecure households?A)Their eating habits need to be changed.",
+                "stem": "What does research reveal about adults in food-insecure households?",
                 "answer": "D",
-                "explanation": "选 D。P4Research suggests that adults in food-insecure households are just as likely as those in food-secure households to adjust recipes to make them more healthy. They are also just as proficient in food preparation and cooking skills. There is no indic…"
+                "explanation": "选 D。P4Research suggests that adults in food-insecure households are just as likely as those in food-secure households to adjust recipes to make them more healthy. They are also just as proficient in food preparation and cooking skills. There is no indic…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Their eating habits need to be changed."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Their food literacy has been improving."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They do not pay much attention to their food recipes."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They do not lack food knowledge or budgeting skills."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What would help improve food security among the disadvantaged groups in Canada?A)Teaching them budgeting skills.",
+                "stem": "What would help improve food security among the disadvantaged groups in Canada?",
                 "answer": "C",
-                "explanation": "选 C。P5For example, low income is the strongest predictor of food insecurity in Canada, where one in eight households experiences insufficient access to nutritious foods. 举例来说，在加拿大，低收入是食物不安全最强的预测因子，那里有八分之一的家庭无法充分获取营养食物。"
+                "explanation": "选 C。P5For example, low income is the strongest predictor of food insecurity in Canada, where one in eight households experiences insufficient access to nutritious foods. 举例来说，在加拿大，低收入是食物不安全最强的预测因子，那里有八分之一的家庭无法充分获取营养食物。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Teaching them budgeting skills."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Increasing their food choices."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Enabling them to have more access to nutritious foods."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Taking more effective measures to increase food supplies."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What does the author suggest disadvantaged people do to improve their health?A)Adopt a positive attitude towards dietary guidelines.",
+                "stem": "What does the author suggest disadvantaged people do to improve their health?",
                 "answer": "B",
-                "explanation": "选 B。P9We can easily think of a number of foods and recipes that are both inexpensive and nutritious. The internet is full of recipes for \"eating well on a budget.\" 我们可以轻易想到一些既便宜又有营养的食物与食谱；互联网上充满了\"在预算内吃得好\"的食谱。"
+                "explanation": "选 B。P9We can easily think of a number of foods and recipes that are both inexpensive and nutritious. The internet is full of recipes for \"eating well on a budget.\" 我们可以轻易想到一些既便宜又有营养的食物与食谱；互联网上充满了\"在预算内吃得好\"的食谱。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Adopt a positive attitude towards dietary guidelines."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Choose diets that are both healthy and affordable."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Make sure to purchase healthy foods on the internet."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Change their eating habits and consumption patterns."
+                  }
+                ]
               }
             ]
           }
@@ -39913,7 +43513,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2022-12-2",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -39926,33 +43526,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What does the author say is remarkable about the fish we eat?A)They reproduce quickly.",
+                "stem": "What does the author say is remarkable about the fish we eat?",
                 "answer": "B",
-                "explanation": "选 B。P2For the first time in human history, most of our aquatic(水产的) food now comes from farming rather than fishing. 人类历史上第一次，我们大多数的水产食物来自养殖而非捕捞。"
+                "explanation": "选 B。P2For the first time in human history, most of our aquatic(水产的) food now comes from farming rather than fishing. 人类历史上第一次，我们大多数的水产食物来自养殖而非捕捞。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They reproduce quickly."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are mostly farmed."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They have become as important as grain."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They have a longer history than humans."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What do we need to do if we keep consuming fish at the current rate?A)Increase the fishing volume considerably.",
+                "stem": "What do we need to do if we keep consuming fish at the current rate?",
                 "answer": "D",
-                "explanation": "选 D。P4To keep eating fish at the current rate, we're definitely going to need to keep aquaculture(水产养殖) developing. 要想保持目前的吃鱼速度，我们绝对需要让水产养殖持续发展下去。"
+                "explanation": "选 D。P4To keep eating fish at the current rate, we're definitely going to need to keep aquaculture(水产养殖) developing. 要想保持目前的吃鱼速度，我们绝对需要让水产养殖持续发展下去。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Increase the fishing volume considerably."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Develop more advanced fishing technology."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Enlarge the marine fish stocks effectively."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Expand the scale of fish-farming continuously."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What does the author say about China in terms of aquatic food?A)It places increasing emphasis on fishing now.",
+                "stem": "What does the author say about China in terms of aquatic food?",
                 "answer": "C",
-                "explanation": "选 C。P6A lot of that is coming from China, which produces 60% of the world's farmed fish. In fact, some 35 countries, including China, now produce more farmed than wild-caught fish. 其中很大一部分来自中国，中国生产了全球 60% 的养殖鱼。事实上，包括中国在内的约 35 个国家如今生产的养殖鱼已经超过野生捕捞的鱼。"
+                "explanation": "选 C。P6A lot of that is coming from China, which produces 60% of the world's farmed fish. In fact, some 35 countries, including China, now produce more farmed than wild-caught fish. 其中很大一部分来自中国，中国生产了全球 60% 的养殖鱼。事实上，包括中国在内的约 35 个国家如今生产的养殖鱼已经超过野生捕捞的鱼。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It places increasing emphasis on fishing now."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It boasts of the world's largest fishing stocks."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It raises more fish than caught from the wild."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It supplies 60% of the world's fish products."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "Why does the author say aquaculture is so important these days?A)It is a must for feeding the world's fast-growing population.",
+                "stem": "Why does the author say aquaculture is so important these days?",
                 "answer": "A",
-                "explanation": "选 A。P7it's also crucial to ensuring food security and sustainability. By 2050, the world will need to feed an estimated 9.7 billion people. （这种向水产养殖的转变）对保障食品安全和可持续性也至关重要。到 2050 年，全世界将不得不养活约 97 亿人。"
+                "explanation": "选 A。P7it's also crucial to ensuring food security and sustainability. By 2050, the world will need to feed an estimated 9.7 billion people. （这种向水产养殖的转变）对保障食品安全和可持续性也至关重要。到 2050 年，全世界将不得不养活约 97 亿人。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It is a must for feeding the world's fast-growing population."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It proves a reliable source of protein for humans and animals"
+                  },
+                  {
+                    "key": "C",
+                    "text": "It is essential to maintaining both mental and physical health."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It ensures a balanced healthy diet for people the world over."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What does the author imply by saying aquaculture is no silver bullet?A)Shrimp-farming is a risky business.",
+                "stem": "What does the author imply by saying aquaculture is no silver bullet?",
                 "answer": "C",
-                "explanation": "选 C。P8However, aquaculture is no silver bullet. In some southeast Asian countries, shrimp farming does disastrous damage to marine ecosystems. 然而，水产养殖也并非万灵药。在一些东南亚国家，对虾养殖给海洋生态系统造成了灾难性的破坏。"
+                "explanation": "选 C。P8However, aquaculture is no silver bullet. In some southeast Asian countries, shrimp farming does disastrous damage to marine ecosystems. 然而，水产养殖也并非万灵药。在一些东南亚国家，对虾养殖给海洋生态系统造成了灾难性的破坏。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Shrimp-farming is a risky business."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Fish-farming will not be sustainable."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Fish-farming may cause serious problems too."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Shrimp-farming can become quite expensive."
+                  }
+                ]
               }
             ]
           },
@@ -39962,33 +43652,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What does the WFP's winning of the Nobel Peace Prize make us realize?A)More and more people in the world are suffering from starvation.",
+                "stem": "What does the WFP's winning of the Nobel Peace Prize make us realize?",
                 "answer": "D",
-                "explanation": "选 D。P2Its Nobel Prize reminds us all of the moral hazard in imagining that the poor and vulnerable are somebody else's problem. 它（世界粮食计划署）获诺贝尔和平奖一事提醒我们所有人：把贫困者与脆弱群体想成是别人的问题，是一种道德上的危险。"
+                "explanation": "选 D。P2Its Nobel Prize reminds us all of the moral hazard in imagining that the poor and vulnerable are somebody else's problem. 它（世界粮食计划署）获诺贝尔和平奖一事提醒我们所有人：把贫困者与脆弱群体想成是别人的问题，是一种道德上的危险。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "More and more people in the world are suffering from starvation."
+                  },
+                  {
+                    "key": "B",
+                    "text": "All of us can be affected by food instability one way or another."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It is hazardous to leave millions of people poor and vulnerable."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It is morally wrong to think helping the poor is not our business."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What do we learn about the WFP's effort to eliminate hunger?A)It has ensured a sufficient food supply to millions.",
+                "stem": "What do we learn about the WFP's effort to eliminate hunger?",
                 "answer": "B",
-                "explanation": "选 B。P3Despite decades of effort to eliminate hunger, the latest estimate is that about 11% of people on the planet (about 820 million people) are suffering daily undernourishment. Progress at reducing undernourishment has stopped despite gains through t…"
+                "explanation": "选 B。P3Despite decades of effort to eliminate hunger, the latest estimate is that about 11% of people on the planet (about 820 million people) are suffering daily undernourishment. Progress at reducing undernourishment has stopped despite gains through t…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It has ensured a sufficient food supply to millions."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is still far from its goal despite the progress made."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It has done a good job in combating natural disasters."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It is preventing starvation occurring on a global scale."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What will happen when food aid is offered at a price?A)The rich will become richer and the poor poorer.",
+                "stem": "What will happen when food aid is offered at a price?",
                 "answer": "A",
-                "explanation": "选 A。P4When aid is offered with heavy conditions attached, like loan repayment or food for resources, it often widens the gap between rich and poor and sustains the old world order. 当援助被附加沉重条件（例如要求偿还贷款或以资源换食物）时，它往往会拉大贫富差距并维持旧有的世界秩序。"
+                "explanation": "选 A。P4When aid is offered with heavy conditions attached, like loan repayment or food for resources, it often widens the gap between rich and poor and sustains the old world order. 当援助被附加沉重条件（例如要求偿还贷款或以资源换食物）时，它往往会拉大贫富差距并维持旧有的世界秩序。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "The rich will become richer and the poor poorer."
+                  },
+                  {
+                    "key": "B",
+                    "text": "More people will be willing to join in the effort."
+                  },
+                  {
+                    "key": "C",
+                    "text": "More food will be made available to the needy."
+                  },
+                  {
+                    "key": "D",
+                    "text": "The relief effort will be rendered less sustainable."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "How can scientists help cope with poverty and hunger?A)By collaborating closely with world economic institutions.",
+                "stem": "How can scientists help cope with poverty and hunger?",
                 "answer": "B",
-                "explanation": "选 B。P5By sharing knowledge of agriculture and climate with peers in countries most vulnerable to poverty and hunger, scientists can help reduce these problems. 通过与最易陷入贫困和饥饿的国家的同行分享农业和气候知识，科学家可以帮助减少这些问题。"
+                "explanation": "选 B。P5By sharing knowledge of agriculture and climate with peers in countries most vulnerable to poverty and hunger, scientists can help reduce these problems. 通过与最易陷入贫困和饥饿的国家的同行分享农业和气候知识，科学家可以帮助减少这些问题。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "By collaborating closely with world economic institutions."
+                  },
+                  {
+                    "key": "B",
+                    "text": "By sharing expertise with peers in poverty-stricken nations."
+                  },
+                  {
+                    "key": "C",
+                    "text": "By setting up more food research programs in developing countries."
+                  },
+                  {
+                    "key": "D",
+                    "text": "By building self-respect in people suffering from undernutrition."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What message does the author try to convey at the end of the passage?A)Wealthy nations should solve their own food problems first.",
+                "stem": "What message does the author try to convey at the end of the passage?",
                 "answer": "C",
-                "explanation": "选 C。【判型】What message does the author try to convey at the end of the passage? 询问作者在尾段要传递的核心讯息，需要把末段功能整体串起来，属于局部主旨题。 【拆句】主干 What message does the author try to convey，at the end of the passage 是地点状语限定位置；try to convey 是\"试图传达\"，比单独 convey 更柔和，提示作者意图层面的解读。结构…"
+                "explanation": "选 C。【判型】What message does the author try to convey at the end of the passage? 询问作者在尾段要传递的核心讯息，需要把末段功能整体串起来，属于局部主旨题。 【拆句】主干 What message does the author try to convey，at the end of the passage 是地点状语限定位置；try to convey 是\"试图传达\"，比单独 convey 更柔和，提示作者意图层面的解读。结构…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Wealthy nations should solve their own food problems first."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Rich countries should be more generous in providing food aid."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Poor nations should enhance their own ability to solve their food shortages."
+                  },
+                  {
+                    "key": "D",
+                    "text": "World economic institutions should play a bigger role in fighting hunger."
+                  }
+                ]
               }
             ]
           }
@@ -41775,7 +45555,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2022-12-1",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -41788,33 +45568,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What characterizes Japanese and Chinese foods?A)Variety.",
+                "stem": "What characterizes Japanese and Chinese foods?",
                 "answer": "A",
-                "explanation": "选 A。P2He noted that Japanese people ate a wonderful variety of seaweeds, and that Chinese people tried to include at least five different colors in every meal. 他注意到日本人吃种类繁多的海藻，中国人则努力让每餐都包含至少五种不同的颜色。"
+                "explanation": "选 A。P2He noted that Japanese people ate a wonderful variety of seaweeds, and that Chinese people tried to include at least five different colors in every meal. 他注意到日本人吃种类繁多的海藻，中国人则努力让每餐都包含至少五种不同的颜色。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Variety."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Flavor."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Color."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Naturalness."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What is typical of Americans in the way of eating?A)They emphasize nutrition.",
+                "stem": "What is typical of Americans in the way of eating?",
                 "answer": "B",
-                "explanation": "选 B。P3For starters, Americans eat much bigger portions than people in other countries. 首先，美国人吃的分量比其他国家的人要大得多。"
+                "explanation": "选 B。P3For starters, Americans eat much bigger portions than people in other countries. 首先，美国人吃的分量比其他国家的人要大得多。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They emphasize nutrition."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They tend to eat quite a lot."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They prioritize convenience."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They care about flavors."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What features are in Mediterranean, Nordic and Okinawan diets?A)Fruits and vegetables.",
+                "stem": "What features are in Mediterranean, Nordic and Okinawan diets?",
                 "answer": "C",
-                "explanation": "选 C。P3Contrast that to the healthy Mediterranean, Nordic and Okinawan diets listed in Pasternak's book. They all seem to stick to the ethos(特质) of regional, seasonal produce. 把这一点（指美国人的饮食习惯）与 Pasternak 书中列出的健康的地中海、北欧和冲绳饮食对比一下。它们似乎都坚守着\"当地、当季食材\"这一特质。"
+                "explanation": "选 C。P3Contrast that to the healthy Mediterranean, Nordic and Okinawan diets listed in Pasternak's book. They all seem to stick to the ethos(特质) of regional, seasonal produce. 把这一点（指美国人的饮食习惯）与 Pasternak 书中列出的健康的地中海、北欧和冲绳饮食对比一下。它们似乎都坚守着\"当地、当季食材\"这一特质。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Fruits and vegetables."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Olive oil and red wine."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Seasonal local produce."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Unprocessed ingredients."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What do people in most healthy eating cultures have in common?A)They get the whole family to eat at a table.",
+                "stem": "What do people in most healthy eating cultures have in common?",
                 "answer": "D",
-                "explanation": "选 D。P5Most other healthy eating cultures also make meals an event—say, multiple courses around the family table, or a glass or two of red wine at a long lunch—as opposed to hastily wolfing down handfuls of cereal above the kitchen sink and calling it di…"
+                "explanation": "选 D。P5Most other healthy eating cultures also make meals an event—say, multiple courses around the family table, or a glass or two of red wine at a long lunch—as opposed to hastily wolfing down handfuls of cereal above the kitchen sink and calling it di…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They get the whole family to eat at a table."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They eat their meals regularly and punctually."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They consume plenty of cereal for breakfast."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They attach great importance to their meals."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "Compared with the average American, people in healthy societies ___________.A)walk at least 4 miles a day",
+                "stem": "Compared with the average American, people in healthy societies ___________.",
                 "answer": "B",
-                "explanation": "选 B。P6The only overlapping feature in most of these healthy countries is that they all walk way more than the average American. 这些健康国家唯一的共同特征是：他们走路都远远多于普通美国人。"
+                "explanation": "选 B。P6The only overlapping feature in most of these healthy countries is that they all walk way more than the average American. 这些健康国家唯一的共同特征是：他们走路都远远多于普通美国人。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "walk at least 4 miles a day"
+                  },
+                  {
+                    "key": "B",
+                    "text": "do considerably more walking"
+                  },
+                  {
+                    "key": "C",
+                    "text": "pay more attention to body shape"
+                  },
+                  {
+                    "key": "D",
+                    "text": "consume a lot more organic food"
+                  }
+                ]
               }
             ]
           },
@@ -41824,33 +45694,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What is the finding of the new study?A)Emotional intelligence helps people get along with others.",
+                "stem": "What is the finding of the new study?",
                 "answer": "C",
-                "explanation": "选 C。P1But a new study suggests that being sensitive to people's feelings may sometimes come with an extra dose of stress. 但一项新研究指出，对他人情绪敏感，有时会带来额外的压力。"
+                "explanation": "选 C。P1But a new study suggests that being sensitive to people's feelings may sometimes come with an extra dose of stress. 但一项新研究指出，对他人情绪敏感，有时会带来额外的压力。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Emotional intelligence helps people get along with others."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Emotional intelligence is generally beneficial to its bearer."
+                  },
+                  {
+                    "key": "C",
+                    "text": "People who are aware of others' feelings may experience more stress."
+                  },
+                  {
+                    "key": "D",
+                    "text": "People who are emotionally stressed may have trouble making friends."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What was the purpose of psychologist Myriam Bechtoldt's experiment?A)To define different types of human feelings.",
+                "stem": "What was the purpose of psychologist Myriam Bechtoldt's experiment?",
                 "answer": "B",
-                "explanation": "选 B。P2In a study, psychologist Myriam Bechtoldt of the Frankfurt School of Finance and Management in Germany asked 166 male university students a series of questions to measure their emotional intelligence. 在一项研究中，德国法兰克福金融与管理学院的心理学家 Myriam Bechtoldt 向 1…"
+                "explanation": "选 B。P2In a study, psychologist Myriam Bechtoldt of the Frankfurt School of Finance and Management in Germany asked 166 male university students a series of questions to measure their emotional intelligence. 在一项研究中，德国法兰克福金融与管理学院的心理学家 Myriam Bechtoldt 向 1…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "To define different types of human feelings."
+                  },
+                  {
+                    "key": "B",
+                    "text": "To assess the impacts of being emotionally clever."
+                  },
+                  {
+                    "key": "C",
+                    "text": "To demonstrate how to distinguish different feelings."
+                  },
+                  {
+                    "key": "D",
+                    "text": "To identify gender differences in emotional intelligence."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What does the finding of Myriam Bechtoldt's study indicate?A)Greater emotional cleverness means less trouble in one's life.",
+                "stem": "What does the finding of Myriam Bechtoldt's study indicate?",
                 "answer": "D",
-                "explanation": "选 D。P3The findings suggest that some people may be too emotionally clever for their own good, says Bechtoldt. 研究者 Bechtoldt 说，研究结果表明，有些人的情商可能高过头反害了自己。"
+                "explanation": "选 D。P3The findings suggest that some people may be too emotionally clever for their own good, says Bechtoldt. 研究者 Bechtoldt 说，研究结果表明，有些人的情商可能高过头反害了自己。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Greater emotional cleverness means less trouble in one's life."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Emotional intelligence helps people succeed in job interviews."
+                  },
+                  {
+                    "key": "C",
+                    "text": "People's psychological wellbeing is related to various factors."
+                  },
+                  {
+                    "key": "D",
+                    "text": "People may suffer from having a high emotional intelligence"
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What do we learn about emotional intelligence from a number of studies?A)People suffering from depression are emotionally immature.",
+                "stem": "What do we learn about emotional intelligence from a number of studies?",
                 "answer": "C",
-                "explanation": "选 C。P4Furthermore, several studies have implied that emotional intelligence can be used to manipulate others for personal gains. 此外，多项研究还暗示，情商可被用来操纵他人以谋取私利。"
+                "explanation": "选 C。P4Furthermore, several studies have implied that emotional intelligence can be used to manipulate others for personal gains. 此外，多项研究还暗示，情商可被用来操纵他人以谋取私利。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "People suffering from depression are emotionally immature."
+                  },
+                  {
+                    "key": "B",
+                    "text": "People who look at the dark side of life often feel depressed."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Some people may take advantage of it and benefit themselves."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Some people may lack it and are easily manipulated by others."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What does the author suggest sensitive individuals do?A)Avoid burdening themselves with others' feelings.",
+                "stem": "What does the author suggest sensitive individuals do?",
                 "answer": "A",
-                "explanation": "选 A。P5For example, some sensitive individuals may assume responsibility for other people's sadness or anger, which ultimately stresses them out. Remember, as Bechtoldt says, \"you are not responsible for how other people feel.\" 举例来说，一些敏感的人可能会替别人的悲伤或愤怒揽责任…"
+                "explanation": "选 A。P5For example, some sensitive individuals may assume responsibility for other people's sadness or anger, which ultimately stresses them out. Remember, as Bechtoldt says, \"you are not responsible for how other people feel.\" 举例来说，一些敏感的人可能会替别人的悲伤或愤怒揽责任…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Avoid burdening themselves with others' feelings."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Rid themselves of worries over worldly affairs."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Learn to cope with people's negative feelings."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Help people to deal with their troubles in life."
+                  }
+                ]
               }
             ]
           }
@@ -44177,7 +48137,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2022-09-1",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -44190,33 +48150,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What do we learn from the study by the Josephson Institute of Ethics?A)Over half of the students interviewed were unaware they were cheating.",
+                "stem": "What do we learn from the study by the Josephson Institute of Ethics?",
                 "answer": "C",
-                "explanation": "选 C。P1Of the teens surveyed, 51 percent said that they had knowingly cheated at some point on an exam but that they did not feel uneasy about the behavior. 在受访的青少年中,51% 的人说他们曾在某次考试中明知故犯地作弊,但对这种行为并不感到不安。"
+                "explanation": "选 C。P1Of the teens surveyed, 51 percent said that they had knowingly cheated at some point on an exam but that they did not feel uneasy about the behavior. 在受访的青少年中,51% 的人说他们曾在某次考试中明知故犯地作弊,但对这种行为并不感到不安。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Over half of the students interviewed were unaware they were cheating."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Cheating was becoming a way of life for a majority of high school teens."
+                  },
+                  {
+                    "key": "C",
+                    "text": "More than half of the interviewees felt no sense of guilt over cheating."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Cheating was getting more and more difficult for high school students."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What did the Common Sense Media survey reveal?A)Most parents tended to overprotect their children.",
+                "stem": "What did the Common Sense Media survey reveal?",
                 "answer": "B",
-                "explanation": "选 B。P1A Common Sense Media survey found that 35 percent of students had cheated via smartphone, though the parents surveyed in that particular study did not believe their kids had ever cheated. In many cases, students did not realize that strategies lik…"
+                "explanation": "选 B。P1A Common Sense Media survey found that 35 percent of students had cheated via smartphone, though the parents surveyed in that particular study did not believe their kids had ever cheated. In many cases, students did not realize that strategies lik…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Most parents tended to overprotect their children."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Many students committed cheating unknowingly."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Students were in urgent need of ethical education."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Parents and kids had conflicting ideas over cheating."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "Why do students rarely get caught cheating nowadays?A)They copy formulas on their palms.",
+                "stem": "Why do students rarely get caught cheating nowadays?",
                 "answer": "D",
-                "explanation": "选 D。P2In today's classrooms, students who cheat are rarely caught. There are no formulas written on the insides of hands or students looking across the aisle, or whispering answers to their classmates. Today's students use smartphones, tablets or even i…"
+                "explanation": "选 D。P2In today's classrooms, students who cheat are rarely caught. There are no formulas written on the insides of hands or students looking across the aisle, or whispering answers to their classmates. Today's students use smartphones, tablets or even i…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They copy formulas on their palms."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They help each other to cover up their acts."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They keep changing their ways of cheating."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They make use of modern technology."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What does the author think schools should do to tackle cheating?A)Bring policies against cheating up to date.",
+                "stem": "What does the author think schools should do to tackle cheating?",
                 "answer": "A",
-                "explanation": "选 A。P4Schools must develop anti-cheating policies that include technology and these policies must be updated consistently. 学校必须制定包含科技因素的反作弊政策,并且这些政策必须不断更新。"
+                "explanation": "选 A。P4Schools must develop anti-cheating policies that include technology and these policies must be updated consistently. 学校必须制定包含科技因素的反作弊政策,并且这些政策必须不断更新。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Bring policies against cheating up to date."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Reform their exam methods constantly."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Take advantage of the latest technologies."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Alert parents to their children's behaviour."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What does the author suggest teachers do in the classroom?A)Prevent students from overusing electronic devices.",
+                "stem": "What does the author suggest teachers do in the classroom?",
                 "answer": "D",
-                "explanation": "选 D。P4Teachers must stay on guard when it comes to what their students are doing in classrooms and how technology could be playing a negative role in the learning process. 老师必须时刻警惕——既要警惕学生在课堂里都在做什么,也要警惕科技可能在学习过程中扮演的负面角色。"
+                "explanation": "选 D。P4Teachers must stay on guard when it comes to what their students are doing in classrooms and how technology could be playing a negative role in the learning process. 老师必须时刻警惕——既要警惕学生在课堂里都在做什么,也要警惕科技可能在学习过程中扮演的负面角色。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Prevent students from overusing electronic devices."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Develop more effective anti-cheating strategies."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Find more ways to curb students' unethical acts."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Guard against students' misuse of technology."
+                  }
+                ]
               }
             ]
           },
@@ -44226,33 +48276,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What does the author say companies should do in the context of remote work?A)Reform performance evaluation.",
+                "stem": "What does the author say companies should do in the context of remote work?",
                 "answer": "A",
-                "explanation": "选 A。P1Organizations should reconsider the appropriateness of their performance evaluation procedures in light of the shift to remote work. 组织应当鉴于向远程办公的转变，重新审视其绩效评估程序是否仍然适当。"
+                "explanation": "选 A。P1Organizations should reconsider the appropriateness of their performance evaluation procedures in light of the shift to remote work. 组织应当鉴于向远程办公的转变，重新审视其绩效评估程序是否仍然适当。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Reform performance evaluation."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Rethink the organizational fundamentals."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Reexamine its effects on employees' behaviors."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Reflect on its differences from working in the office."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What should be prioritized in assessing employees' remote work?A)The quantity of their output.",
+                "stem": "What should be prioritized in assessing employees' remote work?",
                 "answer": "C",
-                "explanation": "选 C。P2It is likely that the \"first to arrive and last to leave\" mentality is no longer relevant, but should be replaced by a regard for the quality of an employee's contribution to the organization. \"早到晚走\" 的心态很可能已不再适用，应该被对员工对组织所作贡献的质量的看重所取代。"
+                "explanation": "选 C。P2It is likely that the \"first to arrive and last to leave\" mentality is no longer relevant, but should be replaced by a regard for the quality of an employee's contribution to the organization. \"早到晚走\" 的心态很可能已不再适用，应该被对员工对组织所作贡献的质量的看重所取代。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "The quantity of their output."
+                  },
+                  {
+                    "key": "B",
+                    "text": "The length of their work time."
+                  },
+                  {
+                    "key": "C",
+                    "text": "The quality of their contribution."
+                  },
+                  {
+                    "key": "D",
+                    "text": "The flexibility of their work schedules."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What quality in the employees would be of great importance in a remote work context?A)The ability to produce quality work.",
+                "stem": "What quality in the employees would be of great importance in a remote work context?",
                 "answer": "D",
-                "explanation": "选 D。P3Qualities like flexibility and the ability to work under minimal supervision might become critical. 诸如灵活性以及在极少督导下工作的能力之类的素质可能会变得至关重要。"
+                "explanation": "选 D。P3Qualities like flexibility and the ability to work under minimal supervision might become critical. 诸如灵活性以及在极少督导下工作的能力之类的素质可能会变得至关重要。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "The ability to produce quality work."
+                  },
+                  {
+                    "key": "B",
+                    "text": "The ability to maximize work efficiency."
+                  },
+                  {
+                    "key": "C",
+                    "text": "The ability to finish tasks in a timely manner."
+                  },
+                  {
+                    "key": "D",
+                    "text": "The ability to work with the least supervision."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "Why is it important for firms to provide timely feedback during the pandemic?A)To evaluate their employees of similar rank in a consistent way.",
+                "stem": "Why is it important for firms to provide timely feedback during the pandemic?",
                 "answer": "C",
-                "explanation": "选 C。P4This allows managers to both keep an eye on struggling employees and provide ongoing feedback on how employees are adapting to their new work environment. 这样做既能让管理者关注陷入困境的员工，又能持续就员工如何适应新的工作环境提供反馈。"
+                "explanation": "选 C。P4This allows managers to both keep an eye on struggling employees and provide ongoing feedback on how employees are adapting to their new work environment. 这样做既能让管理者关注陷入困境的员工，又能持续就员工如何适应新的工作环境提供反馈。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "To evaluate their employees of similar rank in a consistent way."
+                  },
+                  {
+                    "key": "B",
+                    "text": "To keep a watchful eye on those employees who perform poorly."
+                  },
+                  {
+                    "key": "C",
+                    "text": "To help employees in need adapt to the new work environment."
+                  },
+                  {
+                    "key": "D",
+                    "text": "To maintain connections with their employees away from office."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What is the author's suggestion to employers who experience the financial impact of the pandemic?A)Urging their employees to adapt to the new situation.",
+                "stem": "What is the author's suggestion to employers who experience the financial impact of the pandemic?",
                 "answer": "B",
-                "explanation": "选 B。P6For organizations that have struggled to keep the lights on due to the pandemic, this might mean thinking of non-financial ways to reward employees, like unpaid time off or flexible work schedules. 对于那些因疫情挣扎着维持运营的组织而言，这或许意味着要考虑用非财务的方式来奖励员工，比如无薪假期或…"
+                "explanation": "选 B。P6For organizations that have struggled to keep the lights on due to the pandemic, this might mean thinking of non-financial ways to reward employees, like unpaid time off or flexible work schedules. 对于那些因疫情挣扎着维持运营的组织而言，这或许意味着要考虑用非财务的方式来奖励员工，比如无薪假期或…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Urging their employees to adapt to the new situation."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Rewarding their employees in unconventional ways."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Identifying employees who make little contribution."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Allowing their employees to look for part-time jobs."
+                  }
+                ]
               }
             ]
           }
@@ -46404,7 +50544,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2022-06-2",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -46417,33 +50557,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What does previous research about social media reveal?A)Most employees think positively of it.",
+                "stem": "What does previous research about social media reveal?",
                 "answer": "A",
-                "explanation": "选 A。P1Research has shown that 82% of employees think social media can improve work relationships and 60% believe it can support decision-making processes. 已有研究表明：82% 的员工认为社交媒体能改善工作关系，60% 的员工相信它有助于决策过程。"
+                "explanation": "选 A。P1Research has shown that 82% of employees think social media can improve work relationships and 60% believe it can support decision-making processes. 已有研究表明：82% 的员工认为社交媒体能改善工作关系，60% 的员工相信它有助于决策过程。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Most employees think positively of it."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It improves employees' work efficiency."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It enables employees to form connections."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Employees spend much of their work time on it."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What did the author's own research find about social media?A)It influences employees' work negatively.",
+                "stem": "What did the author's own research find about social media?",
                 "answer": "B",
-                "explanation": "选 B。P2Social media doesn't reduce productivity nearly as much as it kills employee retention. 社交媒体降低生产力的程度，远远比不上它对员工留任的杀伤力。"
+                "explanation": "选 B。P2Social media doesn't reduce productivity nearly as much as it kills employee retention. 社交媒体降低生产力的程度，远远比不上它对员工留任的杀伤力。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It influences employees' work negatively."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It does much harm to employee loyalty."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It kills employees' motivation for work"
+                  },
+                  {
+                    "key": "D",
+                    "text": "It affects employers' decision-making."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What did the author find in his study about the effect of online social interactions?A)It differs from employee to employee.",
+                "stem": "What did the author find in his study about the effect of online social interactions?",
                 "answer": "C",
-                "explanation": "选 C。P3I found employees who engage in online social interactions with co-workers through social media blogs tend to be more motivated and come up with innovative ideas. But when employees interact with individuals outside the organization, they are less…"
+                "explanation": "选 C。P3I found employees who engage in online social interactions with co-workers through social media blogs tend to be more motivated and come up with innovative ideas. But when employees interact with individuals outside the organization, they are less…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It differs from employee to employee."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It tends to vary with the platform used."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It has much to do with whom employees interact with."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It is hard to measure when employees interact with outsiders."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What problem was found with employees using social media for work?A)They seldom expressed their inner thoughts.",
+                "stem": "What problem was found with employees using social media for work?",
                 "answer": "B",
-                "explanation": "选 B。P4I found 76% of employees using social media for work took an interest in other organizations they found on social media. When I examined how respondents expressed openness to new careers and employers, I found that they engaged in some key activit…"
+                "explanation": "选 B。P4I found 76% of employees using social media for work took an interest in other organizations they found on social media. When I examined how respondents expressed openness to new careers and employers, I found that they engaged in some key activit…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They seldom expressed their inner thoughts."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Most of them explored new job opportunities."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They were reluctant to collaborate with others."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Many of them ended with lower productivity."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What does the author suggest managers do to neutralize the retention risk?A)Give promotions to employees for their accomplishments.",
+                "stem": "What does the author suggest managers do to neutralize the retention risk?",
                 "answer": "C",
-                "explanation": "选 C。P6Managers can also use social media to directly reduce turnover(跳槽) intentions, by recognizing employees' accomplishments and giving visibility to employees' success stories. 管理者还可以利用社交媒体直接降低跳槽意向：方法是表彰员工取得的成就、让员工的成功故事更被看见。"
+                "explanation": "选 C。P6Managers can also use social media to directly reduce turnover(跳槽) intentions, by recognizing employees' accomplishments and giving visibility to employees' success stories. 管理者还可以利用社交媒体直接降低跳槽意向：方法是表彰员工取得的成就、让员工的成功故事更被看见。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Give promotions to employees for their accomplishments."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Create opportunities for employees to share success stories."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Acknowledge employees' achievements through social media."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Encourage employees to increase their visibility on social media."
+                  }
+                ]
               }
             ]
           },
@@ -46453,33 +50683,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What mainly accounts for the possibility that distance learning could become the norm?A)Advances in education technology.",
+                "stem": "What mainly accounts for the possibility that distance learning could become the norm?",
                 "answer": "B",
-                "explanation": "选 B。P1In the coming era of budget cuts to education, distance learning could become the norm. 在即将到来的教育预算削减时代，远程教育可能成为常态。"
+                "explanation": "选 B。P1In the coming era of budget cuts to education, distance learning could become the norm. 在即将到来的教育预算削减时代，远程教育可能成为常态。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Advances in education technology."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Shrinking financial resources."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Shortage of school facilities."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Lack of qualified teachers."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What does the author say is one possible benefit of students attending school physically?A)Developing the habit of getting up early.",
+                "stem": "What does the author say is one possible benefit of students attending school physically?",
                 "answer": "D",
-                "explanation": "选 D。P2Physically attending school has hidden benefits: getting up every morning, interacting with peers, and building relationships with teachers are essential skills to cultivate in young people. 实地上学有隐性的好处：每天早起、与同伴互动、与老师建立关系，这些都是年轻人需要培养的关键能力。"
+                "explanation": "选 D。P2Physically attending school has hidden benefits: getting up every morning, interacting with peers, and building relationships with teachers are essential skills to cultivate in young people. 实地上学有隐性的好处：每天早起、与同伴互动、与老师建立关系，这些都是年轻人需要培养的关键能力。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Developing the habit of getting up early."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Eating nutritionally well-balanced meals."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Growing into living and breathing human beings."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Cultivating relationships with peers and teachers."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What does the author think of the latest technology in education?A)It may have potential disadvantages.",
+                "stem": "What does the author think of the latest technology in education?",
                 "answer": "A",
-                "explanation": "选 A。P3Those policy-makers are often fascinated by the latest technology in education and its potential to \"transform\" education overnight. But online education does not allow a teacher to keep a struggling student after class and offer help. 那些政策制定者常常被教…"
+                "explanation": "选 A。P3Those policy-makers are often fascinated by the latest technology in education and its potential to \"transform\" education overnight. But online education does not allow a teacher to keep a struggling student after class and offer help. 那些政策制定者常常被教…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It may have potential disadvantages."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It may render many teachers jobless."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It may add to students' financial burden."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It may revolutionize classroom teaching"
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What does the author say teachers are expected to do?A)Enhance students' leadership capacity.",
+                "stem": "What does the author say teachers are expected to do?",
                 "answer": "D",
-                "explanation": "选 D。P3Yet teachers are expected to prepare them to be responsible citizens, cultivate their social skills, encourage successful time management, and enhance their capacity to flourish in an increasingly harsh labor market. 然而，教师却被期望让他们成为有责任感的公民，培养他们的社交能…"
+                "explanation": "选 D。P3Yet teachers are expected to prepare them to be responsible citizens, cultivate their social skills, encourage successful time management, and enhance their capacity to flourish in an increasingly harsh labor market. 然而，教师却被期望让他们成为有责任感的公民，培养他们的社交能…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Enhance students' leadership capacity."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Elevate students to managerial positions."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Enable students to adapt to the changes in life."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Prepare students to be competitive in the future."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "Why couldn't technology replace a good teacher?A)It lacks humanity.",
+                "stem": "Why couldn't technology replace a good teacher?",
                 "answer": "A",
-                "explanation": "选 A。P4The power of the classroom is rooted in the humanity of the people gathered in the same place, at the same time. 课堂的力量根植于聚集在同一地点、同一时间的人们身上的人性。"
+                "explanation": "选 A。P4The power of the classroom is rooted in the humanity of the people gathered in the same place, at the same time. 课堂的力量根植于聚集在同一地点、同一时间的人们身上的人性。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It lacks humanity."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is still immature."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It cannot track students' growth."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It cannot cater to personal needs."
+                  }
+                ]
               }
             ]
           }
@@ -48502,7 +52822,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2022-06-1",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -48515,33 +52835,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What does the author say about students enrolled in online classes?A)They can access course materials easily.",
+                "stem": "What does the author say about students enrolled in online classes?",
                 "answer": "B",
-                "explanation": "选 B。P3First of all, students lack the desire to learn, and they simply complete their assignments to receive credit for a passing grade rather than genuinely engage with the course material. 首先，学生缺乏学习的欲望，他们只是完成作业以拿到及格分数，而不是真正与课程内容打交道。"
+                "explanation": "选 B。P3First of all, students lack the desire to learn, and they simply complete their assignments to receive credit for a passing grade rather than genuinely engage with the course material. 首先，学生缺乏学习的欲望，他们只是完成作业以拿到及格分数，而不是真正与课程内容打交道。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They can access course materials easily."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are unmotivated to learn."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They can learn at their own pace."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They rarely fulfil the course requirements."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What does the author think of online course assignments?A)They are made convenient to mark.",
+                "stem": "What does the author think of online course assignments?",
                 "answer": "A",
-                "explanation": "选 A。P4They are not designed for students to interact with the material in depth but designed to be graded easily to accommodate such a large number of students. 这些作业的设计不是为了让学生深入与材料互动，而是为了便于打分，以应对如此庞大的学生群体。"
+                "explanation": "选 A。P4They are not designed for students to interact with the material in depth but designed to be graded easily to accommodate such a large number of students. 这些作业的设计不是为了让学生深入与材料互动，而是为了便于打分，以应对如此庞大的学生群体。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They are made convenient to mark."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are meant to facilitate interaction."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They are based on easily accessible material."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They are given to accommodate students' needs."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What does the author say is one disadvantage of online classes?A)They are frequently scheduled at irregular times.",
+                "stem": "What does the author say is one disadvantage of online classes?",
                 "answer": "D",
-                "explanation": "选 D。P6There is also little interaction amongst students. It can be harder for students to create study groups and form relationships with their peers. 学生之间的互动也很少。要想组建学习小组、和同伴建立关系会更难。"
+                "explanation": "选 D。P6There is also little interaction amongst students. It can be harder for students to create study groups and form relationships with their peers. 学生之间的互动也很少。要想组建学习小组、和同伴建立关系会更难。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They are frequently scheduled at irregular times."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They make professors' offices much less accessible."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They tend to increase professors' burden of responding to students' emails."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They provide little chance for students to build relationships with each other"
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What problem may arise if classes go online?A)More students may find it easy to be absent from them.",
+                "stem": "What problem may arise if classes go online?",
                 "answer": "C",
-                "explanation": "选 C。P7Not all students have access to these types of resources, whether it is for financial or other reasons, and some students can be put at a disadvantage. 并非所有学生都能用上这些资源，无论是出于经济还是其他原因，有些学生因此可能处于不利地位。"
+                "explanation": "选 C。P7Not all students have access to these types of resources, whether it is for financial or other reasons, and some students can be put at a disadvantage. 并非所有学生都能用上这些资源，无论是出于经济还是其他原因，有些学生因此可能处于不利地位。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "More students may find it easy to be absent from them."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Teachers will worry about poor internet connections."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Some students may have difficulty attending them."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Schools with limited resources will be at a disadvantage."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What does the author think constitutes a key part of genuine education?A)Acquisition of useful knowledge.",
+                "stem": "What does the author think constitutes a key part of genuine education?",
                 "answer": "D",
-                "explanation": "选 D。P8However, they fail to provide a genuine education with an emphasis on convenience rather than critical thinking. 然而，网课未能提供真正的教育，因为它强调便利而非批判性思维。"
+                "explanation": "选 D。P8However, they fail to provide a genuine education with an emphasis on convenience rather than critical thinking. 然而，网课未能提供真正的教育，因为它强调便利而非批判性思维。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Acquisition of useful knowledge."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Training of real-life skills on campus."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Development of students' personalities."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Cultivation of analytical thinking ability."
+                  }
+                ]
               }
             ]
           },
@@ -48551,33 +52961,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What does the author think open debate can do?A)Help the public to better understand science.",
+                "stem": "What does the author think open debate can do?",
                 "answer": "A",
-                "explanation": "选 A。P1If this trend spurs scientists to agree more quickly about the best solutions to our problems—and at the same time helps the public observe the process of scientific discourse more clearly—then this is good for everyone, including scientists. 如果这一…"
+                "explanation": "选 A。P1If this trend spurs scientists to agree more quickly about the best solutions to our problems—and at the same time helps the public observe the process of scientific discourse more clearly—then this is good for everyone, including scientists. 如果这一…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Help the public to better understand science."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Clear up confusion in the scientific community."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Settle disputes between universities and government agencies."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Prevent information from being used incorrectly by the public."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "Why did a recent debate published in The New York Times arouse concerns among experts?A)It might hinder the progress in medical research.",
+                "stem": "Why did a recent debate published in The New York Times arouse concerns among experts?",
                 "answer": "B",
-                "explanation": "选 B。P2But some experts worried that such public speculation might lead people to believe that disagreement about the details meant a lack of adequate scientific consensus over the safety and efficiency of modern-day medicine. 但一些专家担心，这种公开揣测可能让人们相信：对细节的分…"
+                "explanation": "选 B。P2But some experts worried that such public speculation might lead people to believe that disagreement about the details meant a lack of adequate scientific consensus over the safety and efficiency of modern-day medicine. 但一些专家担心，这种公开揣测可能让人们相信：对细节的分…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It might hinder the progress in medical research."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It might breed public distrust in modern medicine."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It might add to the difficulty of getting research funds."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It might prevent medical scientists reaching consensus."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "Why does the author say some experts' anxiety seems misplaced?A)Debating scientific issues at a conference is now old-fashioned.",
+                "stem": "Why does the author say some experts' anxiety seems misplaced?",
                 "answer": "C",
-                "explanation": "选 C。P3Gone are the days of going to a conference and debating scientific issues, and that's good because those gatherings were not diverse enough and excluded many important voices. These days, the public can access debates about science regardless of w…"
+                "explanation": "选 C。P3Gone are the days of going to a conference and debating scientific issues, and that's good because those gatherings were not diverse enough and excluded many important voices. These days, the public can access debates about science regardless of w…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Debating scientific issues at a conference is now old-fashioned."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Diverse topics can be debated by both scientists and the public."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Debates about science are accessible to the public anyway."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Scientists can voice their opinions whatever way they like."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What does the author suggest scientists do about public debate?A)Have more discussions about it.",
+                "stem": "What does the author suggest scientists do about public debate?",
                 "answer": "B",
-                "explanation": "选 B。P4But rather than avoiding such conversations, let the debates be transparent and vigorous, wherever they are held. 但与其回避这类对话，不如让辩论变得透明而有力，无论它们在哪里举行。"
+                "explanation": "选 B。P4But rather than avoiding such conversations, let the debates be transparent and vigorous, wherever they are held. 但与其回避这类对话，不如让辩论变得透明而有力，无论它们在哪里举行。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Have more discussions about it."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Embrace it with open arms."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Formulate new rules for it."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Restrain it to a rational degree."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What does the author say about science in the last paragraph?A)It is transmitted through textbooks.",
+                "stem": "What does the author say about science in the last paragraph?",
                 "answer": "C",
-                "explanation": "选 C。P4If the public is to understand that science is an honorably self-correcting process, the idea that science is a fixed set of facts in a textbook needs to be dismissed. 如果想让公众明白科学是一个光荣的自我修正过程，那么科学就是教科书里一组固定事实这一观念就必须被抛弃。"
+                "explanation": "选 C。P4If the public is to understand that science is an honorably self-correcting process, the idea that science is a fixed set of facts in a textbook needs to be dismissed. 如果想让公众明白科学是一个光荣的自我修正过程，那么科学就是教科书里一组固定事实这一观念就必须被抛弃。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It is transmitted through textbooks."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is what proves valid and true to life."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It is a dynamic and self-improving process."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It is a collection of facts and established rules."
+                  }
+                ]
               }
             ]
           }
@@ -50438,7 +54938,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2021-12-3",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -50451,33 +54951,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What does the author say in the first paragraph about physical contact?A)Its role in interpersonal relationships is getting increasingly important.",
+                "stem": "What does the author say in the first paragraph about physical contact?",
                 "answer": "C",
-                "explanation": "选 C。P1While it may sound safe to avoid all physical contact so as not to offend anyone, the lack of touching might imply cold attitudes or indifference in interpersonal relationships. 尽管完全避免身体接触听起来很安全，可以不冒犯任何人，但缺乏触碰可能在人际关系中暗示冷漠的态度或漠不关心。"
+                "explanation": "选 C。P1While it may sound safe to avoid all physical contact so as not to offend anyone, the lack of touching might imply cold attitudes or indifference in interpersonal relationships. 尽管完全避免身体接触听起来很安全，可以不冒犯任何人，但缺乏触碰可能在人际关系中暗示冷漠的态度或漠不关心。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Its role in interpersonal relationships is getting increasingly important."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is becoming more acceptable to many who used to think it offensive."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Its absence might suggest a lack of warmth in interpersonal relationships."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It might prompt different responses from people of different social backgrounds."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What does physical contact in communication suggest?A)What social class people belong to.",
+                "stem": "What does physical contact in communication suggest?",
                 "answer": "D",
-                "explanation": "选 D。P3Haptics in communication often suggest the level of intimacy. 沟通中的触觉行为常常暗示人际关系的亲密程度。"
+                "explanation": "选 D。P3Haptics in communication often suggest the level of intimacy. 沟通中的触觉行为常常暗示人际关系的亲密程度。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "What social class people belong to."
+                  },
+                  {
+                    "key": "B",
+                    "text": "How civilized the communicators are."
+                  },
+                  {
+                    "key": "C",
+                    "text": "What family background people come from."
+                  },
+                  {
+                    "key": "D",
+                    "text": "How close the communicators' relationships are."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What do we learn about people in high-contact cultures?A)They are sensitive to the way people express their emotions.",
+                "stem": "What do we learn about people in high-contact cultures?",
                 "answer": "B",
-                "explanation": "选 B。P4People from the rest of the world, such as Latin America, are considered to be in high-contact cultures, where they tend to expect touching in social interactions and feel more comfortable with physical closeness. 世界其余地区的人，比如拉丁美洲，被认为属于高接触文化；在这种文化里…"
+                "explanation": "选 B。P4People from the rest of the world, such as Latin America, are considered to be in high-contact cultures, where they tend to expect touching in social interactions and feel more comfortable with physical closeness. 世界其余地区的人，比如拉丁美洲，被认为属于高接触文化；在这种文化里…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They are sensitive to the way people express their emotions."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They take touching as a cultural norm in social interactions."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They attach great importance to close ties among people."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They tend to be more open in interpersonal relationships."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What do we learn about social customs in Arabian countries?A)Men can show friendship in public through physical affection.",
+                "stem": "What do we learn about social customs in Arabian countries?",
                 "answer": "A",
-                "explanation": "选 A。P6In contrast, in certain Arabian, African, and Asian countries, men can publicly hold hands or show physical affection as signs of brotherhood or friendship while these behaviors may suggest a romantic relationship in other parts of the world. 相比之下…"
+                "explanation": "选 A。P6In contrast, in certain Arabian, African, and Asian countries, men can publicly hold hands or show physical affection as signs of brotherhood or friendship while these behaviors may suggest a romantic relationship in other parts of the world. 相比之下…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Men can show friendship in public through physical affection."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Non-traditional romantic relationships are simply unacceptable."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Physical contact between unfamiliar people is negatively perceived."
+                  },
+                  {
+                    "key": "D",
+                    "text": "People of different ages and genders show affection in different ways."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What does the author tell us to do concerning tactile communication?A)Lay emphasis on nonverbal communication.",
+                "stem": "What does the author tell us to do concerning tactile communication?",
                 "answer": "D",
-                "explanation": "选 D。P7Therefore, if you are someone who loves to show physical affection, you should not be afraid to show it or drastically change your behaviors—just ask for consent beforehand! 因此，如果你是那种喜欢表现身体亲昵的人，你不必害怕表达，也不必大幅改变自己的行为——只要事先征得对方同意就好！"
+                "explanation": "选 D。P7Therefore, if you are someone who loves to show physical affection, you should not be afraid to show it or drastically change your behaviors—just ask for consent beforehand! 因此，如果你是那种喜欢表现身体亲昵的人，你不必害怕表达，也不必大幅改变自己的行为——只要事先征得对方同意就好！",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Lay emphasis on nonverbal communication."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Learn to use appropriate body language first."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Pay attention to the differences between genders."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Take other people's preference into consideration."
+                  }
+                ]
               }
             ]
           },
@@ -50487,33 +55077,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What does the author say about the world today?A)It faces problems that are getting more varied and complicated.",
+                "stem": "What does the author say about the world today?",
                 "answer": "A",
-                "explanation": "选 A。P1From climate change to the ongoing pandemic and beyond, the issues facing today's world are increasingly complex and dynamic. 从气候变化到当下这场大流行病再到更远的将来，当今世界面临的问题愈发复杂多变。"
+                "explanation": "选 A。P1From climate change to the ongoing pandemic and beyond, the issues facing today's world are increasingly complex and dynamic. 从气候变化到当下这场大流行病再到更远的将来，当今世界面临的问题愈发复杂多变。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It faces problems that are getting more varied and complicated."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It has done away with many of the traditional ways of thinking."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It is undergoing radical and profound changes."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It is witnessing various types of innovations."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What did Professor O'Keefe find in his earlier studies?A)People's interests tend to change with age.",
+                "stem": "What did Professor O'Keefe find in his earlier studies?",
                 "answer": "C",
-                "explanation": "选 C。P2Professor O'Keefe established in earlier studies that people hold different beliefs about the nature of interest. 奥基夫教授在早期研究中确立：人们对「兴趣的本质」持有不同的看法。"
+                "explanation": "选 C。P2Professor O'Keefe established in earlier studies that people hold different beliefs about the nature of interest. 奥基夫教授在早期研究中确立：人们对「兴趣的本质」持有不同的看法。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "People's interests tend to change with age."
+                  },
+                  {
+                    "key": "B",
+                    "text": "People's interests determine their mindsets."
+                  },
+                  {
+                    "key": "C",
+                    "text": "People are divided about the nature of interest."
+                  },
+                  {
+                    "key": "D",
+                    "text": "People of different ages have different mindsets."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What is the focus of Professor O'Keefe's recent research?A)How boundaries can be removed between arts and science disciplines.",
+                "stem": "What is the focus of Professor O'Keefe's recent research?",
                 "answer": "D",
-                "explanation": "选 D。P2Building on these findings, the latest research examined how a growth mindset of interest can boost integrative thinking across the traditional disciplinary boundaries of arts and sciences. 在前述发现的基础上，最新研究考察了「兴趣的成长型思维倾向」如何促进跨越文理传统学科边界的整合性思维。"
+                "explanation": "选 D。P2Building on these findings, the latest research examined how a growth mindset of interest can boost integrative thinking across the traditional disciplinary boundaries of arts and sciences. 在前述发现的基础上，最新研究考察了「兴趣的成长型思维倾向」如何促进跨越文理传统学科边界的整合性思维。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "How boundaries can be removed between arts and science disciplines."
+                  },
+                  {
+                    "key": "B",
+                    "text": "How feasible it is to create new disciplines like computational economics."
+                  },
+                  {
+                    "key": "C",
+                    "text": "How students in arts and sciences view the two types of mindset of interest."
+                  },
+                  {
+                    "key": "D",
+                    "text": "How a growth mindset of interest can contribute to cross-disciplinary thinking."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What does the author want to illustrate with the example of smartphones?A)Hi-tech products are needed in interdisciplinary research.",
+                "stem": "What does the author want to illustrate with the example of smartphones?",
                 "answer": "C",
-                "explanation": "选 C。P4Take smartphones for example. You need not only computer science and engineering knowledge, but also an understanding of psychology and visual design to create a better product. 以智能手机为例：你不仅需要计算机科学与工程学的知识，还需要心理学与视觉设计方面的理解，才能造出更好的产品。"
+                "explanation": "选 C。P4Take smartphones for example. You need not only computer science and engineering knowledge, but also an understanding of psychology and visual design to create a better product. 以智能手机为例：你不仅需要计算机科学与工程学的知识，还需要心理学与视觉设计方面的理解，才能造出更好的产品。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Hi-tech products are needed in interdisciplinary research."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Improved technology gives birth to highly popular products."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Making innovative products needs multidisciplinary knowledge."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Hi-tech products can boost people's integrative thinking."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What is the author's suggestion to those who are seeking employment?A)Learning practical skills.",
+                "stem": "What is the author's suggestion to those who are seeking employment?",
                 "answer": "B",
-                "explanation": "选 B。P5Having a growth mindset of interest can help job seekers expand their interests and become more adaptable to different fields, and take the initiative to learn new skills. 拥有兴趣的成长型思维，能帮助求职者拓展兴趣、对不同领域更具适应力，并主动学习新技能。"
+                "explanation": "选 B。P5Having a growth mindset of interest can help job seekers expand their interests and become more adaptable to different fields, and take the initiative to learn new skills. 拥有兴趣的成长型思维，能帮助求职者拓展兴趣、对不同领域更具适应力，并主动学习新技能。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Learning practical skills."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Broadening their interests."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Staying safe in the pandemic."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Knowing their pressing issues."
+                  }
+                ]
               }
             ]
           }
@@ -52262,7 +56942,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2021-12-2",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -52275,33 +56955,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What does Professor John Wilding argue about obesity?A)Its impact on society is expected to rise.",
+                "stem": "What does Professor John Wilding argue about obesity?",
                 "answer": "C",
-                "explanation": "选 C。P1He points out that more than 200 genes influence weight. \"Thus body weight is strongly influenced by biology—it is not an individual's fault if they develop obesity.\" 他指出有超过 200 个基因影响体重。「因此体重受生物学因素强烈影响——一个人如果得了肥胖症，并不是他自己的过错。」"
+                "explanation": "选 C。P1He points out that more than 200 genes influence weight. \"Thus body weight is strongly influenced by biology—it is not an individual's fault if they develop obesity.\" 他指出有超过 200 个基因影响体重。「因此体重受生物学因素强烈影响——一个人如果得了肥胖症，并不是他自己的过错。」",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Its impact on society is expected to rise."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is now too widespread to be neglected."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It should be regarded as a genetic disease."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Its dictionary definition should be updated."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What is the popular view of obesity?A)It is difficult to define.",
+                "stem": "What is the popular view of obesity?",
                 "answer": "D",
-                "explanation": "选 D。P1Yet the widespread view is that obesity is self-induced and that it is entirely the individual's responsibility to do something about it. 然而，普遍的观点认为，肥胖是自找的，并且完全是个人自己的责任去采取行动加以解决。"
+                "explanation": "选 D。P1Yet the widespread view is that obesity is self-induced and that it is entirely the individual's responsibility to do something about it. 然而，普遍的观点认为，肥胖是自找的，并且完全是个人自己的责任去采取行动加以解决。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It is difficult to define."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is a modern disease."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It has much to do with one's genes."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It results from a lack of self-control."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "Why are some people opposed to labelling obesity as a disease?A)Obese people would not feel responsible to take any action.",
+                "stem": "Why are some people opposed to labelling obesity as a disease?",
                 "answer": "A",
-                "explanation": "选 A。P4But labelling obesity as a disease \"risks reducing autonomy, disempowering and robbing people of the intrinsic motivation that is such an important enabler of change.\" 但把肥胖定性为疾病「有可能削弱人的自主性，让人失去权能感，并夺走对改变如此重要的内在动力。」"
+                "explanation": "选 A。P4But labelling obesity as a disease \"risks reducing autonomy, disempowering and robbing people of the intrinsic motivation that is such an important enabler of change.\" 但把肥胖定性为疾病「有可能削弱人的自主性，让人失去权能感，并夺走对改变如此重要的内在动力。」",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Obese people would not feel responsible to take any action."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Obese people would not be able to afford the medical costs."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Obese people would be overwhelmed with anxiety."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Obese people would be discriminated against."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What does Dr. Richard Pile think of the dictionary definition of disease?A)It is of no use in understanding obesity.",
+                "stem": "What does Dr. Richard Pile think of the dictionary definition of disease?",
                 "answer": "B",
-                "explanation": "选 B。P3He believes that the dictionary definition of disease \"is so vague that we can classify almost anything as a disease\" and says the question is not whether we can, but whether we should, and to what end. 他认为，对 disease 一词的字典定义「过于含糊，以至于我们几乎可以把任何东西都归入…"
+                "explanation": "选 B。P3He believes that the dictionary definition of disease \"is so vague that we can classify almost anything as a disease\" and says the question is not whether we can, but whether we should, and to what end. 他认为，对 disease 一词的字典定义「过于含糊，以至于我们几乎可以把任何东西都归入…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It is of no use in understanding obesity."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is too inclusive and thus lacks clarity."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It helps little to solve patients' problems."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It matters little to the debate over obesity."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What is Dr. Richard Pile's concern about classifying obesity as a disease?A)It may affect obese people's quality of life.",
+                "stem": "What is Dr. Richard Pile's concern about classifying obesity as a disease?",
                 "answer": "D",
-                "explanation": "选 D。P4What's more, making obesity a disease \"may not benefit patients, but it will benefit healthcare providers and the pharmaceutical industry when health insurance and clinical guidelines promote treatment with drugs and surgery,\" he warns. 此外，他警告说，把肥…"
+                "explanation": "选 D。P4What's more, making obesity a disease \"may not benefit patients, but it will benefit healthcare providers and the pharmaceutical industry when health insurance and clinical guidelines promote treatment with drugs and surgery,\" he warns. 此外，他警告说，把肥…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It may affect obese people's quality of life."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It may accelerate the spread of obesity."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It may cause a shortage of doctors."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It may do little good to patients."
+                  }
+                ]
               }
             ]
           },
@@ -52311,33 +57081,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What do we learn from the first paragraph about early childhood education in the U.S.?A)It helps raise children's awareness of gender roles.",
+                "stem": "What do we learn from the first paragraph about early childhood education in the U.S.?",
                 "answer": "C",
-                "explanation": "选 C。P1Nationwide, only about three percent of early childhood teachers are male in the U.S. Experts say this can have an impact on young children whose understanding of gender roles and identity are rapidly forming. 全美范围内，幼教队伍中男性仅约百分之三。专家说这会对处于性别角色与身份认知…"
+                "explanation": "选 C。P1Nationwide, only about three percent of early childhood teachers are male in the U.S. Experts say this can have an impact on young children whose understanding of gender roles and identity are rapidly forming. 全美范围内，幼教队伍中男性仅约百分之三。专家说这会对处于性别角色与身份认知…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It helps raise children's awareness of gender roles."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It exposes children to different ways of interaction."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It is negatively impacted by a lack of male teachers."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It clearly aims to form children's identity through play."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What does Mindi Reich-Shapiro emphasize in her comment on childhood education?A)The importance of broadening children's horizons.",
+                "stem": "What does Mindi Reich-Shapiro emphasize in her comment on childhood education?",
                 "answer": "A",
-                "explanation": "选 A。P2It's important for children to see other possibilities and other paths they can take. 对孩子来说，看到其他可能性、看到他们可以走的其他道路，是很重要的。"
+                "explanation": "选 A。P2It's important for children to see other possibilities and other paths they can take. 对孩子来说，看到其他可能性、看到他们可以走的其他道路，是很重要的。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "The importance of broadening children's horizons."
+                  },
+                  {
+                    "key": "B",
+                    "text": "The responsibilities of fathers for children's growth."
+                  },
+                  {
+                    "key": "C",
+                    "text": "The urgency of creating teacher education programs."
+                  },
+                  {
+                    "key": "D",
+                    "text": "The role of teachers in motivating children to learn."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What do we learn about male teachers from their responses in the study?A)Some of them find it awkward when hugging children.",
+                "stem": "What do we learn about male teachers from their responses in the study?",
                 "answer": "D",
-                "explanation": "选 D。P3Despite mostly feeling supported by colleagues and family members, many of the male educators surveyed in the study reported facing social or cultural resistance in their careers as early education teachers. 尽管大多数人觉得获得了同事与家人的支持，许多受访男幼教仍然反映在职业中遇到社会…"
+                "explanation": "选 D。P3Despite mostly feeling supported by colleagues and family members, many of the male educators surveyed in the study reported facing social or cultural resistance in their careers as early education teachers. 尽管大多数人觉得获得了同事与家人的支持，许多受访男幼教仍然反映在职业中遇到社会…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Some of them find it awkward when hugging children."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They feel pressured to keep up with female colleagues."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They find it hard to meet the expectations of kids' parents."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Many of them feel prejudiced against socially and culturally."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What is needed for men to commit to early childhood education?A)Higher pay.",
+                "stem": "What is needed for men to commit to early childhood education?",
                 "answer": "A",
-                "explanation": "选 A。P4Over 70% of male educators who said they intended to stay in the early education workforce noted an increased salary was a major motivating factor for them to commit to the career long-term. 在那些表示打算留在幼教队伍的男教师里，超过百分之七十的人指出涨薪是他们长期投身这一职业的主要动因。"
+                "explanation": "选 A。P4Over 70% of male educators who said they intended to stay in the early education workforce noted an increased salary was a major motivating factor for them to commit to the career long-term. 在那些表示打算留在幼教队伍的男教师里，超过百分之七十的人指出涨薪是他们长期投身这一职业的主要动因。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Higher pay."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Job security."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Social recognition."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Better working conditions."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What do the authors of the study recommend to bridge the gender gap in early childhood education?A)Recruiting young men who have a passion for educating young children.",
+                "stem": "What do the authors of the study recommend to bridge the gender gap in early childhood education?",
                 "answer": "B",
-                "explanation": "选 B。P6They recommend providing young men opportunities to work with children through training and volunteer programs, targeting groups of men who are considering a career change, such as fathers. 他们建议通过培训与志愿项目，给年轻男性提供与儿童一起工作的机会，并把目光投向考虑转行的男性群体，例如父亲们。"
+                "explanation": "选 B。P6They recommend providing young men opportunities to work with children through training and volunteer programs, targeting groups of men who are considering a career change, such as fathers. 他们建议通过培训与志愿项目，给年轻男性提供与儿童一起工作的机会，并把目光投向考虑转行的男性群体，例如父亲们。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Recruiting young men who have a passion for educating young children."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Taking measures to attract prospective male teachers to work in the field."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Persuading prospective fathers to consider a change in their career."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Providing male teachers with more opportunities for advancement."
+                  }
+                ]
               }
             ]
           }
@@ -54562,7 +59422,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2021-12-1",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -54575,33 +59435,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What does the author say about working from home?A)It will become the norm sooner or later.",
+                "stem": "What does the author say about working from home?",
                 "answer": "C",
-                "explanation": "选 C。P2Employers argue they make considerable savings on real estate when workers shift from office to home work. However, these savings result from passing costs on to workers. 雇主声称：员工从办公室转向居家办公时，他们能在地产上省下相当一笔。然而，这些节省其实来自把成本转嫁给员工。"
+                "explanation": "选 C。P2Employers argue they make considerable savings on real estate when workers shift from office to home work. However, these savings result from passing costs on to workers. 雇主声称：员工从办公室转向居家办公时，他们能在地产上省下相当一笔。然而，这些节省其实来自把成本转嫁给员工。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It will become the norm sooner or later."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It requires employees to adapt promptly."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It benefits employers at the expense of employees."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It will force cities to transform their infrastructure."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "Why do some people oppose working from home?A)It discourages team spirit.",
+                "stem": "Why do some people oppose working from home?",
                 "answer": "D",
-                "explanation": "选 D。P4Though employers are backed by a chorus of remote work advocates, others note the loneliness, reduced productivity and inefficiencies of extended remote work. 尽管雇主有一群远程办公拥护者助阵，也有人指出长期远程办公带来的孤独感、生产力下降和低效问题。"
+                "explanation": "选 D。P4Though employers are backed by a chorus of remote work advocates, others note the loneliness, reduced productivity and inefficiencies of extended remote work. 尽管雇主有一群远程办公拥护者助阵，也有人指出长期远程办公带来的孤独感、生产力下降和低效问题。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It discourages team spirit."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It invades employees' privacy."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It undermines traditional values."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It negatively impacts productivity."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "Why did the author run the estimates for Montreal?A)To provide convincing data for serious discussion.",
+                "stem": "Why did the author run the estimates for Montreal?",
                 "answer": "A",
-                "explanation": "选 A。P6The exercise is simple but important, since it brings these costs out of the realm of speculation into the realm of meaningful discussion. 这项估算操作虽简单却重要，因为它把这些成本从空想范畴推进到可作有意义讨论的范畴。"
+                "explanation": "选 A。P6The exercise is simple but important, since it brings these costs out of the realm of speculation into the realm of meaningful discussion. 这项估算操作虽简单却重要，因为它把这些成本从空想范畴推进到可作有意义讨论的范畴。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "To provide convincing data for serious discussion."
+                  },
+                  {
+                    "key": "B",
+                    "text": "To illustrate the ongoing change in working patterns."
+                  },
+                  {
+                    "key": "C",
+                    "text": "To show the impact of remote working on productivity."
+                  },
+                  {
+                    "key": "D",
+                    "text": "To exemplify how remote working affects the economy."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What can we conclude from the author's calculations?A)There is no point in transferring office work to working from home.",
+                "stem": "What can we conclude from the author's calculations?",
                 "answer": "C",
-                "explanation": "选 C。P7Rough calculations show that the savings made by employers when their staff works from home are of similar value to the compensation workers should receive for setting up offices at home. 粗略计算表明，员工居家办公时雇主所节省的费用，与员工为在家设立办公空间应得的补偿金额相当。"
+                "explanation": "选 C。P7Rough calculations show that the savings made by employers when their staff works from home are of similar value to the compensation workers should receive for setting up offices at home. 粗略计算表明，员工居家办公时雇主所节省的费用，与员工为在家设立办公空间应得的补偿金额相当。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "There is no point in transferring office work to working from home."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Employees can benefit as much from remote working as their employers."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Employers' gain from remote working should go to employees as compensation."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Effective measures should be taken to motivate employees to set up offices at home."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What is the author's opinion on working from home?A)It should be avoided if possible.",
+                "stem": "What is the author's opinion on working from home?",
                 "answer": "A",
-                "explanation": "选 A。【判型】What is the author's opinion on working from home? 直接用 opinion 询问作者态度，需要聚合全文极性词，按态度题特殊路径处理。 【拆句】题干 What is the author's opinion on working from home? 主干是 What is the author's opinion，on working from home 修饰 opinion，限定话题范围，结构简单，无陷阱。 【选项】A)✓ 正确 sh…"
+                "explanation": "选 A。【判型】What is the author's opinion on working from home? 直接用 opinion 询问作者态度，需要聚合全文极性词，按态度题特殊路径处理。 【拆句】题干 What is the author's opinion on working from home? 主干是 What is the author's opinion，on working from home 修饰 opinion，限定话题范围，结构简单，无陷阱。 【选项】A)✓ 正确 sh…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It should be avoided if possible."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is only a temporary measure."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It can reduce companies' real estate costs."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It may affect employees' corporate loyalty."
+                  }
+                ]
               }
             ]
           },
@@ -54611,33 +59561,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What does the author say about curiosity?A)It is too complex for non-scientists to understand.",
+                "stem": "What does the author say about curiosity?",
                 "answer": "B",
-                "explanation": "选 B。P1The human thirst for knowledge is the driving force behind our successful development as a species. 人类对知识的渴求是我们作为一个物种成功发展背后的驱动力。"
+                "explanation": "选 B。P1The human thirst for knowledge is the driving force behind our successful development as a species. 人类对知识的渴求是我们作为一个物种成功发展背后的驱动力。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It is too complex for non-scientists to understand."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is the force that pushes human society forward."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It is a unique trait specific to the human race."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It is often the major cause for human failures."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What is the general understanding of curiosity?A)It motivates people to seek information.",
+                "stem": "What is the general understanding of curiosity?",
                 "answer": "A",
-                "explanation": "选 A。P2While pinning down a definition has proven tricky, the general consensus is it's some means of information gathering. 尽管要给出确切定义被证明很棘手，普遍共识是好奇心是某种信息收集的手段。"
+                "explanation": "选 A。P2While pinning down a definition has proven tricky, the general consensus is it's some means of information gathering. 尽管要给出确切定义被证明很棘手，普遍共识是好奇心是某种信息收集的手段。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It motivates people to seek information."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is destined to transform human genes."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It does people more good than harm."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It underlies all human behaviors."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What do we learn about how genes shape people's behavior?A)They determine people's way of thinking.",
+                "stem": "What do we learn about how genes shape people's behavior?",
                 "answer": "D",
-                "explanation": "选 D。P3Genes and the environment interact in many complex ways to shape individuals and guide their behavior, including their curiosity. 基因和环境以许多复杂的方式相互作用，塑造个体并指导他们的行为，包括他们的好奇心。"
+                "explanation": "选 D。P3Genes and the environment interact in many complex ways to shape individuals and guide their behavior, including their curiosity. 基因和环境以许多复杂的方式相互作用，塑造个体并指导他们的行为，包括他们的好奇心。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They determine people's way of thinking."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They account for age differences in learning."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They enable people to undertake massive tasks."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They work in conjunction with the environment."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What do numerous studies show about infants?A)They are far more curious than adults.",
+                "stem": "What do numerous studies show about infants?",
                 "answer": "B",
-                "explanation": "选 B。P5Hundreds of studies show that infants prefer novelty. 数以百计的研究表明，婴儿偏爱新奇事物。"
+                "explanation": "选 B。P5Hundreds of studies show that infants prefer novelty. 数以百计的研究表明，婴儿偏爱新奇事物。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They are far more curious than adults."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They prefer to go after all that is novel."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They have different interests than adults."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They show non-human animal behaviors."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What does the example of the Inuit people of the Arctic regions illustrate?A)The cost of humans' curiosity to explore.",
+                "stem": "What does the example of the Inuit people of the Arctic regions illustrate?",
                 "answer": "A",
-                "explanation": "选 A。P6But curiosity often comes with a cost. 但好奇心往往是有代价的。"
+                "explanation": "选 A。P6But curiosity often comes with a cost. 但好奇心往往是有代价的。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "The cost of humans' curiosity to explore."
+                  },
+                  {
+                    "key": "B",
+                    "text": "The incredible harshness of cold weather."
+                  },
+                  {
+                    "key": "C",
+                    "text": "The innovative ideas stemming from curiosity."
+                  },
+                  {
+                    "key": "D",
+                    "text": "The importance of learning from past failures."
+                  }
+                ]
               }
             ]
           }
@@ -56614,7 +61654,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2021-06-3",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -56627,33 +61667,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What have studies found about boredom?A)It facilitates innovative thinking.",
+                "stem": "What have studies found about boredom?",
                 "answer": "A",
-                "explanation": "选 A。P1Studies point to how boredom is good for creativity and innovation, as well as mental health. 研究指出无聊有益于创造力和创新（思维），也有益于心理健康。"
+                "explanation": "选 A。P1Studies point to how boredom is good for creativity and innovation, as well as mental health. 研究指出无聊有益于创造力和创新（思维），也有益于心理健康。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It facilitates innovative thinking."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It is a result of doing boring tasks."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It helps people connect with others."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It does harm to one's mental health."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What does the author say boredom might indicate?A)A need to be left alone.",
+                "stem": "What does the author say boredom might indicate?",
                 "answer": "B",
-                "explanation": "选 B。P2As it turns out, boredom might signal the fact that you have a need that isn't being met. 事实证明，无聊可能是在告诉你：你有一种需求没有被满足。"
+                "explanation": "选 B。P2As it turns out, boredom might signal the fact that you have a need that isn't being met. 事实证明，无聊可能是在告诉你：你有一种需求没有被满足。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "A need to be left alone."
+                  },
+                  {
+                    "key": "B",
+                    "text": "A desire to be fulfilled."
+                  },
+                  {
+                    "key": "C",
+                    "text": "A conflict to be resolved."
+                  },
+                  {
+                    "key": "D",
+                    "text": "A feeling to be validated."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What do we learn about social media from the passage?A)It may be an obstacle to expanding one's connections.",
+                "stem": "What do we learn about social media from the passage?",
                 "answer": "C",
-                "explanation": "选 C。P3Our always-on world of social media may result in more connections, but they are superficial and can get in the way of building a real sense of belonging. 我们这个永远在线的社交媒体世界可能带来更多连接，但这些连接是肤浅的，会妨碍建立真正的归属感。"
+                "explanation": "选 C。P3Our always-on world of social media may result in more connections, but they are superficial and can get in the way of building a real sense of belonging. 我们这个永远在线的社交媒体世界可能带来更多连接，但这些连接是肤浅的，会妨碍建立真正的归属感。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It may be an obstacle to expanding one's connections."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It may get in the way of enhancing one's social status."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It may prevent people from developing a genuine sense of community."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It may make people feel that they ought to fit in with the outside world."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What does the author suggest people do to get rid of boredom?A)Count the likes they get on their posts.",
+                "stem": "What does the author suggest people do to get rid of boredom?",
                 "answer": "C",
-                "explanation": "选 C。P3So take the step of joining an organization to build face-to-face relationships. You'll find depth that you won't get from your screen no matter how many likes you get on your post. 所以请采取行动，加入一个组织，去建立面对面的关系。你会从中获得屏幕给不了的深度——无论你的帖子收到多少点赞。"
+                "explanation": "选 C。P3So take the step of joining an organization to build face-to-face relationships. You'll find depth that you won't get from your screen no matter how many likes you get on your post. 所以请采取行动，加入一个组织，去建立面对面的关系。你会从中获得屏幕给不了的深度——无论你的帖子收到多少点赞。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Count the likes they get on their posts."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Reflect on how they relate to others."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Engage in real-life interactions."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Participate in online discussions."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What should people do to enhance their sense of meaning?A)Try to do something original.",
+                "stem": "What should people do to enhance their sense of meaning?",
                 "answer": "D",
-                "explanation": "选 D。P4If you want to reduce boredom and increase your sense of meaning, seek work where you can make a unique contribution, or find a cause you can support with your time and talent. 如果你想减少无聊、增强意义感，就去寻找一份你能做出独特贡献的工作，或者找到一项你能用时间和才华去支持的事业。"
+                "explanation": "选 D。P4If you want to reduce boredom and increase your sense of meaning, seek work where you can make a unique contribution, or find a cause you can support with your time and talent. 如果你想减少无聊、增强意义感，就去寻找一份你能做出独特贡献的工作，或者找到一项你能用时间和才华去支持的事业。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Try to do something original."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Confront significant challenges."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Define boredom in their unique way."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Devote themselves to a worthy cause."
+                  }
+                ]
               }
             ]
           },
@@ -56663,33 +61793,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What did the author suspect back in 2016?A)Calorie consumption had fallen drastically over the decades.",
+                "stem": "What did the author suspect back in 2016?",
                 "answer": "C",
-                "explanation": "选 C。P2We originally had this suspicion back in 2016, puzzled by the fact that national statistics showed calorie consumption falling dramatically over past decades. 我们最初是在 2016 年产生这种怀疑的——我们困惑于一个事实：国家统计数据显示，过去几十年里热量消费在大幅下降。"
+                "explanation": "选 C。P2We originally had this suspicion back in 2016, puzzled by the fact that national statistics showed calorie consumption falling dramatically over past decades. 我们最初是在 2016 年产生这种怀疑的——我们困惑于一个事实：国家统计数据显示，过去几十年里热量消费在大幅下降。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Calorie consumption had fallen drastically over the decades."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Most people surveyed were reluctant to reveal what they ate."
+                  },
+                  {
+                    "key": "C",
+                    "text": "The national statistics did not reflect the actual calorie consumption."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Most people did not include snacks when reporting their calorie intake."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What has the Office for National Statistics verified?A)People's calorie intake was far from accurately reported.",
+                "stem": "What has the Office for National Statistics verified?",
                 "answer": "A",
-                "explanation": "选 A。P3Now the Office for National Statistics has confirmed that we are consuming 50% more calories than our national statistics claim. 如今国家统计局已证实：我们实际摄入的热量比国家统计声称的高出 50%。"
+                "explanation": "选 A。P3Now the Office for National Statistics has confirmed that we are consuming 50% more calories than our national statistics claim. 如今国家统计局已证实：我们实际摄入的热量比国家统计声称的高出 50%。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "People's calorie intake was far from accurately reported."
+                  },
+                  {
+                    "key": "B",
+                    "text": "The missing out of main meals leads to the habit of snacking."
+                  },
+                  {
+                    "key": "C",
+                    "text": "The nation's obesity level has much to do with calorie intake."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Calorie consumption is linked to the amount of snacks one eats."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What do we learn about obese people from the passage?A)They usually keep their eating habits a secret.",
+                "stem": "What do we learn about obese people from the passage?",
                 "answer": "D",
-                "explanation": "选 D。P4Under-reporting rates are much higher for obese people, because they simply consume more food, and thus have more to remember. 肥胖人群的漏报率要高得多，因为他们吃得本来就多，需要回想的食物也就更多。"
+                "explanation": "选 D。P4Under-reporting rates are much higher for obese people, because they simply consume more food, and thus have more to remember. 肥胖人群的漏报率要高得多，因为他们吃得本来就多，需要回想的食物也就更多。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They usually keep their eating habits a secret."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They overlook the potential causes of obesity."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They cannot help eating more than they should."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They have difficulty recalling what they have eaten."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What often goes unnoticed in surveys on food consumption?A)The growing trend of eating out.",
+                "stem": "What often goes unnoticed in surveys on food consumption?",
                 "answer": "A",
-                "explanation": "选 A。P6Again, there is evidence that food consumed out of the home is one of the most poorly recorded categories in surveys. 再者，有证据表明：在家以外吃的东西，是调查中被记得最差的类别之一。"
+                "explanation": "选 A。P6Again, there is evidence that food consumed out of the home is one of the most poorly recorded categories in surveys. 再者，有证据表明：在家以外吃的东西，是调查中被记得最差的类别之一。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "The growing trend of eating out."
+                  },
+                  {
+                    "key": "B",
+                    "text": "The potential causes of snacking."
+                  },
+                  {
+                    "key": "C",
+                    "text": "People's home energy consumption."
+                  },
+                  {
+                    "key": "D",
+                    "text": "People's changing diet over the years."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What does the author suggest policymakers do about obesity?A)Remind people to cut down on snacking.",
+                "stem": "What does the author suggest policymakers do about obesity?",
                 "answer": "B",
-                "explanation": "选 B。P7Also, we should be looking for new ways to ensure what people eat wouldn't have much impact on their waistlines. 此外，我们应当寻找新方法，确保人们吃下去的东西不会对腰围产生多大影响。"
+                "explanation": "选 B。P7Also, we should be looking for new ways to ensure what people eat wouldn't have much impact on their waistlines. 此外，我们应当寻找新方法，确保人们吃下去的东西不会对腰围产生多大影响。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Remind people to cut down on snacking."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Make sure people eat non-fattening food."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Ensure people don't miss their main meals."
+                  },
+                  {
+                    "key": "D",
+                    "text": "See that people don't stick to the same diet."
+                  }
+                ]
               }
             ]
           }
@@ -58632,7 +63852,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2021-06-2",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -58645,33 +63865,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What did Harvard scientists do 50 years ago?A)They raised public awareness of the possible causes of heart disease.",
+                "stem": "What did Harvard scientists do 50 years ago?",
                 "answer": "B",
-                "explanation": "选 B。P1Sugar shocked. That describes the reaction of many Americans this week following revelations that, 50 years ago, the sugar industry paid Harvard scientists for research that shifted the focus away from sugar's role in heart disease—and put the spo…"
+                "explanation": "选 B。P1Sugar shocked. That describes the reaction of many Americans this week following revelations that, 50 years ago, the sugar industry paid Harvard scientists for research that shifted the focus away from sugar's role in heart disease—and put the spo…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They raised public awareness of the possible causes of heart disease."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They turned public attention away from the health risks of sugar to fat."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They placed the sugar industry in the spotlight with their new findings."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They conducted large-scale research on the role of sugar in people's health."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "What does Marion Nestle say about present-day nutrition studies?A)They took her a full year to track and analyze.",
+                "stem": "What does Marion Nestle say about present-day nutrition studies?",
                 "answer": "D",
-                "explanation": "选 D。P2\"Roughly 90% of nearly 170 studies favored the sponsor's interest,\" Nestle tells us. Nestle 告诉我们：\"在近 170 项研究里，约 90% 的结果都偏向了资助方的利益。\""
+                "explanation": "选 D。P2\"Roughly 90% of nearly 170 studies favored the sponsor's interest,\" Nestle tells us. Nestle 告诉我们：\"在近 170 项研究里，约 90% 的结果都偏向了资助方的利益。\"",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They took her a full year to track and analyze."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Most of them are based on systematic reviews."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They depend on funding from the food industries."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Nearly all of them serve the purpose of the funders."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "What did Coca-Cola-funded studies claim?A)Exercise is more important to good health than diet.",
+                "stem": "What did Coca-Cola-funded studies claim?",
                 "answer": "A",
-                "explanation": "选 A。P4Last year, The New York Times revealed how Coca-Cola was funding well-known scientists and organizations promoting a message that, in the battle against weight gain, people should pay more attention to exercise and less to what they eat and drink.…"
+                "explanation": "选 A。P4Last year, The New York Times revealed how Coca-Cola was funding well-known scientists and organizations promoting a message that, in the battle against weight gain, people should pay more attention to exercise and less to what they eat and drink.…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Exercise is more important to good health than diet."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Choosing what to eat and drink is key to weight control."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Drinking Coca-Cola does not contribute to weight gain."
+                  },
+                  {
+                    "key": "D",
+                    "text": "The food industry plays a major role in fighting obesity."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What does Liebman say about industry-funded research?A)It simply focuses on nutrition and health.",
+                "stem": "What does Liebman say about industry-funded research?",
                 "answer": "C",
-                "explanation": "选 C。P5\"When the food industry pays for research, it often gets what it pays for.\" And what it pays for is often a pro-industry finding. \"当食品业出钱做研究时，它常常能买到自己想要的结论。\"而它想买的，往往是一个对产业有利的结果。"
+                "explanation": "选 C。P5\"When the food industry pays for research, it often gets what it pays for.\" And what it pays for is often a pro-industry finding. \"当食品业出钱做研究时，它常常能买到自己想要的结论。\"而它想买的，往往是一个对产业有利的结果。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It simply focuses on nutrition and health."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It causes confusion among consumers."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It rarely results in objective findings."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It runs counter to the public interest."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What is the author's advice to consumers?A)Follow their intuition in deciding what to eat.",
+                "stem": "What is the author's advice to consumers?",
                 "answer": "D",
-                "explanation": "选 D。P6Given this environment, consumers should be skeptical(怀疑的) when reading the latest finding in nutrition science and ignore the latest study that pops up on your news feed. 鉴于这种环境，消费者读到营养科学的最新发现时应当保持怀疑，并对新闻推送里冒出来的最新研究置之不理。"
+                "explanation": "选 D。P6Given this environment, consumers should be skeptical(怀疑的) when reading the latest finding in nutrition science and ignore the latest study that pops up on your news feed. 鉴于这种环境，消费者读到营养科学的最新发现时应当保持怀疑，并对新闻推送里冒出来的最新研究置之不理。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Follow their intuition in deciding what to eat."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Be doubtful of diet experts' recommendations."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Ignore irrelevant information on their news feed."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Think twice about new nutrition research findings."
+                  }
+                ]
               }
             ]
           },
@@ -58681,33 +63991,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What does the author use the example of his father to illustrate?A)How long people took to reach the top of their career.",
+                "stem": "What does the author use the example of his father to illustrate?",
                 "answer": "C",
-                "explanation": "选 C。P1Success was once defined as being able to stay at a company for a long time and move up the corporate ladder. The goal was to reach the top, accumulate wealth and retire to a life of ease. My father is a successful senior executive. In 35 years, h…"
+                "explanation": "选 C。P1Success was once defined as being able to stay at a company for a long time and move up the corporate ladder. The goal was to reach the top, accumulate wealth and retire to a life of ease. My father is a successful senior executive. In 35 years, h…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "How long people took to reach the top of their career."
+                  },
+                  {
+                    "key": "B",
+                    "text": "How people accumulated wealth in his father's time."
+                  },
+                  {
+                    "key": "C",
+                    "text": "How people viewed success in his father's time."
+                  },
+                  {
+                    "key": "D",
+                    "text": "How long people usually stayed in a company."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "Why did people often change jobs when the author started his career?A)It was considered a fashion at that time.",
+                "stem": "Why did people often change jobs when the author started his career?",
                 "answer": "B",
-                "explanation": "选 B。P2If you weren't changing companies every three or four years, you simply weren't getting ahead in your career. 如果你没在每三四年换一次公司，那你的职业基本就没在前进。"
+                "explanation": "选 B。P2If you weren't changing companies every three or four years, you simply weren't getting ahead in your career. 如果你没在每三四年换一次公司，那你的职业基本就没在前进。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It was considered a fashion at that time."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It was a way to advance in their career."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It was a response to the changing job market."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It was difficult to keep a job for long."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What does the author say about people now working for several businesses at the same time?A)They are often regarded as most treasured talents.",
+                "stem": "What does the author say about people now working for several businesses at the same time?",
                 "answer": "A",
-                "explanation": "选 A。P3Today, consulting or freelancing for five businesses at the same time is a badge of honor. It shows how valuable an individual is. 如今，同时为五家公司做咨询或自由职业是一种荣誉徽章，它显示一个人有多么有价值。"
+                "explanation": "选 A。P3Today, consulting or freelancing for five businesses at the same time is a badge of honor. It shows how valuable an individual is. 如今，同时为五家公司做咨询或自由职业是一种荣誉徽章，它显示一个人有多么有价值。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They are often regarded as most treasured talents."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They are able to bring their potential into fuller play."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They have control over their life and work schedules."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They feel proud of being outstanding problem solvers."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What have businesses come to recognize now?A)Who is capable of solving problems with ease.",
+                "stem": "What have businesses come to recognize now?",
                 "answer": "C",
-                "explanation": "选 C。P4Most important, there is a growing recognition that people who balance work and play, and who work at what they are passionate about, are more focused and productive, delivering greater value to their clients. 最重要的是，人们越来越认识到：那些工作与休息平衡、并从事自己所热爱之事的人…"
+                "explanation": "选 C。P4Most important, there is a growing recognition that people who balance work and play, and who work at what they are passionate about, are more focused and productive, delivering greater value to their clients. 最重要的是，人们越来越认识到：那些工作与休息平衡、并从事自己所热爱之事的人…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Who is capable of solving problems with ease."
+                  },
+                  {
+                    "key": "B",
+                    "text": "How people can be more focused and productive."
+                  },
+                  {
+                    "key": "C",
+                    "text": "What kind of people can contribute more to them."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Why some people are more passionate about work."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "What does the author say about the gig economy?A)It may force companies to reform their business practice.",
+                "stem": "What does the author say about the gig economy?",
                 "answer": "D",
-                "explanation": "选 D。P6Perhaps more important, as the global economy continues to be disrupted by technology and other massive change, the gig economy will itself become an engine of economic and social transformation. 或许更重要的是，随着全球经济持续被技术和其他剧变所颠覆，零工经济本身将成为经济与社会变革的引擎。"
+                "explanation": "选 D。P6Perhaps more important, as the global economy continues to be disrupted by technology and other massive change, the gig economy will itself become an engine of economic and social transformation. 或许更重要的是，随着全球经济持续被技术和其他剧变所颠覆，零工经济本身将成为经济与社会变革的引擎。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It may force companies to reform their business practice."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It may soon replace the traditional economic model."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It will drive technological progress on a global scale."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It will bring about radical economic and social changes."
+                  }
+                ]
               }
             ]
           }
@@ -60692,7 +66092,7 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
           }
         ]
       },
-      {
+            {
         "id": "reading-2021-06-1",
         "type": "reading",
         "title": "Part III Section C 仔细阅读",
@@ -60705,33 +66105,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 46,
-                "stem": "What does the author say about educators?A)They seek advice from technology companies to achieve teaching goals.",
+                "stem": "What does the author say about educators?",
                 "answer": "C",
-                "explanation": "选 C。P1Teachers want to prepare students for a successful future. 教师想让学生为成功的未来做好准备。"
+                "explanation": "选 C。P1Teachers want to prepare students for a successful future. 教师想让学生为成功的未来做好准备。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "They seek advice from technology companies to achieve teaching goals."
+                  },
+                  {
+                    "key": "B",
+                    "text": "They have been successful in preparing the workforce for companies."
+                  },
+                  {
+                    "key": "C",
+                    "text": "They help students acquire the skills needed for their future success."
+                  },
+                  {
+                    "key": "D",
+                    "text": "They partner with technology companies to enhance teaching efficiency."
+                  }
+                ]
               },
               {
                 "id": 47,
-                "stem": "How can educators better develop students' STEM skills, according to the author?A)By blending them with traditional, stimulating activities.",
+                "stem": "How can educators better develop students' STEM skills, according to the author?",
                 "answer": "A",
-                "explanation": "选 A。P2Focusing on STEM skills is important, but the reality is that STEM skills are enhanced and more relevant when combined with traditional, hands-on creative activities. 关注 STEM 技能很重要，但事实是，只有当 STEM 技能与传统的、动手的创造性活动相结合时，这些技能才能得到强化，也才更具相关性。"
+                "explanation": "选 A。P2Focusing on STEM skills is important, but the reality is that STEM skills are enhanced and more relevant when combined with traditional, hands-on creative activities. 关注 STEM 技能很重要，但事实是，只有当 STEM 技能与传统的、动手的创造性活动相结合时，这些技能才能得到强化，也才更具相关性。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "By blending them with traditional, stimulating activities."
+                  },
+                  {
+                    "key": "B",
+                    "text": "By inviting business leaders to help design curriculums."
+                  },
+                  {
+                    "key": "C",
+                    "text": "By enhancing students' ability to think in a critical way."
+                  },
+                  {
+                    "key": "D",
+                    "text": "By showing students the best way to learn is through play."
+                  }
+                ]
               },
               {
                 "id": 48,
-                "stem": "How do children acquire the skills needed for the 21st century?A)By engaging in activities involving specific technologies.",
+                "stem": "How do children acquire the skills needed for the 21st century?",
                 "answer": "B",
-                "explanation": "选 B。P3These are skills acquired when kids tinker. 这些（21 世纪所需的）能力，正是孩子们在鼓捣小玩意时获得的。"
+                "explanation": "选 B。P3These are skills acquired when kids tinker. 这些（21 世纪所需的）能力，正是孩子们在鼓捣小玩意时获得的。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "By engaging in activities involving specific technologies."
+                  },
+                  {
+                    "key": "B",
+                    "text": "By playing with things to solve problems on their own."
+                  },
+                  {
+                    "key": "C",
+                    "text": "By familiarizing themselves with high-tech gadgets."
+                  },
+                  {
+                    "key": "D",
+                    "text": "By mastering basic principles through teamwork."
+                  }
+                ]
               },
               {
                 "id": 49,
-                "stem": "What can we do to help children learn the basics of math and geometry?A)Stimulate their interest as early as possible.",
+                "stem": "What can we do to help children learn the basics of math and geometry?",
                 "answer": "C",
-                "explanation": "选 C。P4This type of play—especially with building blocks—helps children discover and develop key principles in math and geometry. 这种游戏——尤其是搭积木——能帮助孩子发现并掌握数学和几何中的关键原理。"
+                "explanation": "选 C。P4This type of play—especially with building blocks—helps children discover and develop key principles in math and geometry. 这种游戏——尤其是搭积木——能帮助孩子发现并掌握数学和几何中的关键原理。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Stimulate their interest as early as possible."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Spend more time playing games with them."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Encourage them to make things with hands."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Allow them to tinker freely with calculators."
+                  }
+                ]
               },
               {
                 "id": 50,
-                "stem": "What does the author advise disadvantaged schools and communities to do?A)Train students to be makers to meet future market demands.",
+                "stem": "What does the author advise disadvantaged schools and communities to do?",
                 "answer": "B",
-                "explanation": "选 B。P5This is especially important for under-resourced schools and communities. Taking whatever materials are handy and tinkering with them is a simple way to engage those important \"maker\" skills. 这一点对于资源匮乏的学校和社区尤为重要。拿手边任何能找到的材料动手鼓捣，就是激发这些重要「制造者」能力的一种简…"
+                "explanation": "选 B。P5This is especially important for under-resourced schools and communities. Taking whatever materials are handy and tinkering with them is a simple way to engage those important \"maker\" skills. 这一点对于资源匮乏的学校和社区尤为重要。拿手边任何能找到的材料动手鼓捣，就是激发这些重要「制造者」能力的一种简…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Train students to be makers to meet future market demands."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Develop students' creative skills with the resources available."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Engage students with challenging tasks to foster their creativity."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Work together with companies to improve their teaching facilities."
+                  }
+                ]
               }
             ]
           },
@@ -60741,33 +66231,123 @@ The idea that food may be addictive after "heavy" use by some individuals is a [
             "questions": [
               {
                 "id": 51,
-                "stem": "What does the author say about working in IT?A)It is envied by many.",
+                "stem": "What does the author say about working in IT?",
                 "answer": "B",
-                "explanation": "选 B。P1Being an information technology, or IT, worker is not a job I envy. 成为一名信息技术（即 IT）工作者，不是一份我会羡慕的工作。"
+                "explanation": "选 B。P1Being an information technology, or IT, worker is not a job I envy. 成为一名信息技术（即 IT）工作者，不是一份我会羡慕的工作。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "It is envied by many."
+                  },
+                  {
+                    "key": "B",
+                    "text": "It does not appeal to him."
+                  },
+                  {
+                    "key": "C",
+                    "text": "It is financially rewarding."
+                  },
+                  {
+                    "key": "D",
+                    "text": "It does not match his abilities."
+                  }
+                ]
               },
               {
                 "id": 52,
-                "stem": "What is the finding of a recent survey on employees who have a job reliant on IT support?A)IT helps boost productivity.",
+                "stem": "What is the finding of a recent survey on employees who have a job reliant on IT support?",
                 "answer": "C",
-                "explanation": "选 C。P2According to a recent survey, employees who have a job reliant on IT support consider IT a major source of job dissatisfaction. 根据一项最新调查，工作依赖 IT 支持的员工把 IT 视为工作不满的主要来源。"
+                "explanation": "选 C。P2According to a recent survey, employees who have a job reliant on IT support consider IT a major source of job dissatisfaction. 根据一项最新调查，工作依赖 IT 支持的员工把 IT 视为工作不满的主要来源。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "IT helps boost productivity."
+                  },
+                  {
+                    "key": "B",
+                    "text": "IT helps improve quality control."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Many employees are deeply frustrated by IT."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Most employees rely heavily on IT in their work."
+                  }
+                ]
               },
               {
                 "id": 53,
-                "stem": "What is said to happen when IT is functioning properly?A)There is a big boost in employees' work efficiency.",
+                "stem": "What is said to happen when IT is functioning properly?",
                 "answer": "D",
-                "explanation": "选 D。P3When IT is operating as it should, employee self-confidence swells. 当 IT 像它本应那样运转时，员工的自信心便会膨胀。"
+                "explanation": "选 D。P3When IT is operating as it should, employee self-confidence swells. 当 IT 像它本应那样运转时，员工的自信心便会膨胀。",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "There is a big boost in employees' work efficiency."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Employees become more dependent on machines."
+                  },
+                  {
+                    "key": "C",
+                    "text": "There are no longer any boring or repetitive tasks."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Employees become more confident in their work."
+                  }
+                ]
               },
               {
                 "id": 54,
-                "stem": "What should business leaders do before implementing new IT initiatives?A)Consider the various expectations of their customers.",
+                "stem": "What should business leaders do before implementing new IT initiatives?",
                 "answer": "D",
-                "explanation": "选 D。P4Which is why managers should appreciate just how influential the IT user experience is to their employees, and exert substantial effort in ensuring their IT team eliminates programming errors and application crashes. 正因如此，管理者应当意识到 IT 用户体验对员工有多大影响，…"
+                "explanation": "选 D。P4Which is why managers should appreciate just how influential the IT user experience is to their employees, and exert substantial effort in ensuring their IT team eliminates programming errors and application crashes. 正因如此，管理者应当意识到 IT 用户体验对员工有多大影响，…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "Consider the various expectations of their customers."
+                  },
+                  {
+                    "key": "B",
+                    "text": "Draw up a list of the efficiencies to be promised."
+                  },
+                  {
+                    "key": "C",
+                    "text": "Assess the swollen cost of training the employees."
+                  },
+                  {
+                    "key": "D",
+                    "text": "Think about the possible effects on their employees."
+                  }
+                ]
               },
               {
                 "id": 55,
-                "stem": "How can a business help improve its employees' experience in using IT?A)By designing systems that suit their needs.",
+                "stem": "How can a business help improve its employees' experience in using IT?",
                 "answer": "A",
-                "explanation": "选 A。P5Therefore, businesses need to set up their IT infrastructure so that it is designed to fit in with their employees' work, rather than adjust their work to fit in with the company's IT limitations. 因此，企业需要这样搭建其 IT 基础设施：使其设计去适配员工的工作，而不是让员工调整工作去迁就公司的…"
+                "explanation": "选 A。P5Therefore, businesses need to set up their IT infrastructure so that it is designed to fit in with their employees' work, rather than adjust their work to fit in with the company's IT limitations. 因此，企业需要这样搭建其 IT 基础设施：使其设计去适配员工的工作，而不是让员工调整工作去迁就公司的…",
+                "options": [
+                  {
+                    "key": "A",
+                    "text": "By designing systems that suit their needs."
+                  },
+                  {
+                    "key": "B",
+                    "text": "By ensuring that their mental health is sound."
+                  },
+                  {
+                    "key": "C",
+                    "text": "By adjusting their work to suit the IT system."
+                  },
+                  {
+                    "key": "D",
+                    "text": "By offering them regular in-service training."
+                  }
+                ]
               }
             ]
           }
